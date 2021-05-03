@@ -5,12 +5,13 @@ import time
 import shutil
 import requests
 import datetime as dt
+from collections import OrderedDict
 
 def main():
     url = 'https://www.trackingthepros.com/d/list_players?filter_online=1'
     r = requests.get(url)
     data = json.loads(r.content)
-    group = dict()
+    group = OrderedDict()
     for d in data['data']:
         name = d['name']
         name = re.search('\/\'>(.*)<', name).group(1)
@@ -19,6 +20,8 @@ def main():
         tmp['players'].append(name)
         tmp['online'] = d['onlineNum']
         group[gid] = tmp
+
+    group = OrderedDict(sorted(group.items(), key=lambda x: x[1]['online']))
 
     with open('spec.tmp', 'w', encoding='UTF-8') as f:
         ts = dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
