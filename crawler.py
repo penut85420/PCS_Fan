@@ -31,11 +31,13 @@ def main():
             players_str = ', '.join(sorted(group[gid]['players']))
             f.write(f'{gid} {group[gid]["online"]:3d}m {players_str}\n')
             players_str = players_str.lower()
+            flag = False
             for name in sys.argv[1:]:
                 if name.lower() in players_str:
                     print(f'Found {name}!')
-                    f.write(f'{spec(gid)}\n')
-                    break
+                    flag = True
+            if flag:
+                f.write(f'{spec(gid)}\n')
 
     shutil.move('spec.tmp', 'spec.txt')
 
@@ -47,4 +49,4 @@ def spec(gid):
 if __name__ == '__main__':
     while True:
         main()
-        time.sleep(180)
+        time.sleep(60)
