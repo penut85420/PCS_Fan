@@ -19,6 +19,8 @@
     + Ex: `python manual.py 5247073787`
 + `champions.py` 從官方網站獲得英雄名稱的程式
 + `champions.json` 英雄的英中全名，協助減少字卡的錯字
++ `opgg_query.py` 從 OP.GG 自動更新 PSG 戰隊成員的牌位
++ `opgg_query.sh` 每隔 5 分鐘更新一次牌位資訊
 
 ## 配置
 ### 實況設定
@@ -32,6 +34,11 @@
     + `!id` - `MSI 選手 ID 對照表，感謝魚丸 https://reurl.cc/L0Gnjx`
     + `!rank` - `MSI 選手西歐服牌位查詢 https://www.trackingthepros.com/bootcamp`
 + Spam Protection 全部 Disable
+
+### Banner LOGO
++ [LOGO 產生器](https://cooltext.com/Edit-Logo?LogoId=3831589600)
++ 產生出來的 LOGO 長寬會不同，要用其他圖片編輯器微調
+    + [Photopea](https://www.photopea.com/)
 
 ## 聯絡資訊
 + PTT 可以私信我 penut85420

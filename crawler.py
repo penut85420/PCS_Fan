@@ -47,6 +47,4 @@ def spec(gid):
     return r.text[45:]
 
 if __name__ == '__main__':
-    while True:
-        main()
-        time.sleep(60)
+    main()

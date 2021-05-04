@@ -1,0 +1,48 @@
+<html>
+    <head>
+        <style>
+            body {
+                background-color: black;
+                padding: 0;
+            }
+            * {
+                font-family: 'Noto Sans TC';
+                padding: 0;
+            }
+            #players {
+                width: 100%;
+                color: white;
+                margin: 0;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                text-align: center;
+            }
+            td, caption {
+                color: white;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+            caption {
+                margin-bottom: 10px;
+            }
+            #list {
+                margin-top: 10px;
+                margin-bottom: 10px;
+                padding-left: 50px;
+                text-align: left;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="players">
+            <div id="list">
+                <table>
+                    <caption>【PSG 成員牌位】</caption>
+                    [@@RANK@@]
+                </table>
+            </div>
+        </div>
+    </body>
+</html>
