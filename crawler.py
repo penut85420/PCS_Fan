@@ -29,7 +29,7 @@ def main():
         print(f'Last Updated: {ts}')
         for gid in group:
             players_str = ', '.join(sorted(group[gid]['players']))
-            f.write(f'{gid} {group[gid]["online"]:3d}m {players_str}\n')
+            f.write(f' {gid} {group[gid]["online"]:3d}m {players_str}\n')
             players_str = players_str.lower()
             flag = False
             for name in sys.argv[1:]:

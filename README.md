@@ -19,8 +19,7 @@
     + Ex: `python manual.py 5247073787`
 + `champions.py` 從官方網站獲得英雄名稱的程式
 + `champions.json` 英雄的英中全名，協助減少字卡的錯字
-+ `opgg_query.py` 從 OP.GG 自動更新 PSG 戰隊成員的牌位
-+ `opgg_query.sh` 每隔 5 分鐘更新一次牌位資訊
++ `opgg_query.py` 自動從 OP.GG 更新 PSG 戰隊成員的牌位
 
 ## 配置
 ### 實況設定
