@@ -17,6 +17,8 @@
 + `crawler.sh` 執行爬蟲程式的範例指令
 + `manual.py` 將 Game ID 做為參數輸入可以獲得觀戰指令
     + Ex: `python manual.py 5247073787`
++ `champions.py` 從官方網站獲得英雄名稱的程式
++ `champions.json` 英雄的英中全名，協助減少字卡的錯字
 
 ## 配置
 ### 實況設定
