@@ -1,0 +1,15 @@
+{
+    "Top": "TOP",
+    "Jungle": "JG",
+    "Mid": "MID",
+    "ADC": "AD",
+    "Support": "SUP",
+    "Top (Sub)": "TOPs",
+    "Jungle (Sub)": "JGs",
+    "Mid (Sub)": "MIDs",
+    "Support (Sub)": "SUPs",
+    "ADC (Sub)": "ADs",
+    "Sub (Sub)": "Sub",
+    "Sub": "Sub",
+    "None": ""
+}

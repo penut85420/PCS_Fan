@@ -169,7 +169,7 @@
         },
         "scripts-tool": []
     },
-    "name": "無標題",
+    "name": "TrackingThePCS",
     "preview_locked": false,
     "quick_transitions": [
         {
@@ -231,7 +231,7 @@
             "settings": {
                 "height": 117,
                 "is_local_file": true,
-                "local_file": "F:/Documents/Python/Iceland/timer.html",
+                "local_file": "F:/Documents/Python/Iceland/obs/timer.html",
                 "width": 307
             },
             "sync": 0,
@@ -254,7 +254,7 @@
             "mixers": 255,
             "monitoring_type": 0,
             "muted": false,
-            "name": "RANK",
+            "name": "牌位",
             "prev_ver": 436273153,
             "private_settings": {},
             "push-to-mute": false,
@@ -264,7 +264,8 @@
             "settings": {
                 "height": 235,
                 "is_local_file": true,
-                "local_file": "F:/Documents/Python/Iceland/rank.html",
+                "local_file": "F:/Documents/Python/Iceland/obs/rank.html",
+                "restart_when_active": true,
                 "width": 300
             },
             "sync": 0,
@@ -297,7 +298,7 @@
             "settings": {
                 "height": 235,
                 "is_local_file": true,
-                "local_file": "F:/Documents/Python/Iceland/players.html",
+                "local_file": "F:/Documents/Python/Iceland/obs/players.html",
                 "restart_when_active": false,
                 "width": 300
             },
@@ -316,7 +317,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "Overlay",
+            "name": "觀戰介面",
             "prev_ver": 436273153,
             "private_settings": {},
             "push-to-mute": false,
@@ -324,7 +325,7 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "file": "F:/Documents/Python/Iceland/Overlay_Final.png"
+                "file": "F:/Documents/Python/Iceland/imgs/Overlay_Final.png"
             },
             "sync": 0,
             "versioned_id": "image_source",
@@ -338,20 +339,32 @@
             "flags": 0,
             "hotkeys": {
                 "OBSBasic.SelectScene": [],
-                "libobs.hide_scene_item.LOL": [],
-                "libobs.hide_scene_item.NextGame": [],
-                "libobs.hide_scene_item.Overlay": [],
-                "libobs.hide_scene_item.RANK": [],
+                "libobs.hide_scene_item.AFK": [],
                 "libobs.hide_scene_item.投票": [],
                 "libobs.hide_scene_item.時間": [],
-                "libobs.hide_scene_item.選手": [],
-                "libobs.show_scene_item.LOL": [],
-                "libobs.show_scene_item.NextGame": [],
-                "libobs.show_scene_item.Overlay": [],
-                "libobs.show_scene_item.RANK": [],
+                "libobs.hide_scene_item.牌位": [],
+                "libobs.hide_scene_item.觀戰介面": [],
+                "libobs.hide_scene_item.請稍候": [],
+                "libobs.hide_scene_item.遊戲本體": [],
+                "libobs.hide_scene_item.選手": [
+                    {
+                        "control": true,
+                        "key": "OBS_KEY_F9"
+                    }
+                ],
+                "libobs.show_scene_item.AFK": [],
                 "libobs.show_scene_item.投票": [],
                 "libobs.show_scene_item.時間": [],
-                "libobs.show_scene_item.選手": []
+                "libobs.show_scene_item.牌位": [],
+                "libobs.show_scene_item.觀戰介面": [],
+                "libobs.show_scene_item.請稍候": [],
+                "libobs.show_scene_item.遊戲本體": [],
+                "libobs.show_scene_item.選手": [
+                    {
+                        "control": true,
+                        "key": "OBS_KEY_F9"
+                    }
+                ]
             },
             "id": "scene",
             "mixers": 0,
@@ -366,7 +379,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "custom_size": false,
-                "id_counter": 21,
+                "id_counter": 22,
                 "items": [
                     {
                         "align": 5,
@@ -383,10 +396,10 @@
                         "group_item_backup": false,
                         "id": 9,
                         "locked": true,
-                        "name": "NextGame",
+                        "name": "請稍候",
                         "pos": {
-                            "x": 602.0,
-                            "y": 502.0
+                            "x": 653.0,
+                            "y": 504.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -412,7 +425,7 @@
                         "group_item_backup": false,
                         "id": 5,
                         "locked": true,
-                        "name": "LOL",
+                        "name": "遊戲本體",
                         "pos": {
                             "x": 0.0,
                             "y": 0.0
@@ -441,7 +454,7 @@
                         "group_item_backup": false,
                         "id": 17,
                         "locked": true,
-                        "name": "Overlay",
+                        "name": "觀戰介面",
                         "pos": {
                             "x": 0.0,
                             "y": 0.0
@@ -469,7 +482,7 @@
                         "crop_top": 0,
                         "group_item_backup": false,
                         "id": 18,
-                        "locked": false,
+                        "locked": true,
                         "name": "選手",
                         "pos": {
                             "x": 1336.0,
@@ -499,7 +512,7 @@
                         "group_item_backup": false,
                         "id": 19,
                         "locked": true,
-                        "name": "RANK",
+                        "name": "牌位",
                         "pos": {
                             "x": 303.0,
                             "y": 845.0
@@ -560,7 +573,7 @@
                         "name": "投票",
                         "pos": {
                             "x": 0.0,
-                            "y": 803.0
+                            "y": 463.0
                         },
                         "private_settings": {},
                         "rot": 0.0,
@@ -570,6 +583,35 @@
                         },
                         "scale_filter": "disable",
                         "visible": true
+                    },
+                    {
+                        "align": 5,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "bounds_align": 0,
+                        "bounds_type": 0,
+                        "crop_bottom": 0,
+                        "crop_left": 0,
+                        "crop_right": 0,
+                        "crop_top": 0,
+                        "group_item_backup": false,
+                        "id": 22,
+                        "locked": false,
+                        "name": "AFK",
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "private_settings": {},
+                        "rot": 0.0,
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "scale_filter": "disable",
+                        "visible": false
                     }
                 ]
             },
@@ -591,7 +633,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "LOL",
+            "name": "遊戲本體",
             "prev_ver": 436273153,
             "private_settings": {},
             "push-to-mute": false,
@@ -617,7 +659,7 @@
             "mixers": 0,
             "monitoring_type": 0,
             "muted": false,
-            "name": "NextGame",
+            "name": "請稍候",
             "prev_ver": 436273153,
             "private_settings": {},
             "push-to-mute": false,
@@ -626,7 +668,7 @@
             "push-to-talk-delay": 0,
             "settings": {
                 "font": {
-                    "face": "微軟正黑體",
+                    "face": "Noto Sans Mono CJK TC Regular",
                     "flags": 0,
                     "size": 72,
                     "style": "Regular"
@@ -661,12 +703,45 @@
             "push-to-talk": false,
             "push-to-talk-delay": 0,
             "settings": {
-                "height": 160,
+                "height": 500,
                 "url": "https://streamlabs.com/widgets/poll/7ABE5141635D51D85925",
                 "width": 307
             },
             "sync": 0,
             "versioned_id": "browser_source",
+            "volume": 1.0
+        },
+        {
+            "balance": 0.5,
+            "deinterlace_field_order": 0,
+            "deinterlace_mode": 0,
+            "enabled": true,
+            "flags": 0,
+            "hotkeys": {},
+            "id": "text_gdiplus",
+            "mixers": 0,
+            "monitoring_type": 0,
+            "muted": false,
+            "name": "AFK",
+            "prev_ver": 436273153,
+            "private_settings": {},
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "settings": {
+                "font": {
+                    "face": "Noto Sans CJK TC Regular",
+                    "flags": 0,
+                    "size": 28,
+                    "style": "Regular"
+                },
+                "outline": true,
+                "outline_color": 4278190080,
+                "text": "主播暫離，晚點回來"
+            },
+            "sync": 0,
+            "versioned_id": "text_gdiplus_v2",
             "volume": 1.0
         }
     ],

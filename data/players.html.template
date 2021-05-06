@@ -1,0 +1,45 @@
+<html>
+    <head>
+        <meta http-equiv="refresh" content="5">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+        <style>
+            body {
+                background-color: black;
+            }
+            * {
+                font-family: 'Noto Sans TC', 微軟正黑體, sans-serif;
+            }
+            #players {
+                height: 100%;
+                width: 100%;
+                display:flex;align-items:center;
+            }
+            table {
+                margin: 0 auto;
+            }
+            caption {
+                color: white;
+                margin-bottom: 5px;
+            }
+            .squad {
+                margin: 0 auto;
+                text-align: left;
+            }
+            .blue {
+                color: skyblue;
+            }
+            .red {
+                color: pink;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="players">
+            <table>
+                <caption>【本場選手】</caption>
+                [@@PLAYERS@@]
+            </table>
+        </div>
+    </body>
+</html>

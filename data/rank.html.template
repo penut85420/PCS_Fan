@@ -1,6 +1,8 @@
 <html>
     <head>
         <meta http-equiv="refresh" content="5">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
         <style>
             body {
                 background-color: black;
@@ -28,10 +30,14 @@
             caption {
                 margin-bottom: 10px;
             }
+            table {
+                margin: 0 auto;
+            }
             #list {
+                height: 100%;
+                width: 100%;
                 margin-top: 10px;
                 margin-bottom: 10px;
-                padding-left: 35px;
                 text-align: left;
             }
         </style>

@@ -1,0 +1,8132 @@
+{
+    "huni": {
+        "team": "TSM",
+        "name": "Huni",
+        "role": "Top"
+    },
+    "untara": {
+        "team": "",
+        "name": "Untara",
+        "role": "Top"
+    },
+    "blank": {
+        "team": "KT-Rolster",
+        "name": "Blank",
+        "role": "Jungle"
+    },
+    "peanut": {
+        "team": "Nongshim-RedForce",
+        "name": "Peanut",
+        "role": "Jungle"
+    },
+    "faker": {
+        "team": "T1",
+        "name": "Faker",
+        "role": "Mid"
+    },
+    "sky": {
+        "team": "RED-Canids",
+        "name": "Sky",
+        "role": "Mid"
+    },
+    "bang": {
+        "team": "Afreeca-Freecs",
+        "name": "Bang",
+        "role": "ADC"
+    },
+    "wolf": {
+        "team": "T1",
+        "name": "Wolf",
+        "role": "Support"
+    },
+    "cuvee": {
+        "team": "GenG",
+        "name": "CuVee",
+        "role": "None"
+    },
+    "ambition": {
+        "team": "GenG",
+        "name": "Ambition",
+        "role": "Jungle"
+    },
+    "haru": {
+        "team": "",
+        "name": "Haru",
+        "role": "Jungle"
+    },
+    "crown": {
+        "team": "",
+        "name": "Crown",
+        "role": "None"
+    },
+    "ruler": {
+        "team": "GenG",
+        "name": "Ruler",
+        "role": "ADC"
+    },
+    "stitch": {
+        "team": "",
+        "name": "Stitch",
+        "role": "ADC"
+    },
+    "corejj": {
+        "team": "Team-Liquid",
+        "name": "CoreJJ",
+        "role": "Support"
+    },
+    "wraith": {
+        "team": "",
+        "name": "Wraith",
+        "role": "None"
+    },
+    "khan": {
+        "team": "DWG-KIA",
+        "name": "Khan",
+        "role": "Top"
+    },
+    "rascal": {
+        "team": "GenG",
+        "name": "Rascal",
+        "role": "Top"
+    },
+    "cuzz": {
+        "team": "T1",
+        "name": "Cuzz",
+        "role": "Jungle"
+    },
+    "bdd": {
+        "team": "GenG",
+        "name": "Bdd",
+        "role": "Mid"
+    },
+    "justice": {
+        "team": "",
+        "name": "Justice",
+        "role": "Mid"
+    },
+    "pray": {
+        "team": "",
+        "name": "PraY",
+        "role": "ADC"
+    },
+    "hybrid": {
+        "team": "KT-Rolster",
+        "name": "HyBriD",
+        "role": "ADC"
+    },
+    "gorilla": {
+        "team": "",
+        "name": "GorillA",
+        "role": "Support"
+    },
+    "smeb": {
+        "team": "",
+        "name": "Smeb",
+        "role": "Top"
+    },
+    "score": {
+        "team": "",
+        "name": "Score",
+        "role": "Jungle"
+    },
+    "pawn": {
+        "team": "",
+        "name": "PawN",
+        "role": "Mid"
+    },
+    "deft": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Deft",
+        "role": "ADC"
+    },
+    "mata": {
+        "team": "",
+        "name": "Mata",
+        "role": "None"
+    },
+    "helper": {
+        "team": "",
+        "name": "Helper",
+        "role": "ADC"
+    },
+    "hachani": {
+        "team": "",
+        "name": "Hachani",
+        "role": "None"
+    },
+    "malrang": {
+        "team": "DWG-KIA",
+        "name": "Malrang",
+        "role": "Jungle"
+    },
+    "cepted": {
+        "team": "",
+        "name": "Cepted",
+        "role": "Mid"
+    },
+    "deul": {
+        "team": "",
+        "name": "Deul",
+        "role": "ADC"
+    },
+    "ella": {
+        "team": "Winners",
+        "name": "Ella",
+        "role": "None"
+    },
+    "ikssu": {
+        "team": "",
+        "name": "Ikssu",
+        "role": "Top"
+    },
+    "sohwan": {
+        "team": "",
+        "name": "SoHwan",
+        "role": "Top"
+    },
+    "raise": {
+        "team": "",
+        "name": "Raise",
+        "role": "Jungle"
+    },
+    "umti": {
+        "team": "Fredit-BRION",
+        "name": "UmTi",
+        "role": "Jungle"
+    },
+    "kuzan": {
+        "team": "",
+        "name": "Kuzan",
+        "role": "Mid"
+    },
+    "teddy": {
+        "team": "T1",
+        "name": "Teddy",
+        "role": "ADC"
+    },
+    "snowflower": {
+        "team": "",
+        "name": "SnowFlower",
+        "role": "Support"
+    },
+    "add": {
+        "team": "",
+        "name": "ADD",
+        "role": "Top"
+    },
+    "beyond": {
+        "team": "",
+        "name": "Beyond",
+        "role": "Mid (Sub)"
+    },
+    "ian": {
+        "team": "",
+        "name": "Ian",
+        "role": "Mid"
+    },
+    "maha": {
+        "team": "OZ-Gaming",
+        "name": "MaHa",
+        "role": "None"
+    },
+    "max": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Max",
+        "role": "None"
+    },
+    "mowgli": {
+        "team": "T1-Academy",
+        "name": "Mowgli",
+        "role": "Jungle"
+    },
+    "spirit": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Spirit",
+        "role": "None"
+    },
+    "kuro": {
+        "team": "",
+        "name": "Kuro",
+        "role": "Mid"
+    },
+    "kramer": {
+        "team": "LGD-Gaming",
+        "name": "Kramer",
+        "role": "ADC"
+    },
+    "tusin": {
+        "team": "",
+        "name": "TusiN",
+        "role": "Support"
+    },
+    "crazy": {
+        "team": "",
+        "name": "Crazy",
+        "role": "Top"
+    },
+    "part": {
+        "team": "",
+        "name": "Part",
+        "role": "Top"
+    },
+    "bless": {
+        "team": "",
+        "name": "Bless",
+        "role": "Jungle"
+    },
+    "tempt": {
+        "team": "",
+        "name": "Tempt",
+        "role": "Mid"
+    },
+    "ghost": {
+        "team": "DWG-KIA",
+        "name": "Ghost",
+        "role": "ADC"
+    },
+    "totoro": {
+        "team": "",
+        "name": "Totoro",
+        "role": "Support"
+    },
+    "lindarang": {
+        "team": "",
+        "name": "Lindarang",
+        "role": "Top"
+    },
+    "shy": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Shy",
+        "role": "Top"
+    },
+    "mightybear": {
+        "team": "",
+        "name": "Mightybear",
+        "role": "Jungle"
+    },
+    "seonghwan": {
+        "team": "",
+        "name": "SeongHwan",
+        "role": "Jungle"
+    },
+    "mickey": {
+        "team": "",
+        "name": "Mickey",
+        "role": "Mid"
+    },
+    "sangyoon": {
+        "team": "",
+        "name": "Sangyoon",
+        "role": "ADC"
+    },
+    "key": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Key",
+        "role": "None"
+    },
+    "impact": {
+        "team": "Evil-Geniuses",
+        "name": "Impact",
+        "role": "Top"
+    },
+    "rey": {
+        "team": "",
+        "name": "Rey",
+        "role": "Top"
+    },
+    "contractz": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Contractz",
+        "role": "Jungle"
+    },
+    "jensen": {
+        "team": "Team-Liquid",
+        "name": "Jensen",
+        "role": "Mid"
+    },
+    "sneaky": {
+        "team": "",
+        "name": "Sneaky",
+        "role": "None"
+    },
+    "smoothie": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Smoothie",
+        "role": "Support"
+    },
+    "westrice": {
+        "team": "",
+        "name": "Westrice",
+        "role": "Top"
+    },
+    "bunny-fufuu": {
+        "team": "",
+        "name": "Bunny-FuFuu",
+        "role": "Support"
+    },
+    "darshan": {
+        "team": "Cloud9",
+        "name": "Darshan",
+        "role": "Sub"
+    },
+    "dardoch": {
+        "team": "Team-Dignitas",
+        "name": "Dardoch",
+        "role": "Jungle"
+    },
+    "huhi": {
+        "team": "100-Thieves",
+        "name": "Huhi",
+        "role": "Support"
+    },
+    "stixxay": {
+        "team": "Golden-Guardians",
+        "name": "Stixxay",
+        "role": "ADC"
+    },
+    "aphromoo": {
+        "team": "Team-Dignitas",
+        "name": "aphromoo",
+        "role": "Support"
+    },
+    "looper": {
+        "team": "",
+        "name": "Looper",
+        "role": "Top"
+    },
+    "akaadian": {
+        "team": "Team-Dignitas-Academy",
+        "name": "Akaadian",
+        "role": "Jungle"
+    },
+    "froggen": {
+        "team": "",
+        "name": "Froggen",
+        "role": "Mid"
+    },
+    "keith": {
+        "team": "Immortals-Academy",
+        "name": "KEITH",
+        "role": "ADC"
+    },
+    "gate": {
+        "team": "",
+        "name": "Gate",
+        "role": "Support"
+    },
+    "brandini": {
+        "team": "",
+        "name": "Brandini",
+        "role": "Top"
+    },
+    "armao": {
+        "team": "Team-Liquid-Academy",
+        "name": "Armao",
+        "role": "Jungle"
+    },
+    "damonte": {
+        "team": "100-Thieves",
+        "name": "Damonte",
+        "role": "Mid"
+    },
+    "mash": {
+        "team": "",
+        "name": "Mash",
+        "role": "ADC"
+    },
+    "balls": {
+        "team": "",
+        "name": "Balls",
+        "role": "Top"
+    },
+    "galen": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Galen",
+        "role": "None"
+    },
+    "hai": {
+        "team": "",
+        "name": "Hai",
+        "role": "Mid"
+    },
+    "altec": {
+        "team": "",
+        "name": "Altec",
+        "role": "ADC"
+    },
+    "wildturtle": {
+        "team": "Counter-Logic-Gaming",
+        "name": "WildTurtle",
+        "role": "ADC"
+    },
+    "lemonnation": {
+        "team": "",
+        "name": "LemonNation",
+        "role": "Support"
+    },
+    "bigfatlp": {
+        "team": "",
+        "name": "bigfatlp",
+        "role": "Mid"
+    },
+    "flame": {
+        "team": "",
+        "name": "Flame",
+        "role": "Top"
+    },
+    "xmithie": {
+        "team": "",
+        "name": "Xmithie",
+        "role": "Jungle"
+    },
+    "pobelter": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Pobelter",
+        "role": "Mid"
+    },
+    "cody-sun": {
+        "team": "TSM-Academy",
+        "name": "Cody-Sun",
+        "role": "ADC"
+    },
+    "olleh": {
+        "team": "",
+        "name": "Olleh",
+        "role": "Support"
+    },
+    "anda": {
+        "team": "No-Org",
+        "name": "AnDa",
+        "role": "Jungle"
+    },
+    "stunt": {
+        "team": "",
+        "name": "Stunt",
+        "role": "Support"
+    },
+    "zig": {
+        "team": "",
+        "name": "zig",
+        "role": "Top"
+    },
+    "inori": {
+        "team": "",
+        "name": "Inori",
+        "role": "Jungle"
+    },
+    "meteos": {
+        "team": "",
+        "name": "Meteos",
+        "role": "Jungle"
+    },
+    "ryu": {
+        "team": "",
+        "name": "Ryu",
+        "role": "Mid"
+    },
+    "arrow": {
+        "team": "",
+        "name": "Arrow",
+        "role": "ADC"
+    },
+    "shady": {
+        "team": "",
+        "name": "Shady",
+        "role": "Support"
+    },
+    "allorim": {
+        "team": "",
+        "name": "Allorim",
+        "role": "Top"
+    },
+    "mikeyeung": {
+        "team": "",
+        "name": "MikeYeung",
+        "role": "Jungle"
+    },
+    "ssumday": {
+        "team": "100-Thieves",
+        "name": "Ssumday",
+        "role": "Top"
+    },
+    "chaser": {
+        "team": "",
+        "name": "Chaser",
+        "role": "Jungle"
+    },
+    "shrimp": {
+        "team": "",
+        "name": "Shrimp",
+        "role": "Jungle"
+    },
+    "keane": {
+        "team": "",
+        "name": "Keane",
+        "role": "Mid"
+    },
+    "big": {
+        "team": "No-Org",
+        "name": "Big",
+        "role": "Support"
+    },
+    "xpecial": {
+        "team": "",
+        "name": "Xpecial",
+        "role": "Support"
+    },
+    "seraph": {
+        "team": "",
+        "name": "Seraph",
+        "role": "Top"
+    },
+    "lira": {
+        "team": "Afreeca-Freecs",
+        "name": "Lira",
+        "role": "None"
+    },
+    "nisqy": {
+        "team": "Fnatic",
+        "name": "Nisqy",
+        "role": "Mid"
+    },
+    "pirean": {
+        "team": "",
+        "name": "Pirean",
+        "role": "Mid"
+    },
+    "apollo": {
+        "team": "",
+        "name": "Apollo",
+        "role": "ADC"
+    },
+    "hakuho": {
+        "team": "Immortals",
+        "name": "Hakuho",
+        "role": "Support"
+    },
+    "alex-ich": {
+        "team": "",
+        "name": "Alex-Ich",
+        "role": "Mid"
+    },
+    "lourlo": {
+        "team": "Team-Dignitas-Academy",
+        "name": "Lourlo",
+        "role": "Top"
+    },
+    "reignover": {
+        "team": "",
+        "name": "Reignover",
+        "role": "None"
+    },
+    "goldenglue": {
+        "team": "100-Thieves-Academy",
+        "name": "Goldenglue",
+        "role": "None"
+    },
+    "piglet": {
+        "team": "",
+        "name": "Piglet",
+        "role": "ADC"
+    },
+    "matt-elento": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Matt-Elento",
+        "role": "None"
+    },
+    "arcsecond": {
+        "team": "",
+        "name": "Arcsecond",
+        "role": "Jungle"
+    },
+    "slooshi": {
+        "team": "",
+        "name": "Slooshi",
+        "role": "Mid"
+    },
+    "link": {
+        "team": "",
+        "name": "Link",
+        "role": "Mid"
+    },
+    "youngbin": {
+        "team": "",
+        "name": "Youngbin",
+        "role": "ADC"
+    },
+    "kwon": {
+        "team": "",
+        "name": "Kwon",
+        "role": "Support"
+    },
+    "hauntzer": {
+        "team": "TSM-Academy",
+        "name": "Hauntzer",
+        "role": "Top"
+    },
+    "svenskeren": {
+        "team": "Evil-Geniuses",
+        "name": "Svenskeren",
+        "role": "Jungle"
+    },
+    "bjergsen": {
+        "team": "TSM",
+        "name": "Bjergsen",
+        "role": "None"
+    },
+    "doublelift": {
+        "team": "",
+        "name": "Doublelift",
+        "role": "ADC"
+    },
+    "biofrost": {
+        "team": "",
+        "name": "Biofrost",
+        "role": "Support"
+    },
+    "soaz": {
+        "team": "LDLC-OL",
+        "name": "sOAZ",
+        "role": "None"
+    },
+    "broxah": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Broxah",
+        "role": "Jungle"
+    },
+    "caps": {
+        "team": "G2-Esports",
+        "name": "Caps",
+        "role": "Mid"
+    },
+    "rekkles": {
+        "team": "G2-Esports",
+        "name": "Rekkles",
+        "role": "ADC"
+    },
+    "jesiz": {
+        "team": "",
+        "name": "Jesiz",
+        "role": "None"
+    },
+    "amazing": {
+        "team": "Misfits",
+        "name": "Amazing",
+        "role": "None"
+    },
+    "mrrallez": {
+        "team": "",
+        "name": "MrRalleZ",
+        "role": "ADC"
+    },
+    "expect": {
+        "team": "",
+        "name": "Expect",
+        "role": "Top"
+    },
+    "trick": {
+        "team": "",
+        "name": "Trick",
+        "role": "Jungle"
+    },
+    "perkz": {
+        "team": "Cloud9",
+        "name": "PerkZ",
+        "role": "Mid"
+    },
+    "zven": {
+        "team": "Cloud9",
+        "name": "Zven",
+        "role": "ADC"
+    },
+    "mithy": {
+        "team": "Cloud9",
+        "name": "mithy",
+        "role": "None"
+    },
+    "loulex": {
+        "team": "",
+        "name": "loulex",
+        "role": "Jungle"
+    },
+    "odoamne": {
+        "team": "Rogue",
+        "name": "Odoamne",
+        "role": "Top"
+    },
+    "jankos": {
+        "team": "G2-Esports",
+        "name": "Jankos",
+        "role": "Jungle"
+    },
+    "febiven": {
+        "team": "Fnatic-Rising",
+        "name": "Febiven",
+        "role": "Mid"
+    },
+    "nuclear": {
+        "team": "DWG-KIA",
+        "name": "Nuclear",
+        "role": "None"
+    },
+    "alphari": {
+        "team": "Team-Liquid",
+        "name": "Alphari",
+        "role": "Top"
+    },
+    "maxlore": {
+        "team": "Movistar-Riders",
+        "name": "Maxlore",
+        "role": "Jungle"
+    },
+    "powerofevil": {
+        "team": "TSM",
+        "name": "PowerOfEvil",
+        "role": "Mid"
+    },
+    "hans-sama": {
+        "team": "Rogue",
+        "name": "Hans-sama",
+        "role": "ADC"
+    },
+    "ignar": {
+        "team": "Evil-Geniuses",
+        "name": "IgNar",
+        "role": "Support"
+    },
+    "jisu": {
+        "team": "",
+        "name": "Jisu",
+        "role": "Top"
+    },
+    "dreams": {
+        "team": "FlyQuest-Academy",
+        "name": "Dreams",
+        "role": "Support"
+    },
+    "vizicsacsi": {
+        "team": "",
+        "name": "Vizicsacsi",
+        "role": "Top"
+    },
+    "xerxe": {
+        "team": "Immortals",
+        "name": "Xerxe",
+        "role": "Jungle"
+    },
+    "exile": {
+        "team": "",
+        "name": "Exile",
+        "role": "Mid"
+    },
+    "samux": {
+        "team": "",
+        "name": "Samux",
+        "role": "ADC"
+    },
+    "hylissang": {
+        "team": "Fnatic",
+        "name": "Hylissang",
+        "role": "Support"
+    },
+    "cabochard": {
+        "team": "",
+        "name": "Cabochard",
+        "role": "Top"
+    },
+    "nukeduck": {
+        "team": "",
+        "name": "Nukeduck",
+        "role": "Mid"
+    },
+    "steeelback": {
+        "team": "",
+        "name": "Steeelback",
+        "role": "Support"
+    },
+    "vander": {
+        "team": "Misfits",
+        "name": "VandeR",
+        "role": "Support"
+    },
+    "betsy": {
+        "team": "",
+        "name": "Betsy",
+        "role": "Mid"
+    },
+    "hjarnan": {
+        "team": "",
+        "name": "Hjarnan",
+        "role": "ADC"
+    },
+    "wadid": {
+        "team": "All-Knights",
+        "name": "Wadid",
+        "role": "Support"
+    },
+    "wunder": {
+        "team": "G2-Esports",
+        "name": "Wunder",
+        "role": "Top"
+    },
+    "chres": {
+        "team": "AGO-ROGUE",
+        "name": "Chres",
+        "role": "Mid"
+    },
+    "kobbe": {
+        "team": "Misfits",
+        "name": "Kobbe",
+        "role": "ADC"
+    },
+    "mikyx": {
+        "team": "G2-Esports",
+        "name": "Mikyx",
+        "role": "Support"
+    },
+    "profit": {
+        "team": "",
+        "name": "Profit",
+        "role": "Top"
+    },
+    "shook": {
+        "team": "",
+        "name": "Shook",
+        "role": "Jungle"
+    },
+    "nagne": {
+        "team": "",
+        "name": "Nagne",
+        "role": "Mid"
+    },
+    "heaq": {
+        "team": "",
+        "name": "HeaQ",
+        "role": "ADC"
+    },
+    "adrian": {
+        "team": "",
+        "name": "Adrian",
+        "role": "Support"
+    },
+    "swifte": {
+        "team": "",
+        "name": "Swifte",
+        "role": "Support"
+    },
+    "kikis": {
+        "team": "",
+        "name": "Kikis",
+        "role": "Jungle"
+    },
+    "lava": {
+        "team": "Fredit-BRION",
+        "name": "Lava",
+        "role": "Mid"
+    },
+    "crow": {
+        "team": "",
+        "name": "Crow",
+        "role": "Mid"
+    },
+    "minerva": {
+        "team": "",
+        "name": "Minerva",
+        "role": "Jungle"
+    },
+    "tinowns": {
+        "team": "paiN-Gaming",
+        "name": "Tinowns",
+        "role": "Mid"
+    },
+    "pbo": {
+        "team": "Cruzeiro-eSports",
+        "name": "pbO",
+        "role": "ADC"
+    },
+    "wos": {
+        "team": "Vorax",
+        "name": "Wos",
+        "role": "Support"
+    },
+    "ayel": {
+        "team": "",
+        "name": "Ayel",
+        "role": "Top"
+    },
+    "turtle": {
+        "team": "Vivo-Keyd",
+        "name": "Turtle",
+        "role": "None"
+    },
+    "envy": {
+        "team": "INTZ-e-Sports",
+        "name": "Envy",
+        "role": "Mid"
+    },
+    "micao": {
+        "team": "INTZ-e-Sports",
+        "name": "micaO",
+        "role": "ADC"
+    },
+    "jockster": {
+        "team": "",
+        "name": "Jockster",
+        "role": "Support"
+    },
+    "robo": {
+        "team": "paiN-Gaming",
+        "name": "Robo",
+        "role": "Top"
+    },
+    "nappon": {
+        "team": "RED-Canids",
+        "name": "Nappon",
+        "role": "Jungle"
+    },
+    "tockers": {
+        "team": "",
+        "name": "Tockers",
+        "role": "Mid"
+    },
+    "brtt": {
+        "team": "paiN-Gaming",
+        "name": "brTT",
+        "role": "ADC"
+    },
+    "dioud": {
+        "team": "",
+        "name": "Dioud",
+        "role": "Support"
+    },
+    "sacy": {
+        "team": "",
+        "name": "Sacy",
+        "role": "Support"
+    },
+    "vvvert": {
+        "team": "",
+        "name": "VVvert",
+        "role": "Top"
+    },
+    "brucer": {
+        "team": "",
+        "name": "Brucer",
+        "role": "Mid"
+    },
+    "absolut": {
+        "team": "Flamengo-eSports",
+        "name": "Absolut",
+        "role": "ADC"
+    },
+    "redbert": {
+        "team": "Flamengo-eSports",
+        "name": "RedBert",
+        "role": "Support"
+    },
+    "yang": {
+        "team": "",
+        "name": "Yang",
+        "role": "Top"
+    },
+    "revolta": {
+        "team": "INTZ-e-Sports",
+        "name": "Revolta",
+        "role": "Jungle"
+    },
+    "takeshi": {
+        "team": "",
+        "name": "takeshi",
+        "role": "Mid"
+    },
+    "esa": {
+        "team": "",
+        "name": "esA",
+        "role": "Support"
+    },
+    "zirigui": {
+        "team": "Rensga-Esports",
+        "name": "Zirigui",
+        "role": "Support"
+    },
+    "verfix": {
+        "team": "Keyd-Stars",
+        "name": "Verfix",
+        "role": "Support (Sub)"
+    },
+    "mylon": {
+        "team": "",
+        "name": "Mylon",
+        "role": "Top"
+    },
+    "tay": {
+        "team": "LOUD",
+        "name": "Tay",
+        "role": "Top"
+    },
+    "kami": {
+        "team": "",
+        "name": "Kami",
+        "role": "None"
+    },
+    "matsukaze": {
+        "team": "Vorax",
+        "name": "Matsukaze",
+        "role": "ADC"
+    },
+    "loop": {
+        "team": "",
+        "name": "Loop",
+        "role": "Support"
+    },
+    "b4dd": {
+        "team": "",
+        "name": "b4dd",
+        "role": "Top"
+    },
+    "ferchu": {
+        "team": "",
+        "name": "Ferchu",
+        "role": "Jungle (Sub)"
+    },
+    "krastyel": {
+        "team": "Vorax",
+        "name": "Krastyel",
+        "role": "Mid"
+    },
+    "dudstheboy": {
+        "team": "LOUD",
+        "name": "DudsTheBoy",
+        "role": "ADC"
+    },
+    "theusma": {
+        "team": "",
+        "name": "Theusma",
+        "role": "ADC (Sub)"
+    },
+    "ceos": {
+        "team": "LOUD",
+        "name": "Ceos",
+        "role": "Support"
+    },
+    "danagorn": {
+        "team": "",
+        "name": "Danagorn",
+        "role": "Jungle"
+    },
+    "ranger": {
+        "team": "Flamengo-eSports",
+        "name": "Ranger",
+        "role": "Jungle"
+    },
+    "zuao": {
+        "team": "INTZ-e-Sports",
+        "name": "Zuao",
+        "role": "Jungle"
+    },
+    "goku": {
+        "team": "Flamengo-eSports",
+        "name": "Goku",
+        "role": "Mid"
+    },
+    "luskka": {
+        "team": "",
+        "name": "LUSKKA",
+        "role": "ADC"
+    },
+    "professor": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Professor",
+        "role": "Support"
+    },
+    "omargod": {
+        "team": "",
+        "name": "OmarGod",
+        "role": "Jungle"
+    },
+    "aodi": {
+        "team": "Victory-Five",
+        "name": "Aodi",
+        "role": "Top"
+    },
+    "mouse": {
+        "team": "",
+        "name": "Mouse",
+        "role": "Top"
+    },
+    "clearlove": {
+        "team": "EDward-Gaming",
+        "name": "Clearlove",
+        "role": "Jungle"
+    },
+    "fireloli": {
+        "team": "",
+        "name": "Fireloli",
+        "role": "Jungle"
+    },
+    "scout": {
+        "team": "EDward-Gaming",
+        "name": "Scout",
+        "role": "Mid"
+    },
+    "meiko": {
+        "team": "EDward-Gaming",
+        "name": "Meiko",
+        "role": "Support"
+    },
+    "zet": {
+        "team": "",
+        "name": "Zet",
+        "role": "ADC"
+    },
+    "koro1": {
+        "team": "",
+        "name": "Koro1",
+        "role": "Top"
+    },
+    "letme": {
+        "team": "",
+        "name": "Letme",
+        "role": "Top"
+    },
+    "mlxg": {
+        "team": "",
+        "name": "Mlxg",
+        "role": "Jungle"
+    },
+    "xiaohu": {
+        "team": "Royal-Never-Give-Up",
+        "name": "xiaohu",
+        "role": "Top"
+    },
+    "uzi": {
+        "team": "",
+        "name": "Uzi",
+        "role": "ADC"
+    },
+    "wuxx": {
+        "team": "",
+        "name": "Wuxx",
+        "role": "ADC"
+    },
+    "y4": {
+        "team": "Victory-Five",
+        "name": "y4",
+        "role": "ADC"
+    },
+    "ming": {
+        "team": "Royal-Never-Give-Up",
+        "name": "ming",
+        "role": "Support"
+    },
+    "957": {
+        "team": "",
+        "name": "957",
+        "role": "Top"
+    },
+    "laozhou": {
+        "team": "",
+        "name": "LaoZhou",
+        "role": "Top"
+    },
+    "condi": {
+        "team": "",
+        "name": "Condi",
+        "role": "Jungle"
+    },
+    "xiye": {
+        "team": "JD-Gaming",
+        "name": "xiye",
+        "role": "Mid"
+    },
+    "zbb": {
+        "team": "V5-87",
+        "name": "ZBB",
+        "role": "Mid"
+    },
+    "conan": {
+        "team": "",
+        "name": "Conan",
+        "role": "Support"
+    },
+    "zero": {
+        "team": "",
+        "name": "Zero",
+        "role": "Support"
+    },
+    "ben": {
+        "team": "",
+        "name": "Ben",
+        "role": "Support"
+    },
+    "raison": {
+        "team": "",
+        "name": "Raison",
+        "role": "ADC"
+    },
+    "mystic": {
+        "team": "JD-Gaming",
+        "name": "Mystic",
+        "role": "ADC"
+    },
+    "mmd": {
+        "team": "",
+        "name": "MMD",
+        "role": "Top"
+    },
+    "karsa": {
+        "team": "Top-Esports",
+        "name": "Karsa",
+        "role": "Jungle"
+    },
+    "maple": {
+        "team": "PSG-Talon",
+        "name": "Maple",
+        "role": "Mid"
+    },
+    "betty": {
+        "team": "Rogue-Warriors",
+        "name": "Betty",
+        "role": "ADC"
+    },
+    "swordart": {
+        "team": "TSM",
+        "name": "SwordArt",
+        "role": "Support"
+    },
+    "godkwai": {
+        "team": "",
+        "name": "GodKwai",
+        "role": "Jungle"
+    },
+    "unified": {
+        "team": "PSG-Talon",
+        "name": "Unified",
+        "role": "ADC"
+    },
+    "kaiwing": {
+        "team": "PSG-Talon",
+        "name": "Kaiwing",
+        "role": "Support"
+    },
+    "gemini": {
+        "team": "Machi-E-Sports",
+        "name": "Gemini",
+        "role": "Jungle"
+    },
+    "mission": {
+        "team": "J-Team",
+        "name": "Mission",
+        "role": "Mid"
+    },
+    "mars": {
+        "team": "",
+        "name": "MarS",
+        "role": "Mid"
+    },
+    "riris": {
+        "team": "",
+        "name": "Riris",
+        "role": "Top"
+    },
+    "once": {
+        "team": "Burning-Core",
+        "name": "Once",
+        "role": "Jungle"
+    },
+    "ziv": {
+        "team": "Rogue-Warriors",
+        "name": "Ziv",
+        "role": "Top"
+    },
+    "mountain": {
+        "team": "",
+        "name": "Mountain",
+        "role": "None"
+    },
+    "westdoor": {
+        "team": "",
+        "name": "Westdoor",
+        "role": "Mid"
+    },
+    "chawy": {
+        "team": "Hong-Kong-Attitude",
+        "name": "Chawy",
+        "role": "Mid"
+    },
+    "greenie": {
+        "team": "",
+        "name": "Greenie",
+        "role": "ADC"
+    },
+    "archie": {
+        "team": "",
+        "name": "Archie",
+        "role": "Support"
+    },
+    "nevan": {
+        "team": "",
+        "name": "Nevan",
+        "role": "Top"
+    },
+    "levi": {
+        "team": "GAM-Esports",
+        "name": "Levi",
+        "role": "Jungle"
+    },
+    "optimus": {
+        "team": "",
+        "name": "Optimus",
+        "role": "Mid"
+    },
+    "noway": {
+        "team": "",
+        "name": "NoWay",
+        "role": "ADC"
+    },
+    "sya": {
+        "team": "",
+        "name": "Sya",
+        "role": "Jungle"
+    },
+    "thaldrin": {
+        "team": "",
+        "name": "Thaldrin",
+        "role": "None"
+    },
+    "padden": {
+        "team": "Galatasaray-Esports",
+        "name": "Padden",
+        "role": "ADC"
+    },
+    "japone": {
+        "team": "NASR-eSports-Turkey",
+        "name": "Japone",
+        "role": "Support"
+    },
+    "waena": {
+        "team": "Beşiktaş-e-Sports-Club",
+        "name": "WaenA",
+        "role": "Mid"
+    },
+    "un1tback": {
+        "team": "",
+        "name": "un1tback",
+        "role": "Support"
+    },
+    "frozen": {
+        "team": "",
+        "name": "Frozen",
+        "role": "None"
+    },
+    "move": {
+        "team": "",
+        "name": "Move",
+        "role": "Jungle"
+    },
+    "tussle": {
+        "team": "Fukuoka-SoftBank-Hawks-gaming",
+        "name": "Tussle",
+        "role": "Jungle"
+    },
+    "dara": {
+        "team": "",
+        "name": "Dara",
+        "role": "Support"
+    },
+    "evi": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Evi",
+        "role": "Top"
+    },
+    "ramune": {
+        "team": "Sengoku-Gaming",
+        "name": "Ramune",
+        "role": "Mid"
+    },
+    "yutorimoyashi": {
+        "team": "",
+        "name": "Yutorimoyashi",
+        "role": "ADC"
+    },
+    "pvpstejos": {
+        "team": "",
+        "name": "PvPStejos",
+        "role": "Jungle"
+    },
+    "diamondprox": {
+        "team": "",
+        "name": "Diamondprox",
+        "role": "Jungle"
+    },
+    "kira": {
+        "team": "",
+        "name": "Kira",
+        "role": "Top"
+    },
+    "blasting": {
+        "team": "",
+        "name": "Blasting",
+        "role": "ADC"
+    },
+    "edward": {
+        "team": "",
+        "name": "Edward",
+        "role": "Support"
+    },
+    "chippys": {
+        "team": "Avant-Gaming",
+        "name": "Chippys",
+        "role": "Top"
+    },
+    "shernfire": {
+        "team": "Cloud9-Academy",
+        "name": "Shernfire",
+        "role": "Jungle"
+    },
+    "phantiks": {
+        "team": "MAMMOTH",
+        "name": "Phantiks",
+        "role": "Top (Sub)"
+    },
+    "k1ng": {
+        "team": "Cloud9-Academy",
+        "name": "k1ng",
+        "role": "ADC"
+    },
+    "destiny": {
+        "team": "Immortals",
+        "name": "Destiny",
+        "role": "Support"
+    },
+    "rippii": {
+        "team": "",
+        "name": "Rippii",
+        "role": "Jungle"
+    },
+    "rookie": {
+        "team": "Invictus-Gaming",
+        "name": "Rookie",
+        "role": "Mid"
+    },
+    "west": {
+        "team": "LGD.Y",
+        "name": "West",
+        "role": "ADC"
+    },
+    "kiin": {
+        "team": "Afreeca-Freecs",
+        "name": "Kiin",
+        "role": "Top"
+    },
+    "roach": {
+        "team": "T1-Academy",
+        "name": "Roach",
+        "role": "Top"
+    },
+    "all-in": {
+        "team": "",
+        "name": "All-iN",
+        "role": "Mid"
+    },
+    "road": {
+        "team": "Gen.G-Academy",
+        "name": "Road",
+        "role": "Support"
+    },
+    "rush": {
+        "team": "",
+        "name": "Rush",
+        "role": "Jungle"
+    },
+    "licorice": {
+        "team": "FlyQuest",
+        "name": "Licorice",
+        "role": "Top"
+    },
+    "solo": {
+        "team": "",
+        "name": "Solo",
+        "role": "Top"
+    },
+    "fly": {
+        "team": "Afreeca-Freecs",
+        "name": "Fly",
+        "role": "Mid"
+    },
+    "deftly": {
+        "team": "Evil-Geniuses",
+        "name": "Deftly",
+        "role": "ADC"
+    },
+    "fenix": {
+        "team": "",
+        "name": "Fenix",
+        "role": "Mid"
+    },
+    "theshy": {
+        "team": "Invictus-Gaming",
+        "name": "TheShy",
+        "role": "Top"
+    },
+    "ggoong": {
+        "team": "GenG",
+        "name": "Ggoong",
+        "role": "None"
+    },
+    "leo": {
+        "team": "Afreeca-Freecs",
+        "name": "Leo",
+        "role": "ADC"
+    },
+    "aiming": {
+        "team": "Bilibili-Gaming",
+        "name": "Aiming",
+        "role": "ADC"
+    },
+    "yaharong": {
+        "team": "",
+        "name": "Yaharong",
+        "role": "Mid"
+    },
+    "wiz": {
+        "team": "",
+        "name": "Wiz",
+        "role": "Jungle"
+    },
+    "edge": {
+        "team": "",
+        "name": "Edge",
+        "role": "Mid"
+    },
+    "ss": {
+        "team": "",
+        "name": "SS",
+        "role": "ADC"
+    },
+    "secret": {
+        "team": "Rascal-Jester",
+        "name": "Secret",
+        "role": "Support"
+    },
+    "gilius": {
+        "team": "Schalke-04",
+        "name": "Gilius",
+        "role": "Jungle"
+    },
+    "jiizuke": {
+        "team": "Evil-Geniuses",
+        "name": "Jiizuke",
+        "role": "Mid"
+    },
+    "jactroll": {
+        "team": "Misfits-Premier",
+        "name": "Jactroll",
+        "role": "Support"
+    },
+    "ruin": {
+        "team": "",
+        "name": "Ruin",
+        "role": "Top"
+    },
+    "kasing": {
+        "team": "Movistar-Riders",
+        "name": "kaSing",
+        "role": "Support"
+    },
+    "upset": {
+        "team": "Fnatic",
+        "name": "Upset",
+        "role": "ADC"
+    },
+    "memento": {
+        "team": "Team-Vitality.Bee",
+        "name": "Memento",
+        "role": "Jungle"
+    },
+    "blanc": {
+        "team": "",
+        "name": "Blanc",
+        "role": "Mid"
+    },
+    "tore": {
+        "team": "exceL-Esports",
+        "name": "Tore",
+        "role": "Support"
+    },
+    "jaeger": {
+        "team": "",
+        "name": "Jaeger",
+        "role": "Top"
+    },
+    "selfie": {
+        "team": "",
+        "name": "Selfie",
+        "role": "Mid"
+    },
+    "patrik": {
+        "team": "exceL-Esports",
+        "name": "Patrik",
+        "role": "ADC"
+    },
+    "promisq": {
+        "team": "Astralis",
+        "name": "promisq",
+        "role": "Support"
+    },
+    "kold": {
+        "team": "Team-Liquid",
+        "name": "Kold",
+        "role": "None"
+    },
+    "blossom": {
+        "team": "",
+        "name": "Blossom",
+        "role": "Jungle"
+    },
+    "thal": {
+        "team": "",
+        "name": "Thal",
+        "role": "Top"
+    },
+    "ruby": {
+        "team": "",
+        "name": "Ruby",
+        "role": "Mid"
+    },
+    "zz1tai": {
+        "team": "",
+        "name": "Zz1tai",
+        "role": "Top"
+    },
+    "able": {
+        "team": "Bilibili-Gaming-Junior",
+        "name": "Able",
+        "role": "ADC"
+    },
+    "jelly": {
+        "team": "",
+        "name": "Jelly",
+        "role": "Support"
+    },
+    "nl": {
+        "team": "",
+        "name": "NL",
+        "role": "ADC"
+    },
+    "ares": {
+        "team": "DWG-KIA",
+        "name": "Ares",
+        "role": "None"
+    },
+    "imp": {
+        "team": "",
+        "name": "Imp",
+        "role": "ADC"
+    },
+    "jinoo": {
+        "team": "",
+        "name": "Jinoo",
+        "role": "Top"
+    },
+    "madlife": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Madlife",
+        "role": "None"
+    },
+    "fofo": {
+        "team": "Rare-Atom",
+        "name": "FoFo",
+        "role": "Mid"
+    },
+    "morning": {
+        "team": "",
+        "name": "Morning",
+        "role": "Jungle"
+    },
+    "dumbledoge": {
+        "team": "",
+        "name": "Dumbledoge",
+        "role": "Support"
+    },
+    "coco": {
+        "team": "",
+        "name": "Coco",
+        "role": "None"
+    },
+    "ucal": {
+        "team": "KT-Rolster",
+        "name": "Ucal",
+        "role": "Mid"
+    },
+    "swift": {
+        "team": "",
+        "name": "Swift",
+        "role": "Jungle"
+    },
+    "effort": {
+        "team": "Liiv-SANDBOX",
+        "name": "Effort",
+        "role": "Support"
+    },
+    "broken-blade": {
+        "team": "Schalke-04",
+        "name": "Broken-Blade",
+        "role": "Top"
+    },
+    "metaphor": {
+        "team": "",
+        "name": "Metaphor",
+        "role": "Jungle"
+    },
+    "v1per": {
+        "team": "No-Org",
+        "name": "V1per",
+        "role": "Top"
+    },
+    "kakao": {
+        "team": "",
+        "name": "KaKAO",
+        "role": "Jungle"
+    },
+    "dade": {
+        "team": "",
+        "name": "dade",
+        "role": "Mid"
+    },
+    "clid": {
+        "team": "GenG",
+        "name": "Clid",
+        "role": "Jungle"
+    },
+    "pilot": {
+        "team": "5-Ronin",
+        "name": "Pilot",
+        "role": "ADC"
+    },
+    "linsanity": {
+        "team": "",
+        "name": "Linsanity",
+        "role": "Mid"
+    },
+    "whyin": {
+        "team": "",
+        "name": "Whyin",
+        "role": "Support"
+    },
+    "fabfabulous": {
+        "team": "Dark-Passage",
+        "name": "fabFabulous",
+        "role": "Top"
+    },
+    "stomaged": {
+        "team": "",
+        "name": "Stomaged",
+        "role": "Jungle"
+    },
+    "gbm": {
+        "team": "T1",
+        "name": "GBM",
+        "role": "None"
+    },
+    "zeitnot": {
+        "team": "",
+        "name": "Zeitnot",
+        "role": "ADC"
+    },
+    "armut": {
+        "team": "MAD-Lions",
+        "name": "Armut",
+        "role": "Top"
+    },
+    "revanche": {
+        "team": "",
+        "name": "Revanche",
+        "role": "Support"
+    },
+    "shiauc": {
+        "team": "eStar",
+        "name": "ShiauC",
+        "role": "Support"
+    },
+    "doinb": {
+        "team": "FunPlus-Phoenix",
+        "name": "Doinb",
+        "role": "Mid"
+    },
+    "flawless": {
+        "team": "GenG",
+        "name": "Flawless",
+        "role": "Jungle"
+    },
+    "loken": {
+        "team": "JD-Gaming",
+        "name": "LokeN",
+        "role": "ADC"
+    },
+    "rest": {
+        "team": "J-Team",
+        "name": "Rest",
+        "role": "Top"
+    },
+    "wako": {
+        "team": "",
+        "name": "Wako",
+        "role": "ADC"
+    },
+    "ning": {
+        "team": "Invictus-Gaming",
+        "name": "Ning",
+        "role": "Jungle"
+    },
+    "alex": {
+        "team": "AHQ-e-Sports-Club",
+        "name": "Alex",
+        "role": "Jungle"
+    },
+    "koala": {
+        "team": "Machi-E-Sports",
+        "name": "Koala",
+        "role": "Support"
+    },
+    "moojin": {
+        "team": "V3-Esports",
+        "name": "Moojin",
+        "role": "Jungle"
+    },
+    "pk": {
+        "team": "",
+        "name": "PK",
+        "role": "Top"
+    },
+    "candy": {
+        "team": "",
+        "name": "Candy",
+        "role": "Mid"
+    },
+    "trace": {
+        "team": "",
+        "name": "TrAce",
+        "role": "None"
+    },
+    "hoit": {
+        "team": "T1-Academy",
+        "name": "Hoit",
+        "role": "Support"
+    },
+    "punch": {
+        "team": "",
+        "name": "Punch",
+        "role": "Jungle"
+    },
+    "showmaker": {
+        "team": "DWG-KIA",
+        "name": "ShowMaker",
+        "role": "Mid"
+    },
+    "luger": {
+        "team": "100-Thieves-Academy",
+        "name": "Luger",
+        "role": "ADC"
+    },
+    "deadly": {
+        "team": "BT-Excel",
+        "name": "Deadly",
+        "role": "ADC"
+    },
+    "bwipo": {
+        "team": "Fnatic",
+        "name": "Bwipo",
+        "role": "Top"
+    },
+    "rain": {
+        "team": "",
+        "name": "Rain",
+        "role": "ADC"
+    },
+    "rogu": {
+        "team": "",
+        "name": "Rogu",
+        "role": "Support"
+    },
+    "nomanz": {
+        "team": "Unicorns-of-Love",
+        "name": "Nomanz",
+        "role": "Mid"
+    },
+    "zeyzal": {
+        "team": "",
+        "name": "Zeyzal",
+        "role": "Support"
+    },
+    "neon": {
+        "team": "Schalke-04",
+        "name": "Neon",
+        "role": "ADC"
+    },
+    "viper": {
+        "team": "EDward-Gaming",
+        "name": "Viper",
+        "role": "ADC"
+    },
+    "atlen": {
+        "team": "Machi-E-Sports",
+        "name": "Atlen",
+        "role": "ADC (Sub)"
+    },
+    "triple": {
+        "team": "FlyQuest-Academy",
+        "name": "Triple",
+        "role": "Mid"
+    },
+    "cupcake": {
+        "team": "",
+        "name": "Cupcake",
+        "role": "Support"
+    },
+    "praelus": {
+        "team": "",
+        "name": "Praelus",
+        "role": "Jungle"
+    },
+    "lodik": {
+        "team": "Unicorns-of-Love",
+        "name": "Lodik",
+        "role": "ADC"
+    },
+    "hanabi": {
+        "team": "PSG-Talon",
+        "name": "Hanabi",
+        "role": "Top"
+    },
+    "paz": {
+        "team": "Sengoku-Gaming",
+        "name": "Paz",
+        "role": "Top"
+    },
+    "gaeng": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Gaeng",
+        "role": "Support"
+    },
+    "rockky": {
+        "team": "MEGA",
+        "name": "Rockky",
+        "role": "Top"
+    },
+    "g4": {
+        "team": "MEGA",
+        "name": "G4",
+        "role": "Mid"
+    },
+    "lloyd": {
+        "team": "MEGA",
+        "name": "Lloyd",
+        "role": "Jungle"
+    },
+    "rich-pcs": {
+        "team": "",
+        "name": "Rich-PCS",
+        "role": "Support"
+    },
+    "nate": {
+        "team": "",
+        "name": "Nate",
+        "role": "Top"
+    },
+    "fix": {
+        "team": "",
+        "name": "Fix",
+        "role": "ADC"
+    },
+    "tierwulf": {
+        "team": "Isurus-Gaming",
+        "name": "Tierwulf",
+        "role": "Jungle"
+    },
+    "plugo": {
+        "team": "Kaos-Latin-Gamers",
+        "name": "Plugo",
+        "role": "Mid"
+    },
+    "slow": {
+        "team": "",
+        "name": "Slow",
+        "role": "Support"
+    },
+    "baltica": {
+        "team": "",
+        "name": "Baltica",
+        "role": "Jungle"
+    },
+    "zealot": {
+        "team": "Kaos-Latin-Gamers",
+        "name": "Zealot",
+        "role": "ADC (Sub)"
+    },
+    "jirall": {
+        "team": "",
+        "name": "Jirall",
+        "role": "Top"
+    },
+    "seiya": {
+        "team": "Isurus-Gaming",
+        "name": "Seiya",
+        "role": "Mid"
+    },
+    "mariome": {
+        "team": "Rainbow7",
+        "name": "MarioMe",
+        "role": "ADC (Sub)"
+    },
+    "oddie": {
+        "team": "",
+        "name": "Oddie",
+        "role": "Jungle"
+    },
+    "manu": {
+        "team": "",
+        "name": "Manu",
+        "role": "ADC"
+    },
+    "zeicro": {
+        "team": "",
+        "name": "Zeicro",
+        "role": "ADC"
+    },
+    "genthix": {
+        "team": "",
+        "name": "Genthix",
+        "role": "Support"
+    },
+    "kz": {
+        "team": "Infinity-eSports",
+        "name": "Kz",
+        "role": "Sub (Sub)"
+    },
+    "zantins": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Zantins",
+        "role": "Top"
+    },
+    "freire": {
+        "team": "",
+        "name": "Freire",
+        "role": "Jungle"
+    },
+    "atlanta": {
+        "team": "",
+        "name": "Atlanta",
+        "role": "Mid"
+    },
+    "dynquedo": {
+        "team": "LOUD",
+        "name": "dyNquedo",
+        "role": "Mid"
+    },
+    "titan": {
+        "team": "RED-Canids",
+        "name": "TitaN",
+        "role": "ADC"
+    },
+    "riyev": {
+        "team": "",
+        "name": "Riyev",
+        "role": "Support"
+    },
+    "stark": {
+        "team": "Team-Flash",
+        "name": "Stark",
+        "role": "Top"
+    },
+    "yijin": {
+        "team": "",
+        "name": "YiJin",
+        "role": "Jungle"
+    },
+    "warzone": {
+        "team": "",
+        "name": "Warzone",
+        "role": "Mid"
+    },
+    "slay": {
+        "team": "GAM-Esports",
+        "name": "Slay",
+        "role": "ADC"
+    },
+    "ronop": {
+        "team": "CERBERUS-Esports",
+        "name": "RonOP",
+        "role": "Support"
+    },
+    "harbinger": {
+        "team": "",
+        "name": "Harbinger",
+        "role": "Support"
+    },
+    "pipixuan": {
+        "team": "",
+        "name": "PiPiXuAn",
+        "role": "ADC"
+    },
+    "haro": {
+        "team": "Rogue-Warriors",
+        "name": "Haro",
+        "role": "Jungle"
+    },
+    "iboy": {
+        "team": "Rare-Atom",
+        "name": "iBoy",
+        "role": "ADC"
+    },
+    "hope": {
+        "team": "EDward-Gaming",
+        "name": "Hope",
+        "role": "ADC"
+    },
+    "nji": {
+        "team": "",
+        "name": "Nji",
+        "role": "Jungle"
+    },
+    "whitelotus": {
+        "team": "Infinity-eSports",
+        "name": "WhiteLotus",
+        "role": "ADC"
+    },
+    "joey": {
+        "team": "Immortals-Academy",
+        "name": "Joey",
+        "role": "Support"
+    },
+    "life": {
+        "team": "GenG",
+        "name": "Life",
+        "role": "Support"
+    },
+    "kirei": {
+        "team": "GamersOrigin",
+        "name": "Kirei",
+        "role": "Jungle"
+    },
+    "sofm": {
+        "team": "Suning-Gaming",
+        "name": "SofM",
+        "role": "Jungle"
+    },
+    "santorin": {
+        "team": "Team-Liquid",
+        "name": "Santorin",
+        "role": "Jungle"
+    },
+    "summit": {
+        "team": "Liiv-SANDBOX",
+        "name": "Summit",
+        "role": "Top"
+    },
+    "kingen": {
+        "team": "DRX",
+        "name": "Kingen",
+        "role": "Top"
+    },
+    "mia": {
+        "team": "",
+        "name": "Mia",
+        "role": "Support"
+    },
+    "duke": {
+        "team": "",
+        "name": "Duke",
+        "role": "Top"
+    },
+    "jackeylove": {
+        "team": "Top-Esports",
+        "name": "JackeyLove",
+        "role": "ADC"
+    },
+    "baolan": {
+        "team": "Invictus-Gaming",
+        "name": "Baolan",
+        "role": "Support"
+    },
+    "wxz": {
+        "team": "",
+        "name": "WXZ",
+        "role": "ADC"
+    },
+    "attila": {
+        "team": "Vodafone-Giants.Spain",
+        "name": "Attila",
+        "role": "ADC"
+    },
+    "biopanther": {
+        "team": "Pentanet.GG",
+        "name": "BioPanther",
+        "role": "Top"
+    },
+    "liang": {
+        "team": "",
+        "name": "Liang",
+        "role": "Top"
+    },
+    "benny": {
+        "team": "",
+        "name": "Benny",
+        "role": "Jungle"
+    },
+    "kongyue": {
+        "team": "",
+        "name": "Kongyue",
+        "role": "Jungle"
+    },
+    "uniboy": {
+        "team": "LGD-Gaming",
+        "name": "Uniboy",
+        "role": "Mid"
+    },
+    "breeze": {
+        "team": "",
+        "name": "Breeze",
+        "role": "ADC"
+    },
+    "k": {
+        "team": "",
+        "name": "K",
+        "role": "Support"
+    },
+    "relic": {
+        "team": "",
+        "name": "Relic",
+        "role": "Top"
+    },
+    "solidsnake": {
+        "team": "Infinity-eSports",
+        "name": "SolidSnake",
+        "role": "Jungle"
+    },
+    "cotopaco": {
+        "team": "",
+        "name": "Cotopaco",
+        "role": "Mid"
+    },
+    "renyu": {
+        "team": "XTEN-Esports",
+        "name": "Renyu",
+        "role": "ADC"
+    },
+    "arce": {
+        "team": "Infinity-eSports",
+        "name": "Arce",
+        "role": "None"
+    },
+    "ottovag": {
+        "team": "",
+        "name": "ottovaG",
+        "role": "ADC"
+    },
+    "smlz": {
+        "team": "",
+        "name": "Smlz",
+        "role": "ADC"
+    },
+    "chovy": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Chovy",
+        "role": "Mid"
+    },
+    "ninja": {
+        "team": "Rascal-Jester",
+        "name": "Ninja",
+        "role": "Mid"
+    },
+    "mapssi": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "MapSSi",
+        "role": "Support"
+    },
+    "joker": {
+        "team": "",
+        "name": "Joker",
+        "role": "ADC"
+    },
+    "dove": {
+        "team": "KT-Rolster",
+        "name": "Dove",
+        "role": "Mid"
+    },
+    "onfleek": {
+        "team": "Liiv-SANDBOX",
+        "name": "OnFleek",
+        "role": "Jungle"
+    },
+    "sword": {
+        "team": "",
+        "name": "Sword",
+        "role": "Top"
+    },
+    "crash": {
+        "team": "Sengoku-Gaming",
+        "name": "Crash",
+        "role": "Jungle"
+    },
+    "lehends": {
+        "team": "Afreeca-Freecs",
+        "name": "Lehends",
+        "role": "Support"
+    },
+    "beryl": {
+        "team": "DWG-KIA",
+        "name": "BeryL",
+        "role": "Support"
+    },
+    "tarzan": {
+        "team": "LNG-Esports",
+        "name": "Tarzan",
+        "role": "Jungle"
+    },
+    "blaber": {
+        "team": "Cloud9",
+        "name": "Blaber",
+        "role": "Jungle"
+    },
+    "crush": {
+        "team": "",
+        "name": "Crush",
+        "role": "Jungle"
+    },
+    "soar": {
+        "team": "OZ-Gaming",
+        "name": "SoaR",
+        "role": "Top"
+    },
+    "steal": {
+        "team": "",
+        "name": "Steal",
+        "role": "ADC"
+    },
+    "asper": {
+        "team": "T1-Academy",
+        "name": "Asper",
+        "role": "Support"
+    },
+    "rather": {
+        "team": "LNG-Esports",
+        "name": "Rather",
+        "role": "None"
+    },
+    "rikara": {
+        "team": "",
+        "name": "Rikara",
+        "role": "ADC"
+    },
+    "hoon": {
+        "team": "",
+        "name": "Hoon",
+        "role": "Top"
+    },
+    "hana": {
+        "team": "J-Team",
+        "name": "Hana",
+        "role": "Jungle"
+    },
+    "insec": {
+        "team": "",
+        "name": "inSec",
+        "role": "Jungle"
+    },
+    "nuguri": {
+        "team": "FunPlus-Phoenix",
+        "name": "Nuguri",
+        "role": "Top"
+    },
+    "ceros": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Ceros",
+        "role": "Mid"
+    },
+    "yutapon": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Yutapon",
+        "role": "ADC"
+    },
+    "pink-bean": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Pink-Bean",
+        "role": "ADC (Sub)"
+    },
+    "vivid": {
+        "team": "",
+        "name": "viviD",
+        "role": "Support"
+    },
+    "zeros": {
+        "team": "",
+        "name": "Zeros",
+        "role": "Top"
+    },
+    "baybay": {
+        "team": "",
+        "name": "baybay",
+        "role": "Jungle"
+    },
+    "empt2y": {
+        "team": "",
+        "name": "Empt2y",
+        "role": "Jungle"
+    },
+    "wuji": {
+        "team": "",
+        "name": "wuji",
+        "role": "Mid"
+    },
+    "meliodas": {
+        "team": "Team-Flash",
+        "name": "Meliodas",
+        "role": "Jungle"
+    },
+    "xuhao": {
+        "team": "CERBERUS-Esports",
+        "name": "XuHao",
+        "role": "Jungle"
+    },
+    "naul": {
+        "team": "",
+        "name": "Naul",
+        "role": "Mid"
+    },
+    "bigkoro": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Bigkoro",
+        "role": "ADC"
+    },
+    "palette": {
+        "team": "",
+        "name": "Palette",
+        "role": "Support"
+    },
+    "regank": {
+        "team": "",
+        "name": "ReGank",
+        "role": "Jungle"
+    },
+    "alphamong": {
+        "team": "",
+        "name": "Alphamong",
+        "role": "Top"
+    },
+    "knight": {
+        "team": "Top-Esports",
+        "name": "Knight",
+        "role": "Mid"
+    },
+    "holder": {
+        "team": "",
+        "name": "Holder",
+        "role": "Top"
+    },
+    "nemesis": {
+        "team": "GenG",
+        "name": "Nemesis",
+        "role": "Mid"
+    },
+    "abbedagge": {
+        "team": "100-Thieves",
+        "name": "Abbedagge",
+        "role": "Mid"
+    },
+    "humanoid": {
+        "team": "MAD-Lions",
+        "name": "Humanoid",
+        "role": "Mid"
+    },
+    "caedrel": {
+        "team": "",
+        "name": "Caedrel",
+        "role": "Jungle"
+    },
+    "jeskla": {
+        "team": "Astralis",
+        "name": "Jeskla",
+        "role": "ADC"
+    },
+    "werlyb": {
+        "team": "",
+        "name": "Werlyb",
+        "role": "Top"
+    },
+    "selfmade": {
+        "team": "Fnatic",
+        "name": "Selfmade",
+        "role": "Jungle"
+    },
+    "crownshot": {
+        "team": "Vitality",
+        "name": "Crownshot",
+        "role": "ADC"
+    },
+    "gori": {
+        "team": "EDward-Gaming",
+        "name": "Gori",
+        "role": "Mid (Sub)"
+    },
+    "jayj": {
+        "team": "Team-Dignitas-Academy",
+        "name": "JayJ",
+        "role": "Support"
+    },
+    "soligo": {
+        "team": "Team-Dignitas",
+        "name": "Soligo",
+        "role": "Mid"
+    },
+    "vulcan": {
+        "team": "Cloud9",
+        "name": "Vulcan",
+        "role": "Support"
+    },
+    "dhokla": {
+        "team": "",
+        "name": "Dhokla",
+        "role": "Top"
+    },
+    "griffin": {
+        "team": "CLG-Academy",
+        "name": "Griffin",
+        "role": "Jungle"
+    },
+    "rainbow": {
+        "team": "Santos-e-Sports",
+        "name": "Rainbow",
+        "role": "Mid"
+    },
+    "jukes": {
+        "team": "",
+        "name": "Jukes",
+        "role": "Top"
+    },
+    "kumo": {
+        "team": "FlyQuest-Academy",
+        "name": "Kumo",
+        "role": "Top"
+    },
+    "diamond": {
+        "team": "FlyQuest",
+        "name": "Diamond",
+        "role": "Support"
+    },
+    "tuesday": {
+        "team": "",
+        "name": "Tuesday",
+        "role": "Mid"
+    },
+    "hooks": {
+        "team": "100-Thieves-Next",
+        "name": "Hooks",
+        "role": "ADC"
+    },
+    "call-lin": {
+        "team": "",
+        "name": "Call-Lin",
+        "role": "Support"
+    },
+    "yusui": {
+        "team": "Team-Dignitas-Academy",
+        "name": "Yusui",
+        "role": "Mid"
+    },
+    "lost": {
+        "team": "TSM",
+        "name": "Lost",
+        "role": "ADC"
+    },
+    "fill": {
+        "team": "CLG-Academy",
+        "name": "Fill",
+        "role": "Support"
+    },
+    "panda": {
+        "team": "",
+        "name": "Panda",
+        "role": "Jungle"
+    },
+    "strompest": {
+        "team": "",
+        "name": "Strompest",
+        "role": "Mid"
+    },
+    "insanity": {
+        "team": "Immortals",
+        "name": "Insanity",
+        "role": "Mid"
+    },
+    "jenkins": {
+        "team": "Team-Liquid-Academy",
+        "name": "Jenkins",
+        "role": "Top"
+    },
+    "ablazeolive": {
+        "team": "Golden-Guardians",
+        "name": "Ablazeolive",
+        "role": "Mid"
+    },
+    "treatz": {
+        "team": "SK-Gaming",
+        "name": "Treatz",
+        "role": "Support"
+    },
+    "spica": {
+        "team": "TSM",
+        "name": "Spica",
+        "role": "Jungle"
+    },
+    "tactical": {
+        "team": "Team-Liquid",
+        "name": "Tactical",
+        "role": "ADC"
+    },
+    "hard": {
+        "team": "",
+        "name": "Hard",
+        "role": "Jungle"
+    },
+    "fbi": {
+        "team": "100-Thieves",
+        "name": "FBI",
+        "role": "ADC"
+    },
+    "palafox": {
+        "team": "FlyQuest",
+        "name": "Palafox",
+        "role": "Mid"
+    },
+    "prismal": {
+        "team": "Golden-Guardians-Academy",
+        "name": "Prismal",
+        "role": "ADC"
+    },
+    "fragas": {
+        "team": "",
+        "name": "Fragas",
+        "role": "Jungle"
+    },
+    "fakegod": {
+        "team": "Team-Dignitas",
+        "name": "FakeGod",
+        "role": "Top"
+    },
+    "neo-na": {
+        "team": "Team-Dignitas",
+        "name": "Neo-NA",
+        "role": "ADC"
+    },
+    "dan": {
+        "team": "exceL-Esports",
+        "name": "Dan",
+        "role": "Jungle"
+    },
+    "magifelix": {
+        "team": "Astralis",
+        "name": "MagiFelix",
+        "role": "Mid"
+    },
+    "shikari": {
+        "team": "",
+        "name": "Shikari",
+        "role": "Top"
+    },
+    "xmatty": {
+        "team": "Karmine-Corp",
+        "name": "xMatty",
+        "role": "ADC"
+    },
+    "ronaldo": {
+        "team": "Vodafone-Giants.Spain",
+        "name": "Ronaldo",
+        "role": "Mid"
+    },
+    "crazycaps": {
+        "team": "",
+        "name": "Crazycaps",
+        "role": "None"
+    },
+    "dan-dan": {
+        "team": "LDLC-OL",
+        "name": "Dan-Dan",
+        "role": "Top"
+    },
+    "lider": {
+        "team": "mousesports",
+        "name": "LIDER",
+        "role": "Mid"
+    },
+    "zvene": {
+        "team": "",
+        "name": "Zvene",
+        "role": "Top"
+    },
+    "toaster": {
+        "team": "",
+        "name": "Toaster",
+        "role": "ADC"
+    },
+    "skeanz": {
+        "team": "Vitality",
+        "name": "Skeanz",
+        "role": "Jungle"
+    },
+    "trayton": {
+        "team": "",
+        "name": "Trayton",
+        "role": "Support"
+    },
+    "saken": {
+        "team": "Karmine-Corp",
+        "name": "Saken",
+        "role": "Mid"
+    },
+    "xani": {
+        "team": "Misfits-Premier",
+        "name": "xani",
+        "role": "None"
+    },
+    "orome": {
+        "team": "BT-Excel",
+        "name": "Orome",
+        "role": "Top"
+    },
+    "czekolad": {
+        "team": "exceL-Esports",
+        "name": "Czekolad",
+        "role": "Mid"
+    },
+    "ventair": {
+        "team": "",
+        "name": "Ventair",
+        "role": "Top"
+    },
+    "lurox": {
+        "team": "AGO-ROGUE",
+        "name": "Lurox",
+        "role": "Jungle"
+    },
+    "sertuss": {
+        "team": "Misfits-Premier",
+        "name": "Sertuss",
+        "role": "Mid"
+    },
+    "woolite": {
+        "team": "Misfits-Premier",
+        "name": "Woolite",
+        "role": "ADC"
+    },
+    "larssen": {
+        "team": "Rogue",
+        "name": "Larssen",
+        "role": "Mid"
+    },
+    "inspired": {
+        "team": "Rogue",
+        "name": "Inspired",
+        "role": "Jungle"
+    },
+    "finn": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Finn",
+        "role": "Top"
+    },
+    "special": {
+        "team": "",
+        "name": "Special",
+        "role": "Mid"
+    },
+    "mystiques": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Mystiques",
+        "role": "Support"
+    },
+    "taxer": {
+        "team": "",
+        "name": "Taxer",
+        "role": "Jungle"
+    },
+    "sacre": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Sacre",
+        "role": "Top"
+    },
+    "jenax": {
+        "team": "SK-Gaming",
+        "name": "Jenax",
+        "role": "Top"
+    },
+    "phrenic": {
+        "team": "",
+        "name": "Phrenic",
+        "role": "Jungle"
+    },
+    "keduii": {
+        "team": "Berlin-International-Gaming",
+        "name": "Keduii",
+        "role": "ADC"
+    },
+    "doss": {
+        "team": "",
+        "name": "Doss",
+        "role": "Support"
+    },
+    "gango": {
+        "team": "Sengoku-Gaming",
+        "name": "Gango",
+        "role": "ADC"
+    },
+    "zenit": {
+        "team": "Fukuoka-SoftBank-Hawks-gaming",
+        "name": "Zenit",
+        "role": "ADC"
+    },
+    "nova": {
+        "team": "",
+        "name": "Nova",
+        "role": "Support"
+    },
+    "route": {
+        "team": "Liiv-SANDBOX",
+        "name": "Route",
+        "role": "ADC"
+    },
+    "tana": {
+        "team": "Fredit-BRION-Academy",
+        "name": "TaNa",
+        "role": "Top"
+    },
+    "seize": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Seize",
+        "role": "Jungle"
+    },
+    "cheongo": {
+        "team": "",
+        "name": "CheonGo",
+        "role": "Mid"
+    },
+    "kellin": {
+        "team": "Nongshim-RedForce",
+        "name": "Kellin",
+        "role": "Support"
+    },
+    "dread": {
+        "team": "Afreeca-Freecs",
+        "name": "Dread",
+        "role": "Jungle"
+    },
+    "keshi": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Keshi",
+        "role": "Support"
+    },
+    "naehyun": {
+        "team": "Crest-Gaming-Act",
+        "name": "Naehyun",
+        "role": "Mid"
+    },
+    "prince": {
+        "team": "Liiv-SANDBOX",
+        "name": "Prince",
+        "role": "ADC"
+    },
+    "canyon": {
+        "team": "DWG-KIA",
+        "name": "Canyon",
+        "role": "Jungle"
+    },
+    "bono": {
+        "team": "",
+        "name": "bonO",
+        "role": "Jungle"
+    },
+    "kabbie": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Kabbie",
+        "role": "Support"
+    },
+    "doran": {
+        "team": "KT-Rolster",
+        "name": "Doran",
+        "role": "Top"
+    },
+    "hollow": {
+        "team": "",
+        "name": "Hollow",
+        "role": "ADC"
+    },
+    "kanavi": {
+        "team": "JD-Gaming",
+        "name": "Kanavi",
+        "role": "Jungle"
+    },
+    "tian": {
+        "team": "FunPlus-Phoenix",
+        "name": "Tian",
+        "role": "Jungle"
+    },
+    "lwx": {
+        "team": "FunPlus-Phoenix",
+        "name": "Lwx",
+        "role": "ADC"
+    },
+    "3z": {
+        "team": "Hong-Kong-Attitude",
+        "name": "3z",
+        "role": "Top"
+    },
+    "natural": {
+        "team": "",
+        "name": "Natural",
+        "role": "Top"
+    },
+    "caipi": {
+        "team": "Alpha-Esports",
+        "name": "Caipi",
+        "role": "Mid"
+    },
+    "foxya": {
+        "team": "",
+        "name": "FoxYa",
+        "role": "Jungle"
+    },
+    "yoon": {
+        "team": "",
+        "name": "Yoon",
+        "role": "Support"
+    },
+    "angel": {
+        "team": "Suning-Gaming",
+        "name": "Angel",
+        "role": "Top"
+    },
+    "meteor": {
+        "team": "Bilibili-Gaming",
+        "name": "Meteor",
+        "role": "Jungle"
+    },
+    "revenge": {
+        "team": "Immortals",
+        "name": "Revenge",
+        "role": "Top"
+    },
+    "jjun": {
+        "team": "",
+        "name": "Jjun",
+        "role": "Jungle"
+    },
+    "bush": {
+        "team": "",
+        "name": "Bush",
+        "role": "Top"
+    },
+    "enso": {
+        "team": "",
+        "name": "Enso",
+        "role": "Jungle"
+    },
+    "motive": {
+        "team": "OZ-Gaming",
+        "name": "Motive",
+        "role": "Support"
+    },
+    "johnsun": {
+        "team": "FlyQuest",
+        "name": "Johnsun",
+        "role": "ADC"
+    },
+    "comp": {
+        "team": "Vitality",
+        "name": "Comp",
+        "role": "ADC"
+    },
+    "beware": {
+        "team": "",
+        "name": "Beware",
+        "role": "Top"
+    },
+    "wizer": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Wizer",
+        "role": "Top"
+    },
+    "luci": {
+        "team": "paiN-Gaming",
+        "name": "Luci",
+        "role": "Support"
+    },
+    "juzo": {
+        "team": "",
+        "name": "Juzo",
+        "role": "ADC"
+    },
+    "shini": {
+        "team": "INTZ-e-Sports",
+        "name": "Shini",
+        "role": "Jungle"
+    },
+    "mills": {
+        "team": "INTZ-e-Sports",
+        "name": "Mills",
+        "role": "ADC"
+    },
+    "nap": {
+        "team": "Crest-Gaming-Act",
+        "name": "Nap",
+        "role": "Top"
+    },
+    "hachamecha": {
+        "team": "Crest-Gaming-Act",
+        "name": "hachamecha",
+        "role": "Jungle"
+    },
+    "aria": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Aria",
+        "role": "Mid"
+    },
+    "art": {
+        "team": "",
+        "name": "Art",
+        "role": "ADC"
+    },
+    "atyamomo": {
+        "team": "",
+        "name": "atyamomo",
+        "role": "Support"
+    },
+    "duclou": {
+        "team": "CNB-e-Sports-Club",
+        "name": "Duclou",
+        "role": "Top"
+    },
+    "mewkyo": {
+        "team": "",
+        "name": "Mewkyo",
+        "role": "Jungle"
+    },
+    "mental": {
+        "team": "CNB-e-Sports-Club",
+        "name": "Mental",
+        "role": "Jungle"
+    },
+    "aslan": {
+        "team": "Flamengo-eSports",
+        "name": "Aslan",
+        "role": "Mid"
+    },
+    "ahahacik": {
+        "team": "Unicorns-of-Love",
+        "name": "AHaHaCiK",
+        "role": "Jungle"
+    },
+    "innaxe": {
+        "team": "GamersOrigin",
+        "name": "Innaxe",
+        "role": "ADC"
+    },
+    "eika": {
+        "team": "LDLC-OL",
+        "name": "Eika",
+        "role": "Mid"
+    },
+    "bolulu": {
+        "team": "Galatasaray-Esports",
+        "name": "Bolulu",
+        "role": "Mid"
+    },
+    "jestkui-max": {
+        "team": "CrowCrowd",
+        "name": "Jestkui-Max",
+        "role": "Support"
+    },
+    "naru": {
+        "team": "",
+        "name": "Naru",
+        "role": "Mid"
+    },
+    "mimic": {
+        "team": "",
+        "name": "Mimic",
+        "role": "Top"
+    },
+    "wilder": {
+        "team": "",
+        "name": "Wilder",
+        "role": "Jungle"
+    },
+    "ryoma": {
+        "team": "100-Thieves-Academy",
+        "name": "Ryoma",
+        "role": "Mid"
+    },
+    "looch": {
+        "team": "",
+        "name": "Looch",
+        "role": "ADC"
+    },
+    "rogue": {
+        "team": "",
+        "name": "Rogue",
+        "role": "Support"
+    },
+    "recap": {
+        "team": "",
+        "name": "Recap",
+        "role": "Mid"
+    },
+    "ace": {
+        "team": "DRX",
+        "name": "Ace",
+        "role": "None"
+    },
+    "neo": {
+        "team": "",
+        "name": "Neo",
+        "role": "Jungle"
+    },
+    "river": {
+        "team": "PSG-Talon",
+        "name": "River",
+        "role": "Jungle"
+    },
+    "rayfarky": {
+        "team": "Burning-Core",
+        "name": "RayFarky",
+        "role": "Top"
+    },
+    "roki": {
+        "team": "",
+        "name": "Roki",
+        "role": "Mid"
+    },
+    "broooock": {
+        "team": "Burning-Core",
+        "name": "Broooock",
+        "role": "Mid"
+    },
+    "yuhi": {
+        "team": "Burning-Core",
+        "name": "Yuhi",
+        "role": "ADC (Sub)"
+    },
+    "medic": {
+        "team": "",
+        "name": "Medic",
+        "role": "Support"
+    },
+    "tom": {
+        "team": "",
+        "name": "Tom",
+        "role": "Jungle"
+    },
+    "bruce": {
+        "team": "",
+        "name": "Bruce",
+        "role": "ADC"
+    },
+    "fudge": {
+        "team": "Cloud9",
+        "name": "Fudge",
+        "role": "Top"
+    },
+    "topoon": {
+        "team": "Immortals-Academy",
+        "name": "Topoon",
+        "role": "Top"
+    },
+    "babip": {
+        "team": "TSM-Academy",
+        "name": "Babip",
+        "role": "Jungle"
+    },
+    "buggax": {
+        "team": "Infinity-eSports",
+        "name": "Buggax",
+        "role": "Top"
+    },
+    "warangelus": {
+        "team": "Isurus-Gaming",
+        "name": "Warangelus",
+        "role": "ADC"
+    },
+    "kouzze": {
+        "team": "",
+        "name": "KouZZe",
+        "role": "ADC"
+    },
+    "closer": {
+        "team": "100-Thieves",
+        "name": "Closer",
+        "role": "Jungle"
+    },
+    "cyeol": {
+        "team": "",
+        "name": "cyeol",
+        "role": "Mid"
+    },
+    "tolerant": {
+        "team": "Schalke-Evolution",
+        "name": "Tolerant",
+        "role": "Support"
+    },
+    "oddugi": {
+        "team": "",
+        "name": "OdduGi",
+        "role": "ADC"
+    },
+    "poss": {
+        "team": "CERBERUS-Esports",
+        "name": "Poss",
+        "role": "Top"
+    },
+    "dasher": {
+        "team": "Fukuoka-SoftBank-Hawks-gaming",
+        "name": "Dasher",
+        "role": "Top"
+    },
+    "rakin": {
+        "team": "Team-Liquid-Academy",
+        "name": "Rakin",
+        "role": "Mid (Sub)"
+    },
+    "kuma": {
+        "team": "",
+        "name": "Kuma",
+        "role": "Jungle"
+    },
+    "cover": {
+        "team": "",
+        "name": "Cover",
+        "role": "Mid"
+    },
+    "haeseong": {
+        "team": "",
+        "name": "HaeSeong",
+        "role": "Mid"
+    },
+    "trigger": {
+        "team": "Victory-Five",
+        "name": "Trigger",
+        "role": "ADC"
+    },
+    "flandre": {
+        "team": "EDward-Gaming",
+        "name": "Flandre",
+        "role": "Top"
+    },
+    "fenfen": {
+        "team": "",
+        "name": "Fenfen",
+        "role": "Mid"
+    },
+    "plex": {
+        "team": "LNG-Esports",
+        "name": "Plex",
+        "role": "Mid"
+    },
+    "asura": {
+        "team": "",
+        "name": "Asura",
+        "role": "ADC"
+    },
+    "duan": {
+        "team": "",
+        "name": "Duan",
+        "role": "Support"
+    },
+    "lovezrr": {
+        "team": "",
+        "name": "LoveZrr",
+        "role": "Top"
+    },
+    "langx": {
+        "team": "Victory-Five",
+        "name": "Langx",
+        "role": "Top"
+    },
+    "amazingj": {
+        "team": "",
+        "name": "AmazingJ",
+        "role": "Top"
+    },
+    "ryan": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Ryan",
+        "role": "Jungle"
+    },
+    "winter": {
+        "team": "",
+        "name": "Winter",
+        "role": "Support"
+    },
+    "holyphoenix": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "HolyPhoenix",
+        "role": "ADC"
+    },
+    "anthrax": {
+        "team": "",
+        "name": "Anthrax",
+        "role": "Support"
+    },
+    "kireas": {
+        "team": "SuperMassive-eSports",
+        "name": "Kireas",
+        "role": "Jungle"
+    },
+    "decay": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Decay",
+        "role": "Mid"
+    },
+    "ferret": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "Ferret",
+        "role": "Jungle"
+    },
+    "kaori": {
+        "team": "SuperMassive-eSports",
+        "name": "Kaori",
+        "role": "ADC"
+    },
+    "blue": {
+        "team": "SK-Gaming",
+        "name": "Blue",
+        "role": "Mid"
+    },
+    "ragner": {
+        "team": "SuperMassive-eSports",
+        "name": "Ragner",
+        "role": "Top"
+    },
+    "guger": {
+        "team": "",
+        "name": "GuGer",
+        "role": "Support"
+    },
+    "cloudtemplar": {
+        "team": "",
+        "name": "CloudTemplar",
+        "role": "Jungle"
+    },
+    "xx": {
+        "team": "",
+        "name": "Xx",
+        "role": "Jungle"
+    },
+    "gimgoon": {
+        "team": "",
+        "name": "GimGoon",
+        "role": "Top"
+    },
+    "neulbo": {
+        "team": "",
+        "name": "Neulbo",
+        "role": "Support"
+    },
+    "hades": {
+        "team": "UCAM-Esports-Club",
+        "name": "Hades",
+        "role": "Jungle"
+    },
+    "mayhem": {
+        "team": "",
+        "name": "Mayhem",
+        "role": "Top"
+    },
+    "robin": {
+        "team": "Beşiktaş-e-Sports-Club",
+        "name": "Robin",
+        "role": "Jungle"
+    },
+    "giyuu": {
+        "team": "NASR-eSports-Turkey",
+        "name": "Giyuu",
+        "role": "Mid"
+    },
+    "olia": {
+        "team": "",
+        "name": "Olia",
+        "role": "Top"
+    },
+    "taikki": {
+        "team": "",
+        "name": "Taikki",
+        "role": "Jungle"
+    },
+    "alive": {
+        "team": "Beşiktaş-e-Sports-Club",
+        "name": "Alive",
+        "role": "ADC"
+    },
+    "light": {
+        "team": "",
+        "name": "Light",
+        "role": "ADC"
+    },
+    "gala": {
+        "team": "Royal-Never-Give-Up",
+        "name": "GALA",
+        "role": "ADC"
+    },
+    "xiaopeng": {
+        "team": "TT",
+        "name": "Xiaopeng",
+        "role": "Jungle"
+    },
+    "newt": {
+        "team": "Asura",
+        "name": "Newt",
+        "role": "Support"
+    },
+    "shad0w": {
+        "team": "",
+        "name": "Shad0w",
+        "role": "Jungle"
+    },
+    "kaiser": {
+        "team": "MAD-Lions",
+        "name": "Kaiser",
+        "role": "Support"
+    },
+    "hirit": {
+        "team": "Misfits",
+        "name": "HiRit",
+        "role": "Top"
+    },
+    "karas": {
+        "team": "",
+        "name": "Karas",
+        "role": "Support"
+    },
+    "anechek": {
+        "team": "",
+        "name": "Anechek",
+        "role": "Jungle"
+    },
+    "reven": {
+        "team": "Flamengo-eSports",
+        "name": "Reven",
+        "role": "None"
+    },
+    "mnm": {
+        "team": "Hong-Kong-Attitude",
+        "name": "MnM",
+        "role": "ADC"
+    },
+    "wing": {
+        "team": "Hong-Kong-Attitude",
+        "name": "Wing",
+        "role": "Support"
+    },
+    "gumayusi": {
+        "team": "T1",
+        "name": "Gumayusi",
+        "role": "ADC"
+    },
+    "leyan": {
+        "team": "Rare-Atom",
+        "name": "Leyan",
+        "role": "Jungle"
+    },
+    "ganknam": {
+        "team": "",
+        "name": "Ganknam",
+        "role": "Jungle"
+    },
+    "kuri": {
+        "team": "",
+        "name": "Kuri",
+        "role": "Support"
+    },
+    "ellim": {
+        "team": "T1",
+        "name": "Ellim",
+        "role": "Jungle (Sub)"
+    },
+    "mask": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "Mask",
+        "role": "Mid"
+    },
+    "umut": {
+        "team": "5-Ronin",
+        "name": "Umut",
+        "role": "Mid"
+    },
+    "crystal": {
+        "team": "",
+        "name": "Crystal",
+        "role": "Jungle"
+    },
+    "pbd": {
+        "team": "Dark-Passage",
+        "name": "Pbd",
+        "role": "Support"
+    },
+    "trix": {
+        "team": "",
+        "name": "Trix",
+        "role": "Jungle"
+    },
+    "xkenzuke": {
+        "team": "Movistar-Riders",
+        "name": "xKenzuke",
+        "role": "Mid"
+    },
+    "neos": {
+        "team": "",
+        "name": "Neos",
+        "role": "ADC"
+    },
+    "ruvelius": {
+        "team": "Galatasaray-Esports",
+        "name": "Ruvelius",
+        "role": "ADC"
+    },
+    "tarky": {
+        "team": "",
+        "name": "Tarky",
+        "role": "Support"
+    },
+    "balkhan": {
+        "team": "",
+        "name": "BalKhan",
+        "role": "Jungle"
+    },
+    "mgx": {
+        "team": "",
+        "name": "MGX",
+        "role": "Mid"
+    },
+    "madness": {
+        "team": "",
+        "name": "Madness",
+        "role": "ADC"
+    },
+    "farfetch": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "Farfetch",
+        "role": "Support"
+    },
+    "starscreen": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "StarScreen",
+        "role": "Top"
+    },
+    "roulette": {
+        "team": "Galakticos",
+        "name": "Roulette",
+        "role": "Jungle"
+    },
+    "kofte": {
+        "team": "Dark-Passage",
+        "name": "Kofte",
+        "role": "Mid"
+    },
+    "only35": {
+        "team": "",
+        "name": "Only35",
+        "role": "Support"
+    },
+    "madly": {
+        "team": "",
+        "name": "Madly",
+        "role": "Top"
+    },
+    "eren": {
+        "team": "",
+        "name": "Eren",
+        "role": "Mid"
+    },
+    "wendelbo": {
+        "team": "",
+        "name": "Wendelbo",
+        "role": "Support"
+    },
+    "nukes": {
+        "team": "",
+        "name": "Nukes",
+        "role": "Support"
+    },
+    "rich": {
+        "team": "Nongshim-RedForce",
+        "name": "Rich",
+        "role": "Top"
+    },
+    "bando": {
+        "team": "",
+        "name": "Bando",
+        "role": "Top"
+    },
+    "lekcyc": {
+        "team": "",
+        "name": "Lekcyc",
+        "role": "Support"
+    },
+    "shiganari": {
+        "team": "",
+        "name": "Shiganari",
+        "role": "ADC"
+    },
+    "itscortez": {
+        "team": "Dragon-Army",
+        "name": "ItsCortez",
+        "role": "Jungle"
+    },
+    "keysie": {
+        "team": "",
+        "name": "Keysie",
+        "role": "Mid"
+    },
+    "charger": {
+        "team": "",
+        "name": "Charger",
+        "role": "Top"
+    },
+    "khomzar": {
+        "team": "",
+        "name": "Khomzar",
+        "role": "Top"
+    },
+    "bearcute": {
+        "team": "",
+        "name": "Bearcute",
+        "role": "Jungle"
+    },
+    "xonix": {
+        "team": "One-Breath-Gaming",
+        "name": "XoNix",
+        "role": "Mid"
+    },
+    "valhalla": {
+        "team": "",
+        "name": "Valhalla",
+        "role": "ADC"
+    },
+    "bardberry": {
+        "team": "",
+        "name": "BardBerry",
+        "role": "Support"
+    },
+    "dreampullka": {
+        "team": "",
+        "name": "Dreampullka",
+        "role": "Top"
+    },
+    "maxim": {
+        "team": "RoX",
+        "name": "Maxim",
+        "role": "Mid"
+    },
+    "pooh": {
+        "team": "",
+        "name": "Pooh",
+        "role": "Support"
+    },
+    "vata": {
+        "team": "",
+        "name": "Vata",
+        "role": "Support"
+    },
+    "boss": {
+        "team": "Unicorns-of-Love",
+        "name": "BOSS",
+        "role": "Top"
+    },
+    "kreox": {
+        "team": "One-Breath-Gaming",
+        "name": "Kreox",
+        "role": "Jungle"
+    },
+    "discotekka": {
+        "team": "",
+        "name": "DiscotEkka",
+        "role": "Mid"
+    },
+    "gadget": {
+        "team": "mousesports",
+        "name": "Gadget",
+        "role": "ADC"
+    },
+    "santas": {
+        "team": "Unicorns-of-Love",
+        "name": "SaNTaS",
+        "role": "Support"
+    },
+    "refra1n": {
+        "team": "J-Team",
+        "name": "REFRA1N",
+        "role": "Jungle"
+    },
+    "lilv": {
+        "team": "J-Team",
+        "name": "Lilv",
+        "role": "ADC"
+    },
+    "marin": {
+        "team": "",
+        "name": "MaRin",
+        "role": "Top"
+    },
+    "rjs": {
+        "team": "CLG-Academy",
+        "name": "rjs",
+        "role": "Mid"
+    },
+    "yoshino": {
+        "team": "Team-Flash",
+        "name": "Yoshino",
+        "role": "Top"
+    },
+    "blazes": {
+        "team": "GAM-Esports",
+        "name": "Blazes",
+        "role": "Mid"
+    },
+    "kiaya": {
+        "team": "GAM-Esports",
+        "name": "Kiaya",
+        "role": "Mid"
+    },
+    "zin": {
+        "team": "GAM-Esports",
+        "name": "Zin",
+        "role": "ADC"
+    },
+    "hieu3": {
+        "team": "GAM-Esports",
+        "name": "Hieu3",
+        "role": "Support"
+    },
+    "pop": {
+        "team": "MEGA",
+        "name": "PoP",
+        "role": "Support"
+    },
+    "hani": {
+        "team": "Team-Secret",
+        "name": "Hani",
+        "role": "Top"
+    },
+    "dnk": {
+        "team": "Team-Secret",
+        "name": "DNK",
+        "role": "Jungle"
+    },
+    "kaiz": {
+        "team": "",
+        "name": "Kaiz",
+        "role": "Jungle"
+    },
+    "artifact": {
+        "team": "Team-Secret",
+        "name": "Artifact",
+        "role": "Mid"
+    },
+    "celebrity": {
+        "team": "",
+        "name": "Celebrity",
+        "role": "ADC"
+    },
+    "venus": {
+        "team": "",
+        "name": "Venus",
+        "role": "Support"
+    },
+    "razork": {
+        "team": "Misfits",
+        "name": "Razork",
+        "role": "Jungle"
+    },
+    "cuce": {
+        "team": "",
+        "name": "Cuce",
+        "role": "Top"
+    },
+    "minor": {
+        "team": "",
+        "name": "Minor",
+        "role": "Support"
+    },
+    "beishang": {
+        "team": "Team-World-Elite",
+        "name": "Beishang",
+        "role": "Jungle"
+    },
+    "youdang": {
+        "team": "Invictus-Gaming-Young",
+        "name": "Youdang",
+        "role": "Jungle"
+    },
+    "crisp": {
+        "team": "FunPlus-Phoenix",
+        "name": "Crisp",
+        "role": "Support"
+    },
+    "pure": {
+        "team": "",
+        "name": "Pure",
+        "role": "Support"
+    },
+    "veritas": {
+        "team": "",
+        "name": "Veritas",
+        "role": "ADC"
+    },
+    "rem": {
+        "team": "",
+        "name": "reM",
+        "role": "Mid"
+    },
+    "prime": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Prime",
+        "role": "Support"
+    },
+    "milica": {
+        "team": "Vitality",
+        "name": "Milica",
+        "role": "Mid"
+    },
+    "denyk": {
+        "team": "Misfits",
+        "name": "Denyk",
+        "role": "Support"
+    },
+    "carzzy": {
+        "team": "MAD-Lions",
+        "name": "Carzzy",
+        "role": "ADC"
+    },
+    "yoppa": {
+        "team": "Schalke-Evolution",
+        "name": "Yoppa",
+        "role": "Top"
+    },
+    "falco": {
+        "team": "",
+        "name": "Falco",
+        "role": "Support"
+    },
+    "nofe": {
+        "team": "",
+        "name": "NoFe",
+        "role": "None"
+    },
+    "maknoon": {
+        "team": "",
+        "name": "MakNooN",
+        "role": "Top"
+    },
+    "kanani": {
+        "team": "",
+        "name": "Kanani",
+        "role": "Jungle"
+    },
+    "bvoy": {
+        "team": "Estral-Esports",
+        "name": "Bvoy",
+        "role": "ADC"
+    },
+    "thinkcard": {
+        "team": "Team-Dignitas",
+        "name": "Thinkcard",
+        "role": "None"
+    },
+    "rock": {
+        "team": "",
+        "name": "Rock",
+        "role": "Top"
+    },
+    "moo": {
+        "team": "",
+        "name": "Moo",
+        "role": "ADC"
+    },
+    "minit": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Minit",
+        "role": "Support"
+    },
+    "zergsting": {
+        "team": "Galatasaray-Esports",
+        "name": "Zergsting",
+        "role": "Support"
+    },
+    "voyboy": {
+        "team": "",
+        "name": "Voyboy",
+        "role": "Top"
+    },
+    "kingj": {
+        "team": "",
+        "name": "KingJ",
+        "role": "Top"
+    },
+    "ysera": {
+        "team": "",
+        "name": "Ysera",
+        "role": "Support"
+    },
+    "wink": {
+        "team": "Invictus-Gaming",
+        "name": "Wink",
+        "role": "ADC"
+    },
+    "ping": {
+        "team": "",
+        "name": "ping",
+        "role": "Jungle"
+    },
+    "h1iva": {
+        "team": "",
+        "name": "H1IVA",
+        "role": "Support"
+    },
+    "apex": {
+        "team": "",
+        "name": "Apex",
+        "role": "Mid"
+    },
+    "tank": {
+        "team": "",
+        "name": "Tank",
+        "role": "Mid"
+    },
+    "dyrus": {
+        "team": "",
+        "name": "Dyrus",
+        "role": "Top"
+    },
+    "ragan": {
+        "team": "",
+        "name": "Ragan",
+        "role": "Top"
+    },
+    "baeme": {
+        "team": "",
+        "name": "BaeMe",
+        "role": "Mid"
+    },
+    "limit": {
+        "team": "Schalke-04",
+        "name": "Limit",
+        "role": "Support"
+    },
+    "mingjing": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "Mingjing",
+        "role": "Jungle"
+    },
+    "dandy": {
+        "team": "eStar",
+        "name": "DanDy",
+        "role": "None"
+    },
+    "shiphtur": {
+        "team": "",
+        "name": "Shiphtur",
+        "role": "Mid"
+    },
+    "yellowstar": {
+        "team": "LDLC-OL",
+        "name": "YellOwStaR",
+        "role": "Support"
+    },
+    "pekin-woof": {
+        "team": "",
+        "name": "Pekin-Woof",
+        "role": "Mid"
+    },
+    "benji": {
+        "team": "",
+        "name": "Benji",
+        "role": "ADC"
+    },
+    "mistystumpey": {
+        "team": "Columbia-College",
+        "name": "MistyStumpey",
+        "role": "Top"
+    },
+    "sleeping": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Sleeping",
+        "role": "Top"
+    },
+    "deokdam": {
+        "team": "Nongshim-RedForce",
+        "name": "deokdam",
+        "role": "ADC"
+    },
+    "bugi": {
+        "team": "Furious-Gaming",
+        "name": "Bugi",
+        "role": "Jungle"
+    },
+    "piloto": {
+        "team": "",
+        "name": "Piloto",
+        "role": "Mid"
+    },
+    "aloned": {
+        "team": "Rainbow7",
+        "name": "Aloned",
+        "role": "Mid"
+    },
+    "maynah": {
+        "team": "Vivo-Keyd",
+        "name": "Maynah",
+        "role": "Support"
+    },
+    "fate": {
+        "team": "Liiv-SANDBOX",
+        "name": "FATE",
+        "role": "Mid"
+    },
+    "highdin": {
+        "team": "",
+        "name": "HighDin",
+        "role": "Support"
+    },
+    "choyul": {
+        "team": "",
+        "name": "Choyul",
+        "role": "Support"
+    },
+    "júlia-nakamura": {
+        "team": "INTZ-e-Sports",
+        "name": "Júlia-Nakamura",
+        "role": "Support"
+    },
+    "evolved": {
+        "team": "",
+        "name": "Evolved",
+        "role": "Jungle"
+    },
+    "wind": {
+        "team": "Counter-Logic-Gaming",
+        "name": "Wind",
+        "role": "ADC"
+    },
+    "breezyyy": {
+        "team": "Cloud9-Academy",
+        "name": "Breezyyy",
+        "role": "Support"
+    },
+    "pyosik": {
+        "team": "DRX",
+        "name": "Pyosik",
+        "role": "Jungle"
+    },
+    "keria": {
+        "team": "T1",
+        "name": "Keria",
+        "role": "Support"
+    },
+    "gorica": {
+        "team": "",
+        "name": "Gorica",
+        "role": "ADC"
+    },
+    "fanatiik": {
+        "team": "",
+        "name": "Fanatiik",
+        "role": "Jungle"
+    },
+    "tf-blade": {
+        "team": "",
+        "name": "TF-Blade",
+        "role": "Top"
+    },
+    "h4cker": {
+        "team": "eStar",
+        "name": "H4cker",
+        "role": "Jungle"
+    },
+    "cold": {
+        "team": "Oh-My-God",
+        "name": "Cold",
+        "role": "Support"
+    },
+    "yuekai": {
+        "team": "Royal-Club",
+        "name": "yuekai",
+        "role": "Mid"
+    },
+    "s1xu": {
+        "team": "",
+        "name": "S1xu",
+        "role": "Jungle"
+    },
+    "cao": {
+        "team": "Team-Liquid-Academy",
+        "name": "Cao",
+        "role": "Support"
+    },
+    "southwind": {
+        "team": "Invictus-Gaming",
+        "name": "Southwind",
+        "role": "Support"
+    },
+    "puff": {
+        "team": "Invictus-Gaming",
+        "name": "Puff",
+        "role": "ADC"
+    },
+    "qiuqiu": {
+        "team": "Rogue-Warriors",
+        "name": "QiuQiu",
+        "role": "Support"
+    },
+    "iwandy": {
+        "team": "LNG-Esports",
+        "name": "Iwandy",
+        "role": "Support"
+    },
+    "xlb": {
+        "team": "Royal-Never-Give-Up",
+        "name": "XLB",
+        "role": "Jungle"
+    },
+    "yuyanjia": {
+        "team": "Top-Esports",
+        "name": "yuyanjia",
+        "role": "Support"
+    },
+    "canna": {
+        "team": "T1",
+        "name": "Canna",
+        "role": "Top"
+    },
+    "clozer": {
+        "team": "T1",
+        "name": "Clozer",
+        "role": "Mid (Sub)"
+    },
+    "burdol": {
+        "team": "GenG",
+        "name": "Burdol",
+        "role": "Top"
+    },
+    "mestre": {
+        "team": "",
+        "name": "Mestre",
+        "role": "ADC"
+    },
+    "cariok": {
+        "team": "paiN-Gaming",
+        "name": "Cariok",
+        "role": "Jungle"
+    },
+    "anyyy": {
+        "team": "FURIA-Esports",
+        "name": "Anyyy",
+        "role": "Mid"
+    },
+    "firerain": {
+        "team": "",
+        "name": "FireRain",
+        "role": "Mid"
+    },
+    "bless-cn": {
+        "team": "TT",
+        "name": "Bless-CN",
+        "role": "Jungle"
+    },
+    "jiejie": {
+        "team": "EDward-Gaming",
+        "name": "Jiejie",
+        "role": "Jungle"
+    },
+    "weiwei": {
+        "team": "Victory-Five",
+        "name": "Weiwei",
+        "role": "Jungle"
+    },
+    "369": {
+        "team": "Top-Esports",
+        "name": "369",
+        "role": "Top"
+    },
+    "chieftain": {
+        "team": "Fredit-BRION",
+        "name": "Chieftain",
+        "role": "Jungle"
+    },
+    "danchung": {
+        "team": "",
+        "name": "Danchung",
+        "role": "Mid"
+    },
+    "bluff": {
+        "team": "OZ-Gaming",
+        "name": "Bluff",
+        "role": "Jungle"
+    },
+    "nintendudex": {
+        "team": "Columbia-College",
+        "name": "NintendudeX",
+        "role": "Jungle"
+    },
+    "lucker": {
+        "team": "AGO-ROGUE",
+        "name": "Lucker",
+        "role": "ADC"
+    },
+    "mojito": {
+        "team": "Galatasaray-Esports",
+        "name": "Mojito",
+        "role": "Jungle"
+    },
+    "agresivoo": {
+        "team": "Misfits",
+        "name": "Agresivoo",
+        "role": "Top"
+    },
+    "vichen": {
+        "team": "",
+        "name": "Vichen",
+        "role": "Jungle"
+    },
+    "focus": {
+        "team": "NASR-eSports-Turkey",
+        "name": "Focus",
+        "role": "ADC"
+    },
+    "kane": {
+        "team": "",
+        "name": "Kane",
+        "role": "ADC"
+    },
+    "vsta": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Vsta",
+        "role": "Support"
+    },
+    "apamen": {
+        "team": "Fukuoka-SoftBank-Hawks-gaming",
+        "name": "apaMen",
+        "role": "Top"
+    },
+    "mole": {
+        "team": "Victory-Five",
+        "name": "Mole",
+        "role": "Mid"
+    },
+    "yagao": {
+        "team": "JD-Gaming",
+        "name": "Yagao",
+        "role": "Mid"
+    },
+    "world6": {
+        "team": "",
+        "name": "World6",
+        "role": "Jungle"
+    },
+    "bin": {
+        "team": "Suning-Gaming",
+        "name": "Bin",
+        "role": "Jungle"
+    },
+    "teacherma": {
+        "team": "Team-World-Elite",
+        "name": "Teacherma",
+        "role": "Mid"
+    },
+    "twila": {
+        "team": "TT",
+        "name": "Twila",
+        "role": "Mid"
+    },
+    "reheal": {
+        "team": "Rogue-Warriors",
+        "name": "Reheal",
+        "role": "Support"
+    },
+    "a02": {
+        "team": "",
+        "name": "A02",
+        "role": "ADC"
+    },
+    "ppgod": {
+        "team": "Victory-Five",
+        "name": "ppgod",
+        "role": "Support"
+    },
+    "705": {
+        "team": "Joy-Dream",
+        "name": "705",
+        "role": "Top"
+    },
+    "breathe": {
+        "team": "Team-World-Elite",
+        "name": "Breathe",
+        "role": "Top"
+    },
+    "forge": {
+        "team": "Rogue-Warriors",
+        "name": "Forge",
+        "role": "Mid"
+    },
+    "xinmo": {
+        "team": "Bilibili-Gaming",
+        "name": "XinMo",
+        "role": "Support"
+    },
+    "wings": {
+        "team": "Bilibili-Gaming",
+        "name": "Wings",
+        "role": "ADC"
+    },
+    "caos": {
+        "team": "",
+        "name": "Caos",
+        "role": "Jungle"
+    },
+    "eradan": {
+        "team": "",
+        "name": "Eradan",
+        "role": "Top"
+    },
+    "grevthar": {
+        "team": "RED-Academy",
+        "name": "Grevthar",
+        "role": "Mid"
+    },
+    "ak": {
+        "team": "Top-Esports-Challenger",
+        "name": "AK",
+        "role": "Top"
+    },
+    "hwq": {
+        "team": "Rogue-Warriors",
+        "name": "HwQ",
+        "role": "Mid"
+    },
+    "zwuji": {
+        "team": "",
+        "name": "ZWuJi",
+        "role": "ADC"
+    },
+    "7wo": {
+        "team": "Royal-Club",
+        "name": "7WO",
+        "role": "Jungle"
+    },
+    "m1anhua": {
+        "team": "Bilibili-Gaming-Junior",
+        "name": "M1anhua",
+        "role": "Jungle"
+    },
+    "sirt": {
+        "team": "",
+        "name": "Sirt",
+        "role": "Jungle"
+    },
+    "evrot": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Evrot",
+        "role": "Mid"
+    },
+    "klaus": {
+        "team": "",
+        "name": "Klaus",
+        "role": "ADC"
+    },
+    "aki": {
+        "team": "Oh-My-God",
+        "name": "AKi",
+        "role": "Jungle"
+    },
+    "cryin": {
+        "team": "Royal-Never-Give-Up",
+        "name": "Cryin",
+        "role": "Mid"
+    },
+    "mark": {
+        "team": "Bilibili-Gaming",
+        "name": "Mark",
+        "role": "Support"
+    },
+    "jiin": {
+        "team": "",
+        "name": "Jiin",
+        "role": "Mid"
+    },
+    "chasy": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Chasy",
+        "role": "Top"
+    },
+    "lucas": {
+        "team": "Invictus-Gaming",
+        "name": "Lucas",
+        "role": "Mid (Sub)"
+    },
+    "loveling": {
+        "team": "",
+        "name": "LoveLing",
+        "role": "Jungle"
+    },
+    "racoon": {
+        "team": "",
+        "name": "Racoon",
+        "role": "Jungle"
+    },
+    "destiny-kr": {
+        "team": "",
+        "name": "Destiny-KR",
+        "role": "Support"
+    },
+    "nugget": {
+        "team": "Winners",
+        "name": "Nugget",
+        "role": "Support"
+    },
+    "namei": {
+        "team": "",
+        "name": "NaMei",
+        "role": "ADC"
+    },
+    "weiyan": {
+        "team": "",
+        "name": "WeiYan",
+        "role": "Jungle"
+    },
+    "zoom": {
+        "team": "JD-Gaming",
+        "name": "Zoom",
+        "role": "Top"
+    },
+    "gap": {
+        "team": "Winners",
+        "name": "GAP",
+        "role": "ADC"
+    },
+    "hena": {
+        "team": "Fredit-BRION",
+        "name": "Hena",
+        "role": "ADC"
+    },
+    "croco": {
+        "team": "Liiv-SANDBOX",
+        "name": "Croco",
+        "role": "Jungle"
+    },
+    "missing": {
+        "team": "Team-World-Elite",
+        "name": "Missing",
+        "role": "Support"
+    },
+    "jzr": {
+        "team": "Young-Miracles",
+        "name": "Jzr",
+        "role": "Jungle"
+    },
+    "beichen": {
+        "team": "Oh-My-God",
+        "name": "Beichen",
+        "role": "Jungle"
+    },
+    "lvmao": {
+        "team": "JD-Gaming",
+        "name": "LvMao",
+        "role": "Support"
+    },
+    "sarkis": {
+        "team": "",
+        "name": "Sarkis",
+        "role": "ADC"
+    },
+    "hyoga": {
+        "team": "Santos-e-Sports",
+        "name": "Hyoga",
+        "role": "Jungle"
+    },
+    "gyeong": {
+        "team": "",
+        "name": "Gyeong",
+        "role": "Support"
+    },
+    "yoda": {
+        "team": "RED-Canids",
+        "name": "YoDa",
+        "role": "Mid"
+    },
+    "reeker": {
+        "team": "Berlin-International-Gaming",
+        "name": "Reeker",
+        "role": "Mid"
+    },
+    "elramir": {
+        "team": "1907-Fenerbahçe-Esports",
+        "name": "Elramir",
+        "role": "Jungle"
+    },
+    "doil": {
+        "team": "",
+        "name": "Doil",
+        "role": "Jungle"
+    },
+    "zhuo": {
+        "team": "Top-Esports",
+        "name": "Zhuo",
+        "role": "Support"
+    },
+    "jinjiao": {
+        "team": "",
+        "name": "Jinjiao",
+        "role": "Support"
+    },
+    "yui": {
+        "team": "",
+        "name": "Yui",
+        "role": "Support"
+    },
+    "junjia": {
+        "team": "EDward-Gaming-Youth-Team",
+        "name": "JunJia",
+        "role": "Jungle"
+    },
+    "cjj": {
+        "team": "eStar",
+        "name": "CJJ",
+        "role": "Top"
+    },
+    "xiaobai": {
+        "team": "Royal-Never-Give-Up",
+        "name": "Xiaobai",
+        "role": "Sub (Sub)"
+    },
+    "wei": {
+        "team": "Royal-Never-Give-Up",
+        "name": "Wei",
+        "role": "Jungle"
+    },
+    "rat": {
+        "team": "eStar",
+        "name": "rat",
+        "role": "ADC"
+    },
+    "alu": {
+        "team": "LGD.Y",
+        "name": "Alu",
+        "role": "Support"
+    },
+    "peace": {
+        "team": "LGD-Gaming",
+        "name": "Peace",
+        "role": "Support"
+    },
+    "cult": {
+        "team": "LGD.Y",
+        "name": "Cult",
+        "role": "Top"
+    },
+    "lies": {
+        "team": "",
+        "name": "Lies",
+        "role": "Top"
+    },
+    "bademan": {
+        "team": "",
+        "name": "BadeMan",
+        "role": "Jungle"
+    },
+    "yuuki": {
+        "team": "LGD-Gaming",
+        "name": "Yuuki",
+        "role": "Mid"
+    },
+    "chance": {
+        "team": "LGD-Gaming",
+        "name": "Chance",
+        "role": "Support"
+    },
+    "killua": {
+        "team": "",
+        "name": "Killua",
+        "role": "Support"
+    },
+    "icon": {
+        "team": "LNG-Esports",
+        "name": "icon",
+        "role": "Mid"
+    },
+    "ley": {
+        "team": "Rogue-Warriors",
+        "name": "Ley",
+        "role": "Support"
+    },
+    "wuming": {
+        "team": "Oh-My-God",
+        "name": "wuming",
+        "role": "Mid"
+    },
+    "biubiu": {
+        "team": "Bilibili-Gaming",
+        "name": "Biubiu",
+        "role": "Top"
+    },
+    "morgan": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Morgan",
+        "role": "Top"
+    },
+    "yimeng": {
+        "team": "Team-World-Elite",
+        "name": "yimeng",
+        "role": "Mid"
+    },
+    "jiumeng": {
+        "team": "Team-World-Elite",
+        "name": "Jiumeng",
+        "role": "ADC"
+    },
+    "moyu": {
+        "team": "",
+        "name": "Moyu",
+        "role": "Top"
+    },
+    "photic": {
+        "team": "Top-Esports",
+        "name": "Photic",
+        "role": "ADC"
+    },
+    "cube": {
+        "team": "Rare-Atom",
+        "name": "Cube",
+        "role": "Top"
+    },
+    "zdz": {
+        "team": "",
+        "name": "Zdz",
+        "role": "Top"
+    },
+    "aix": {
+        "team": "Rare-Atom",
+        "name": "Aix",
+        "role": "Jungle"
+    },
+    "maestro": {
+        "team": "Rare-Atom",
+        "name": "Maestro",
+        "role": "Support"
+    },
+    "zeka": {
+        "team": "Bilibili-Gaming",
+        "name": "Zeka",
+        "role": "Mid"
+    },
+    "997": {
+        "team": "",
+        "name": "997",
+        "role": "Top"
+    },
+    "xiaohan": {
+        "team": "Victory-Five",
+        "name": "Xiaohan",
+        "role": "Jungle"
+    },
+    "clx": {
+        "team": "Bilibili-Gaming-Junior",
+        "name": "clx",
+        "role": "Mid"
+    },
+    "windy": {
+        "team": "",
+        "name": "Windy",
+        "role": "Mid"
+    },
+    "poge": {
+        "team": "V5-87",
+        "name": "poge",
+        "role": "Support"
+    },
+    "broccoli": {
+        "team": "5-Ronin",
+        "name": "BroCColi",
+        "role": "Jungle"
+    },
+    "kadir": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Kadir",
+        "role": "Jungle"
+    },
+    "sora": {
+        "team": "Oh-My-God",
+        "name": "Sora",
+        "role": "Support"
+    },
+    "bandao": {
+        "team": "Invictus-Gaming-Young",
+        "name": "Bandao",
+        "role": "Jungle"
+    },
+    "xiao7": {
+        "team": "",
+        "name": "xiao7",
+        "role": "Top"
+    },
+    "maggie": {
+        "team": "",
+        "name": "Maggie",
+        "role": "Jungle"
+    },
+    "hang": {
+        "team": "Rare-Atom",
+        "name": "Hang",
+        "role": "Support"
+    },
+    "gideon": {
+        "team": "KT-Rolster",
+        "name": "GIDEON",
+        "role": "Jungle"
+    },
+    "kruimel": {
+        "team": "",
+        "name": "Kruimel",
+        "role": "Mid"
+    },
+    "rhioni": {
+        "team": "Team-AURORA",
+        "name": "Rhioni",
+        "role": "ADC"
+    },
+    "xabula": {
+        "team": "RED-Canids",
+        "name": "Xabula",
+        "role": "Support"
+    },
+    "nyu": {
+        "team": "Redemption-eSports-Porto-Alegre",
+        "name": "Nyu",
+        "role": "Top"
+    },
+    "dalka": {
+        "team": "",
+        "name": "Dalka",
+        "role": "None"
+    },
+    "new": {
+        "team": "Oh-My-God",
+        "name": "New",
+        "role": "Top"
+    },
+    "syu": {
+        "team": "",
+        "name": "Syu",
+        "role": "ADC"
+    },
+    "snow": {
+        "team": "Invictus-Gaming",
+        "name": "Snow",
+        "role": "ADC"
+    },
+    "garden": {
+        "team": "",
+        "name": "Garden",
+        "role": "ADC"
+    },
+    "space": {
+        "team": "",
+        "name": "Space",
+        "role": "ADC"
+    },
+    "dooti": {
+        "team": "",
+        "name": "DooTi",
+        "role": "ADC"
+    },
+    "flahm": {
+        "team": "",
+        "name": "FLahm",
+        "role": "Support"
+    },
+    "p1noy": {
+        "team": "G2-Esports",
+        "name": "P1noy",
+        "role": "ADC"
+    },
+    "yampi": {
+        "team": "Vorax",
+        "name": "Yampi",
+        "role": "Jungle"
+    },
+    "woofe": {
+        "team": "Flamengo-eSports",
+        "name": "WooFe",
+        "role": "Top"
+    },
+    "disave": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Disave",
+        "role": "ADC"
+    },
+    "fury": {
+        "team": "Suning-Gaming",
+        "name": "Fury",
+        "role": "None"
+    },
+    "juhan": {
+        "team": "Nongshim-RedForce",
+        "name": "Juhan",
+        "role": "Jungle"
+    },
+    "gangboong": {
+        "team": "Asura",
+        "name": "Gangboong",
+        "role": "Mid"
+    },
+    "5kid": {
+        "team": "KT-Rolster-Academy",
+        "name": "5Kid",
+        "role": "ADC"
+    },
+    "idk": {
+        "team": "Asura",
+        "name": "IDK",
+        "role": "Support"
+    },
+    "slugger": {
+        "team": "",
+        "name": "Slugger",
+        "role": "Top"
+    },
+    "flare": {
+        "team": "RED-Academy",
+        "name": "Flare",
+        "role": "Jungle"
+    },
+    "silk": {
+        "team": "",
+        "name": "Silk",
+        "role": "Jungle"
+    },
+    "scarlet": {
+        "team": "",
+        "name": "Scarlet",
+        "role": "Mid"
+    },
+    "shark": {
+        "team": "",
+        "name": "Shark",
+        "role": "ADC"
+    },
+    "execute": {
+        "team": "",
+        "name": "Execute",
+        "role": "Support"
+    },
+    "destroy": {
+        "team": "DRX",
+        "name": "Destroy",
+        "role": "Top"
+    },
+    "yohan": {
+        "team": "Hanwha-Life-Esports",
+        "name": "yoHan",
+        "role": "Jungle (Sub)"
+    },
+    "chosen": {
+        "team": "",
+        "name": "Chosen",
+        "role": "Jungle"
+    },
+    "drogo": {
+        "team": "",
+        "name": "Drogo",
+        "role": "ADC"
+    },
+    "invoker": {
+        "team": "",
+        "name": "Invoker",
+        "role": "Support"
+    },
+    "algos": {
+        "team": "5-Ronin-Academy",
+        "name": "Algos",
+        "role": "Support"
+    },
+    "sevi9": {
+        "team": "",
+        "name": "Sevi9",
+        "role": "Jungle"
+    },
+    "rhemio": {
+        "team": "SuperMassive-Academy",
+        "name": "Rhemio",
+        "role": "Mid"
+    },
+    "serin": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "Serin",
+        "role": "Mid"
+    },
+    "luana": {
+        "team": "Galatasaray-Esports",
+        "name": "Luana",
+        "role": "Top"
+    },
+    "xiaoxiang": {
+        "team": "EDward-Gaming",
+        "name": "xiaoxiang",
+        "role": "ADC"
+    },
+    "paladin": {
+        "team": "",
+        "name": "Paladin",
+        "role": "Top"
+    },
+    "pride": {
+        "team": "Fnatic-Rising",
+        "name": "Pride",
+        "role": "Top"
+    },
+    "bravado": {
+        "team": "",
+        "name": "Bravado",
+        "role": "Support"
+    },
+    "koldo": {
+        "team": "G2-Arctic",
+        "name": "Koldo",
+        "role": "Jungle"
+    },
+    "hatrixx": {
+        "team": "BT-Excel",
+        "name": "Hatrixx",
+        "role": "Mid"
+    },
+    "flakked": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Flakked",
+        "role": "ADC"
+    },
+    "jezu": {
+        "team": "SK-Gaming",
+        "name": "Jezu",
+        "role": "ADC"
+    },
+    "rozara": {
+        "team": "Misfits-Premier",
+        "name": "Rozara",
+        "role": "Jungle (Sub)"
+    },
+    "solca": {
+        "team": "DRX",
+        "name": "SOLCA",
+        "role": "Mid (Sub)"
+    },
+    "ben4": {
+        "team": "",
+        "name": "Ben4",
+        "role": "Jungle"
+    },
+    "ke": {
+        "team": "eStar.Y",
+        "name": "Ke",
+        "role": "Support"
+    },
+    "keine": {
+        "team": "Afreeca-Freecs",
+        "name": "Keine",
+        "role": "Mid"
+    },
+    "lonely": {
+        "team": "",
+        "name": "Lonely",
+        "role": "Top"
+    },
+    "boaster": {
+        "team": "",
+        "name": "Boaster",
+        "role": "Mid"
+    },
+    "bertho": {
+        "team": "SK-Gaming",
+        "name": "Bertho",
+        "role": "Support (Sub)"
+    },
+    "boris": {
+        "team": "",
+        "name": "Boris",
+        "role": "Support"
+    },
+    "nosferus": {
+        "team": "Cruzeiro-eSports",
+        "name": "NOsFerus",
+        "role": "Mid"
+    },
+    "drop": {
+        "team": "",
+        "name": "Drop",
+        "role": "ADC"
+    },
+    "chibs": {
+        "team": "Fnatic-Rising",
+        "name": "Chibs",
+        "role": "Mid (Sub)"
+    },
+    "doxy": {
+        "team": "",
+        "name": "Doxy",
+        "role": "Top"
+    },
+    "kurd": {
+        "team": "Liyab-Esports",
+        "name": "Kurd",
+        "role": "Top"
+    },
+    "lapis": {
+        "team": "ESC-Shane",
+        "name": "Lapis",
+        "role": "Top"
+    },
+    "garou": {
+        "team": "",
+        "name": "Garou",
+        "role": "Jungle"
+    },
+    "mocha": {
+        "team": "Beşiktaş-e-Sports-Club",
+        "name": "Mocha",
+        "role": "Support"
+    },
+    "honey": {
+        "team": "",
+        "name": "Honey",
+        "role": "ADC"
+    },
+    "arumik": {
+        "team": "",
+        "name": "Arumik",
+        "role": "Top"
+    },
+    "aoi-haru": {
+        "team": "Dragon-Army",
+        "name": "Aoi-Haru",
+        "role": "Top"
+    },
+    "paranoia": {
+        "team": "Dragon-Army",
+        "name": "Paranoia",
+        "role": "Mid"
+    },
+    "lex": {
+        "team": "Dragon-Army",
+        "name": "LeX",
+        "role": "ADC"
+    },
+    "dimonko": {
+        "team": "",
+        "name": "Dimonko",
+        "role": "Support"
+    },
+    "kryze": {
+        "team": "exceL-Esports",
+        "name": "Kryze",
+        "role": "Top"
+    },
+    "agurin": {
+        "team": "",
+        "name": "Agurin",
+        "role": "Jungle"
+    },
+    "envy-carry": {
+        "team": "",
+        "name": "Envy-Carry",
+        "role": "Mid"
+    },
+    "venzer": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Venzer",
+        "role": "ADC"
+    },
+    "dreamer-ace": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Dreamer-Ace",
+        "role": "Support"
+    },
+    "ryuzaki": {
+        "team": "",
+        "name": "Ryuzaki",
+        "role": "Jungle"
+    },
+    "gregio": {
+        "team": "Team-oNe-eSports",
+        "name": "Gregio",
+        "role": "Mid"
+    },
+    "kadaki": {
+        "team": "Team-oNe-eSports",
+        "name": "Kadaki",
+        "role": "ADC"
+    },
+    "zeus": {
+        "team": "T1",
+        "name": "Zeus",
+        "role": "Top"
+    },
+    "nyx": {
+        "team": "Gen.G-Academy",
+        "name": "Nyx",
+        "role": "Jungle"
+    },
+    "hakam": {
+        "team": "",
+        "name": "HakaM",
+        "role": "ADC"
+    },
+    "hasmed": {
+        "team": "",
+        "name": "Hasmed",
+        "role": "Top"
+    },
+    "pun": {
+        "team": "Dashing-Buffalo",
+        "name": "Pun",
+        "role": "Top"
+    },
+    "dk": {
+        "team": "Dashing-Buffalo",
+        "name": "DK",
+        "role": "Jungle"
+    },
+    "becca": {
+        "team": "DRX",
+        "name": "Becca",
+        "role": "Support"
+    },
+    "ggul": {
+        "team": "",
+        "name": "Ggul",
+        "role": "Top"
+    },
+    "illlima": {
+        "team": "DRX-Academy",
+        "name": "illlima",
+        "role": "Top"
+    },
+    "khalis": {
+        "team": "DRX-Academy",
+        "name": "Khalis",
+        "role": "Top"
+    },
+    "dantal": {
+        "team": "DRX-Academy",
+        "name": "Dantal",
+        "role": "Jungle"
+    },
+    "bao": {
+        "team": "DRX",
+        "name": "BAO",
+        "role": "ADC"
+    },
+    "hades-kr": {
+        "team": "DRX-Academy",
+        "name": "Hades-KR",
+        "role": "ADC"
+    },
+    "seonbi": {
+        "team": "DRX-Academy",
+        "name": "Seonbi",
+        "role": "Support"
+    },
+    "cookie": {
+        "team": "",
+        "name": "Cookie",
+        "role": "None"
+    },
+    "rwei": {
+        "team": "",
+        "name": "Rwei",
+        "role": "Jungle"
+    },
+    "krab": {
+        "team": "Winners",
+        "name": "Krab",
+        "role": "Top"
+    },
+    "ppung": {
+        "team": "Winners",
+        "name": "Ppung",
+        "role": "Jungle"
+    },
+    "whitehorse": {
+        "team": "Winners",
+        "name": "Whitehorse",
+        "role": "Mid"
+    },
+    "szygenda": {
+        "team": "Vitality",
+        "name": "Szygenda",
+        "role": "Top"
+    },
+    "zanzarah": {
+        "team": "Astralis",
+        "name": "Zanzarah",
+        "role": "Jungle"
+    },
+    "5fire": {
+        "team": "",
+        "name": "5fire",
+        "role": "Mid"
+    },
+    "mightydragon": {
+        "team": "CrowCrowd",
+        "name": "MightyDragon",
+        "role": "Jungle"
+    },
+    "optimas": {
+        "team": "One-Breath-Gaming",
+        "name": "Optimas",
+        "role": "ADC"
+    },
+    "simsin": {
+        "team": "",
+        "name": "SimSin",
+        "role": "Support"
+    },
+    "smurf": {
+        "team": "One-Breath-Gaming",
+        "name": "Smurf",
+        "role": "Top"
+    },
+    "kinzu": {
+        "team": "",
+        "name": "Kinzu",
+        "role": "ADC"
+    },
+    "phlaty": {
+        "team": "",
+        "name": "Phlaty",
+        "role": "Mid"
+    },
+    "four": {
+        "team": "",
+        "name": "Four",
+        "role": "Jungle"
+    },
+    "winged": {
+        "team": "PSG-Talon",
+        "name": "Winged",
+        "role": "None"
+    },
+    "copy-c": {
+        "team": "",
+        "name": "Copy-C",
+        "role": "Top"
+    },
+    "lot": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "Lot",
+        "role": "Top"
+    },
+    "helo": {
+        "team": "",
+        "name": "helo",
+        "role": "ADC"
+    },
+    "jeyrus": {
+        "team": "Galakticos",
+        "name": "Jeyrus",
+        "role": "ADC"
+    },
+    "petrichor": {
+        "team": "",
+        "name": "Petrichor",
+        "role": "Support"
+    },
+    "lenom": {
+        "team": "1907-Fenerbahçe-Esports",
+        "name": "Lenom",
+        "role": "Top"
+    },
+    "redhand": {
+        "team": "",
+        "name": "RedHand",
+        "role": "Jungle"
+    },
+    "midkid": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "midkid",
+        "role": "Mid"
+    },
+    "sparz": {
+        "team": "1907-Fenerbahçe-Esports",
+        "name": "Sparz",
+        "role": "Support"
+    },
+    "asci": {
+        "team": "5-Ronin-Academy",
+        "name": "Asci",
+        "role": "Jungle"
+    },
+    "scomb": {
+        "team": "5-Ronin-Academy",
+        "name": "Scomb",
+        "role": "Jungle"
+    },
+    "boncuk": {
+        "team": "",
+        "name": "Boncuk",
+        "role": "ADC"
+    },
+    "hypnos": {
+        "team": "Galatasaray-Academy",
+        "name": "Hypnos",
+        "role": "ADC"
+    },
+    "dirty": {
+        "team": "5-Ronin-Academy",
+        "name": "Dirty",
+        "role": "Support"
+    },
+    "oscarinin": {
+        "team": "G2-Arctic",
+        "name": "Oscarinin",
+        "role": "Top"
+    },
+    "nasser": {
+        "team": "",
+        "name": "Nasser",
+        "role": "Jungle"
+    },
+    "feeniixz": {
+        "team": "",
+        "name": "FeeNiixZ",
+        "role": "Mid"
+    },
+    "supa": {
+        "team": "G2-Arctic",
+        "name": "Supa",
+        "role": "ADC"
+    },
+    "aesenar": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Aesenar",
+        "role": "Support"
+    },
+    "nandisko": {
+        "team": "",
+        "name": "Nandisko",
+        "role": "Top"
+    },
+    "tiger": {
+        "team": "",
+        "name": "Tiger",
+        "role": "ADC"
+    },
+    "trymbi": {
+        "team": "Rogue",
+        "name": "Trymbi",
+        "role": "Support"
+    },
+    "send0o": {
+        "team": "",
+        "name": "Send0o",
+        "role": "Top"
+    },
+    "toland": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "TolanD",
+        "role": "Mid"
+    },
+    "bonnie": {
+        "team": "KT-Rolster-Academy",
+        "name": "Bonnie",
+        "role": "Jungle"
+    },
+    "dorun": {
+        "team": "",
+        "name": "DoRun",
+        "role": "Top"
+    },
+    "sylchasie": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "Sylchasie",
+        "role": "Mid"
+    },
+    "fastlegged": {
+        "team": "",
+        "name": "Fastlegged",
+        "role": "Support"
+    },
+    "nonholy": {
+        "team": "CrowCrowd",
+        "name": "NoNholy",
+        "role": "Top"
+    },
+    "rein": {
+        "team": "",
+        "name": "Rein",
+        "role": "Jungle"
+    },
+    "haninger": {
+        "team": "CrowCrowd",
+        "name": "Haninger",
+        "role": "ADC"
+    },
+    "skash": {
+        "team": "CrowCrowd",
+        "name": "Skash",
+        "role": "Support"
+    },
+    "xyraz": {
+        "team": "",
+        "name": "Xyraz",
+        "role": "Top"
+    },
+    "nyxyvel": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "Nyxyvel",
+        "role": "Top"
+    },
+    "skewer": {
+        "team": "5-Ronin-Academy",
+        "name": "Skewer",
+        "role": "Top"
+    },
+    "neramin": {
+        "team": "1907-Fenerbahçe-Esports",
+        "name": "Neramin",
+        "role": "ADC"
+    },
+    "vivien": {
+        "team": "",
+        "name": "Vivien",
+        "role": "Support"
+    },
+    "kenvi": {
+        "team": "100-Thieves-Academy",
+        "name": "Kenvi",
+        "role": "Jungle"
+    },
+    "tenacity": {
+        "team": "100-Thieves-Academy",
+        "name": "Tenacity",
+        "role": "Top"
+    },
+    "copy": {
+        "team": "Cloud9-Academy",
+        "name": "Copy",
+        "role": "Mid"
+    },
+    "poome": {
+        "team": "100-Thieves-Academy",
+        "name": "Poome",
+        "role": "Support"
+    },
+    "view": {
+        "team": "Suning-Gaming",
+        "name": "View",
+        "role": "Jungle"
+    },
+    "shellkunchik": {
+        "team": "",
+        "name": "Shellkunchik",
+        "role": "Top"
+    },
+    "nns": {
+        "team": "",
+        "name": "NNS",
+        "role": "Jungle"
+    },
+    "griffon": {
+        "team": "",
+        "name": "Griffon",
+        "role": "Mid"
+    },
+    "miracle": {
+        "team": "RoX",
+        "name": "Miracle",
+        "role": "Support"
+    },
+    "matilda": {
+        "team": "",
+        "name": "Matilda",
+        "role": "Top"
+    },
+    "korpse": {
+        "team": "",
+        "name": "Korpse",
+        "role": "Support"
+    },
+    "holo": {
+        "team": "Hong-Kong-Attitude",
+        "name": "Holo",
+        "role": "Jungle"
+    },
+    "shu-hari": {
+        "team": "XTEN-Esports",
+        "name": "Shu-Hari",
+        "role": "Support"
+    },
+    "nino": {
+        "team": "",
+        "name": "Nino",
+        "role": "Mid"
+    },
+    "euaaang": {
+        "team": "",
+        "name": "Euaaang",
+        "role": "Top"
+    },
+    "meaning": {
+        "team": "Gen.G-Academy",
+        "name": "Meaning",
+        "role": "Top"
+    },
+    "harp": {
+        "team": "KT-Rolster-Academy",
+        "name": "Harp",
+        "role": "Support"
+    },
+    "hoya": {
+        "team": "Fredit-BRION",
+        "name": "Hoya",
+        "role": "Top"
+    },
+    "hambak": {
+        "team": "",
+        "name": "HamBak",
+        "role": "Jungle"
+    },
+    "myrwn": {
+        "team": "Astralis-SB",
+        "name": "Myrwn",
+        "role": "Top"
+    },
+    "croniik": {
+        "team": "Astralis-SB",
+        "name": "CRoNiiK",
+        "role": "Jungle"
+    },
+    "kamikaze": {
+        "team": "Astralis-SB",
+        "name": "Kamikaze",
+        "role": "Mid"
+    },
+    "corvo": {
+        "team": "",
+        "name": "Corvo",
+        "role": "ADC"
+    },
+    "boly": {
+        "team": "Astralis-SB",
+        "name": "Boly",
+        "role": "Support"
+    },
+    "bini": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Bini",
+        "role": "ADC"
+    },
+    "delitto": {
+        "team": "",
+        "name": "Delitto",
+        "role": "Top"
+    },
+    "yolanda": {
+        "team": "",
+        "name": "Yolanda",
+        "role": "Jungle"
+    },
+    "athena": {
+        "team": "",
+        "name": "Athena",
+        "role": "Mid"
+    },
+    "kino": {
+        "team": "Alpha-Esports",
+        "name": "Kino",
+        "role": "Support"
+    },
+    "gone": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Gone",
+        "role": "Mid"
+    },
+    "alielie": {
+        "team": "Oh-My-God",
+        "name": "Alielie",
+        "role": "Top"
+    },
+    "noway4u": {
+        "team": "",
+        "name": "noway4u",
+        "role": "Mid"
+    },
+    "midbeast": {
+        "team": "",
+        "name": "Midbeast",
+        "role": "Mid"
+    },
+    "boxer": {
+        "team": "T1",
+        "name": "Boxer",
+        "role": "ADC"
+    },
+    "zherathor": {
+        "team": "Astralis-SB",
+        "name": "Zherathor",
+        "role": "Mid"
+    },
+    "huanfeng": {
+        "team": "Suning-Gaming",
+        "name": "huanfeng",
+        "role": "ADC"
+    },
+    "rebel": {
+        "team": "KT-Rolster-Academy",
+        "name": "Rebel",
+        "role": "Support"
+    },
+    "oner": {
+        "team": "T1",
+        "name": "Oner",
+        "role": "Jungle"
+    },
+    "roamer": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Roamer",
+        "role": "Mid"
+    },
+    "coten": {
+        "team": "",
+        "name": "Coten",
+        "role": "Top"
+    },
+    "magic": {
+        "team": "Team-WE-Academy",
+        "name": "Magic",
+        "role": "Jungle"
+    },
+    "zs": {
+        "team": "eStar",
+        "name": "zs",
+        "role": "Top"
+    },
+    "mingren": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "Mingren",
+        "role": "Jungle"
+    },
+    "nideaiqing": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "NiDeAiQing",
+        "role": "Jungle"
+    },
+    "yoghurt": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "Yoghurt",
+        "role": "Mid"
+    },
+    "april": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "April",
+        "role": "ADC"
+    },
+    "malice": {
+        "team": "",
+        "name": "Malice",
+        "role": "Jungle"
+    },
+    "minji": {
+        "team": "Berjaya-Dragons",
+        "name": "Minji",
+        "role": "Mid"
+    },
+    "gyuvee": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "gyuvee",
+        "role": "Top"
+    },
+    "viod": {
+        "team": "DRX",
+        "name": "Viod",
+        "role": "ADC (Sub)"
+    },
+    "bigshot": {
+        "team": "",
+        "name": "BigShot",
+        "role": "Jungle"
+    },
+    "weilun": {
+        "team": "",
+        "name": "WeiLun",
+        "role": "ADC (Sub)"
+    },
+    "ten10": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Ten10",
+        "role": "Mid"
+    },
+    "corporal": {
+        "team": "Fukuoka-SoftBank-Hawks-gaming",
+        "name": "Corporal",
+        "role": "Support"
+    },
+    "simple": {
+        "team": "Team-WE-Academy",
+        "name": "Simple",
+        "role": "Jungle"
+    },
+    "bay": {
+        "team": "Nongshim-RedForce",
+        "name": "Bay",
+        "role": "Mid"
+    },
+    "howling": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Howling",
+        "role": "Top"
+    },
+    "wize": {
+        "team": "GenG",
+        "name": "Wize",
+        "role": "Support (Sub)"
+    },
+    "muru": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Muru",
+        "role": "Support"
+    },
+    "hidan": {
+        "team": "",
+        "name": "Hidan",
+        "role": "Top"
+    },
+    "parang": {
+        "team": "Flamengo-eSports",
+        "name": "Parang",
+        "role": "Top"
+    },
+    "xero": {
+        "team": "",
+        "name": "Xero",
+        "role": "None"
+    },
+    "tutsz": {
+        "team": "Flamengo-eSports",
+        "name": "Tutsz",
+        "role": "Mid"
+    },
+    "zen": {
+        "team": "",
+        "name": "Zen",
+        "role": "Top"
+    },
+    "scamber": {
+        "team": "",
+        "name": "Scamber",
+        "role": "Support"
+    },
+    "guigo": {
+        "team": "RED-Canids",
+        "name": "Guigo",
+        "role": "Top"
+    },
+    "avenger": {
+        "team": "RED-Canids",
+        "name": "Avenger",
+        "role": "Mid"
+    },
+    "trigo": {
+        "team": "Rensga-Esports",
+        "name": "Trigo",
+        "role": "ADC"
+    },
+    "aegis": {
+        "team": "RED-Canids",
+        "name": "Aegis",
+        "role": "Jungle"
+    },
+    "woodboy": {
+        "team": "RED-Academy",
+        "name": "Woodboy",
+        "role": "Support"
+    },
+    "yama": {
+        "team": "Team-Liquid-Academy",
+        "name": "Yama",
+        "role": "Support"
+    },
+    "tomo": {
+        "team": "FlyQuest-Academy",
+        "name": "Tomo",
+        "role": "ADC"
+    },
+    "labrov": {
+        "team": "Vitality",
+        "name": "labrov",
+        "role": "Support"
+    },
+    "supernova": {
+        "team": "",
+        "name": "Supernova",
+        "role": "ADC"
+    },
+    "pump": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Pump",
+        "role": "ADC"
+    },
+    "tynx": {
+        "team": "SK-Gaming",
+        "name": "TynX",
+        "role": "Jungle"
+    },
+    "vetheo": {
+        "team": "Misfits",
+        "name": "Vetheo",
+        "role": "Mid"
+    },
+    "kuroko": {
+        "team": "",
+        "name": "Kuroko",
+        "role": "Jungle"
+    },
+    "genz": {
+        "team": "Dashing-Buffalo",
+        "name": "Genz",
+        "role": "Top"
+    },
+    "style": {
+        "team": "",
+        "name": "Style",
+        "role": "ADC"
+    },
+    "froggy": {
+        "team": "Dashing-Buffalo",
+        "name": "Froggy",
+        "role": "Top"
+    },
+    "zica": {
+        "team": "Team-Secret",
+        "name": "Zica",
+        "role": "Top"
+    },
+    "serenity": {
+        "team": "",
+        "name": "Serenity",
+        "role": "Support (Sub)"
+    },
+    "xiaohuangren": {
+        "team": "Dominus-Esports-Young",
+        "name": "xiaohuangren",
+        "role": "Jungle"
+    },
+    "bbd": {
+        "team": "",
+        "name": "BBD",
+        "role": "ADC"
+    },
+    "crime": {
+        "team": "Oh-My-Dream",
+        "name": "Crime",
+        "role": "Mid"
+    },
+    "badboy": {
+        "team": "",
+        "name": "badboy",
+        "role": "Mid"
+    },
+    "chenlun17": {
+        "team": "",
+        "name": "chenlun17",
+        "role": "Top"
+    },
+    "sky-cn": {
+        "team": "TT",
+        "name": "Sky-CN",
+        "role": "Mid"
+    },
+    "57": {
+        "team": "",
+        "name": "57",
+        "role": "Jungle"
+    },
+    "natalie": {
+        "team": "",
+        "name": "Natalie",
+        "role": "Jungle"
+    },
+    "cruel": {
+        "team": "Suning-S",
+        "name": "Cruel",
+        "role": "Support"
+    },
+    "shanks": {
+        "team": "Team-World-Elite",
+        "name": "Shanks",
+        "role": "Mid"
+    },
+    "cool": {
+        "team": "",
+        "name": "Cool",
+        "role": "Mid"
+    },
+    "jackairay": {
+        "team": "",
+        "name": "Jackairay",
+        "role": "Jungle"
+    },
+    "samd": {
+        "team": "TT",
+        "name": "SamD",
+        "role": "ADC"
+    },
+    "aliez": {
+        "team": "V5-87",
+        "name": "Aliez",
+        "role": "Top"
+    },
+    "lixiao": {
+        "team": "Oh-My-Dream",
+        "name": "Lixiao",
+        "role": "Jungle"
+    },
+    "garvey": {
+        "team": "LGD-Gaming",
+        "name": "Garvey",
+        "role": "Top"
+    },
+    "winston": {
+        "team": "",
+        "name": "Winston",
+        "role": "Jungle"
+    },
+    "chime": {
+        "team": "Golden-Guardians-Academy",
+        "name": "Chime",
+        "role": "Support"
+    },
+    "zazee": {
+        "team": "SK-Gaming-Prime",
+        "name": "ZaZee",
+        "role": "Mid"
+    },
+    "krong": {
+        "team": "",
+        "name": "KronG",
+        "role": "Top"
+    },
+    "pluto": {
+        "team": "",
+        "name": "PluTo",
+        "role": "Support"
+    },
+    "yeongjae": {
+        "team": "Gen.G-Academy",
+        "name": "YeongJae",
+        "role": "Jungle"
+    },
+    "mireu": {
+        "team": "T1-Academy",
+        "name": "Mireu",
+        "role": "Mid"
+    },
+    "cad": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "CaD",
+        "role": "Jungle"
+    },
+    "on": {
+        "team": "Suning-Gaming",
+        "name": "ON",
+        "role": "Support"
+    },
+    "mitsuki": {
+        "team": "",
+        "name": "Mitsuki",
+        "role": "Support"
+    },
+    "zyf": {
+        "team": "V5-87",
+        "name": "ZYF",
+        "role": "Support"
+    },
+    "l3est16": {
+        "team": "",
+        "name": "l3est16",
+        "role": "Jungle"
+    },
+    "vortex": {
+        "team": "Bilibili-Gaming",
+        "name": "Vortex",
+        "role": "ADC (Sub)"
+    },
+    "fitz": {
+        "team": "",
+        "name": "Fitz",
+        "role": "Top"
+    },
+    "thunder": {
+        "team": "",
+        "name": "Thunder",
+        "role": "Mid"
+    },
+    "kennedys": {
+        "team": "Rensga-Esports",
+        "name": "Kennedys",
+        "role": "Top"
+    },
+    "reversed": {
+        "team": "",
+        "name": "Reversed",
+        "role": "Top"
+    },
+    "titeito": {
+        "team": "",
+        "name": "Titeito",
+        "role": "Mid"
+    },
+    "hauz": {
+        "team": "Rensga-Esports",
+        "name": "Hauz",
+        "role": "Mid"
+    },
+    "jojo": {
+        "team": "RED-Canids",
+        "name": "JoJo",
+        "role": "Support"
+    },
+    "asta": {
+        "team": "",
+        "name": "Asta",
+        "role": "Jungle"
+    },
+    "last": {
+        "team": "NASR-eSports-Turkey",
+        "name": "LAST",
+        "role": "Top"
+    },
+    "save": {
+        "team": "",
+        "name": "Save",
+        "role": "ADC"
+    },
+    "nestea": {
+        "team": "J-Team",
+        "name": "Nestea",
+        "role": "Mid"
+    },
+    "wayne": {
+        "team": "Nongshim-RedForce",
+        "name": "Wayne",
+        "role": "ADC"
+    },
+    "swiffer": {
+        "team": "",
+        "name": "Swiffer",
+        "role": "Mid"
+    },
+    "hoglet": {
+        "team": "",
+        "name": "Hoglet",
+        "role": "Jungle"
+    },
+    "yupps": {
+        "team": "INTZ-e-Sports",
+        "name": "Yupps",
+        "role": "Top"
+    },
+    "nano": {
+        "team": "",
+        "name": "Nano",
+        "role": "Support"
+    },
+    "bgob": {
+        "team": "",
+        "name": "Bgob",
+        "role": "Jungle"
+    },
+    "cpt-jack": {
+        "team": "",
+        "name": "Cpt-Jack",
+        "role": "ADC"
+    },
+    "yusin": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "Yusin",
+        "role": "Support"
+    },
+    "citrus": {
+        "team": "",
+        "name": "Citrus",
+        "role": "Jungle"
+    },
+    "xun": {
+        "team": "Invictus-Gaming",
+        "name": "XUN",
+        "role": "Jungle"
+    },
+    "envyy": {
+        "team": "Gen.G-Academy",
+        "name": "Envyy",
+        "role": "ADC"
+    },
+    "hayoon": {
+        "team": "",
+        "name": "HaYoon",
+        "role": "Support"
+    },
+    "ruel": {
+        "team": "DRX-Academy",
+        "name": "Ruel",
+        "role": "ADC"
+    },
+    "karis": {
+        "team": "GenG",
+        "name": "Karis",
+        "role": "Mid"
+    },
+    "teroor": {
+        "team": "One-Breath-Gaming",
+        "name": "Teroor",
+        "role": "ADC (Sub)"
+    },
+    "xtylk": {
+        "team": "",
+        "name": "xTyLk",
+        "role": "Mid"
+    },
+    "cogcog": {
+        "team": "",
+        "name": "Cogcog",
+        "role": "Top"
+    },
+    "gariaru": {
+        "team": "Burning-Core",
+        "name": "Gariaru",
+        "role": "Jungle"
+    },
+    "yoshi": {
+        "team": "Crest-Gaming-Act",
+        "name": "Yoshi",
+        "role": "Jungle (Sub)"
+    },
+    "shine": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "Shine",
+        "role": "Mid"
+    },
+    "oncan": {
+        "team": "5-Ronin",
+        "name": "Oncan",
+        "role": "Top"
+    },
+    "husky-rider": {
+        "team": "",
+        "name": "Husky-Rider",
+        "role": "ADC"
+    },
+    "brolia": {
+        "team": "5-Ronin",
+        "name": "Brolia",
+        "role": "Support"
+    },
+    "crowno": {
+        "team": "",
+        "name": "Crowno",
+        "role": "Top"
+    },
+    "stillnumb": {
+        "team": "1907-Fenerbahçe-Esports",
+        "name": "stillnumb",
+        "role": "Mid"
+    },
+    "rate": {
+        "team": "SuperMassive-Academy",
+        "name": "Rate",
+        "role": "ADC"
+    },
+    "efias": {
+        "team": "G2-Arctic",
+        "name": "Efias",
+        "role": "Support"
+    },
+    "juuzou": {
+        "team": "Beşiktaş-e-Sports-Club",
+        "name": "Juuzou",
+        "role": "Top"
+    },
+    "dice": {
+        "team": "Gen.G-Academy",
+        "name": "Dice",
+        "role": "Mid"
+    },
+    "arnax": {
+        "team": "Dragon-Army",
+        "name": "Arnax",
+        "role": "Mid"
+    },
+    "argonavt": {
+        "team": "Dragon-Army",
+        "name": "Argonavt",
+        "role": "ADC"
+    },
+    "laynel": {
+        "team": "",
+        "name": "Laynel",
+        "role": "Mid"
+    },
+    "unho1y": {
+        "team": "",
+        "name": "Unho1y",
+        "role": "ADC"
+    },
+    "burry": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Burry",
+        "role": "Jungle"
+    },
+    "cblphuk": {
+        "team": "",
+        "name": "CblpHuK",
+        "role": "Support"
+    },
+    "gimliques": {
+        "team": "RoX",
+        "name": "Gimliques",
+        "role": "Top"
+    },
+    "soul": {
+        "team": "RoX",
+        "name": "Soul",
+        "role": "Jungle"
+    },
+    "mykey": {
+        "team": "",
+        "name": "MyKey",
+        "role": "ADC"
+    },
+    "liquiddiego": {
+        "team": "Estral-Esports",
+        "name": "LiquidDiego",
+        "role": "Jungle"
+    },
+    "zelt": {
+        "team": "Estral-Esports",
+        "name": "Zelt",
+        "role": "Top"
+    },
+    "caritatriste": {
+        "team": "Estral-Esports",
+        "name": "CARITATRISTE",
+        "role": "Mid"
+    },
+    "oscar": {
+        "team": "",
+        "name": "Oscar",
+        "role": "Top"
+    },
+    "roi": {
+        "team": "",
+        "name": "Roi",
+        "role": "Mid"
+    },
+    "ophelia": {
+        "team": "Gen.G-Academy",
+        "name": "Ophelia",
+        "role": "Mid"
+    },
+    "jorx": {
+        "team": "",
+        "name": "Jorx",
+        "role": "Jungle"
+    },
+    "spike": {
+        "team": "Victorious-Gaming",
+        "name": "Spike",
+        "role": "ADC"
+    },
+    "swordd": {
+        "team": "TSM-Academy",
+        "name": "Swordd",
+        "role": "Mid"
+    },
+    "zzus": {
+        "team": "KT-Rolster",
+        "name": "Zzus",
+        "role": "Support"
+    },
+    "lia": {
+        "team": "ESC-Shane",
+        "name": "Lia",
+        "role": "Jungle"
+    },
+    "punk": {
+        "team": "JingNetGame",
+        "name": "Punk",
+        "role": "Top"
+    },
+    "yaoyang": {
+        "team": "JingNetGame",
+        "name": "yaoyang",
+        "role": "Top"
+    },
+    "rare": {
+        "team": "Team-AURORA",
+        "name": "Rare",
+        "role": "Top"
+    },
+    "mytant": {
+        "team": "RoX",
+        "name": "Mytant",
+        "role": "ADC"
+    },
+    "meleks": {
+        "team": "",
+        "name": "Meleks",
+        "role": "Support"
+    },
+    "archer": {
+        "team": "",
+        "name": "Archer",
+        "role": "ADC"
+    },
+    "berserker": {
+        "team": "T1-Academy",
+        "name": "Berserker",
+        "role": "ADC"
+    },
+    "accez": {
+        "team": "INTZ-e-Sports",
+        "name": "Accez",
+        "role": "Jungle"
+    },
+    "hanor": {
+        "team": "INTZ-e-Sports",
+        "name": "Hanor",
+        "role": "Mid"
+    },
+    "yatsu": {
+        "team": "INTZ-e-Sports",
+        "name": "Yatsu",
+        "role": "None"
+    },
+    "mousty": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Mousty",
+        "role": "Jungle"
+    },
+    "jackpot": {
+        "team": "XTEN-Esports",
+        "name": "JackPoT",
+        "role": "Top"
+    },
+    "hawk": {
+        "team": "Cruzeiro-eSports",
+        "name": "Hawk",
+        "role": "Support"
+    },
+    "aryze": {
+        "team": "",
+        "name": "Aryze",
+        "role": "Top"
+    },
+    "mori": {
+        "team": "Oh-My-Dream",
+        "name": "Mori",
+        "role": "Jungle"
+    },
+    "phantom": {
+        "team": "T1",
+        "name": "Phantom",
+        "role": "Support (Sub)"
+    },
+    "merit": {
+        "team": "DRX-Academy",
+        "name": "Merit",
+        "role": "ADC"
+    },
+    "zzanggu": {
+        "team": "DRX-Academy",
+        "name": "Zzanggu",
+        "role": "Mid"
+    },
+    "jun": {
+        "team": "DRX-Academy",
+        "name": "Jun",
+        "role": "Support"
+    },
+    "neat": {
+        "team": "",
+        "name": "Neat",
+        "role": "Jungle"
+    },
+    "pancake": {
+        "team": "All-Knights",
+        "name": "Pancake",
+        "role": "Mid"
+    },
+    "grell": {
+        "team": "All-Knights",
+        "name": "Grell",
+        "role": "Jungle"
+    },
+    "newbie": {
+        "team": "Golden-Guardians",
+        "name": "Newbie",
+        "role": "Support"
+    },
+    "tangwa": {
+        "team": "Invictus-Gaming-Young",
+        "name": "Tangwa",
+        "role": "Support (Sub)"
+    },
+    "hong": {
+        "team": "",
+        "name": "Hong",
+        "role": "Top"
+    },
+    "lika1": {
+        "team": "Machi-E-Sports",
+        "name": "Lika1",
+        "role": "Top (Sub)"
+    },
+    "jimien": {
+        "team": "Machi-E-Sports",
+        "name": "JimieN",
+        "role": "Mid"
+    },
+    "bounty": {
+        "team": "",
+        "name": "Bounty",
+        "role": "Support"
+    },
+    "raina": {
+        "team": "V3-Esports",
+        "name": "Raina",
+        "role": "Support"
+    },
+    "acce": {
+        "team": "",
+        "name": "Acce",
+        "role": "Top"
+    },
+    "josedeodo": {
+        "team": "FlyQuest",
+        "name": "Josedeodo",
+        "role": "Jungle"
+    },
+    "leza": {
+        "team": "",
+        "name": "Leza",
+        "role": "ADC"
+    },
+    "shadow": {
+        "team": "Rainbow7",
+        "name": "Shadow",
+        "role": "Support"
+    },
+    "halo": {
+        "team": "",
+        "name": "Halo",
+        "role": "Mid"
+    },
+    "tally": {
+        "team": "Golden-Guardians-Academy",
+        "name": "Tally",
+        "role": "Mid"
+    },
+    "raes": {
+        "team": "Immortals",
+        "name": "Raes",
+        "role": "ADC"
+    },
+    "isles": {
+        "team": "Cloud9-Academy",
+        "name": "Isles",
+        "role": "Support"
+    },
+    "felix": {
+        "team": "Gen.G-Academy",
+        "name": "Felix",
+        "role": "Jungle"
+    },
+    "peyz": {
+        "team": "Gen.G-Academy",
+        "name": "Peyz",
+        "role": "ADC"
+    },
+    "bunny": {
+        "team": "Royal-Club",
+        "name": "Bunny",
+        "role": "Support"
+    },
+    "onlyl": {
+        "team": "",
+        "name": "Onlyl",
+        "role": "Support"
+    },
+    "euro": {
+        "team": "DRX-Academy",
+        "name": "Euro",
+        "role": "Jungle"
+    },
+    "thanatos": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Thanatos",
+        "role": "Top"
+    },
+    "rangjun": {
+        "team": "DRX-Academy",
+        "name": "RangJun",
+        "role": "Mid"
+    },
+    "sedrion": {
+        "team": "",
+        "name": "Sedrion",
+        "role": "Support"
+    },
+    "khael": {
+        "team": "Gen.G-Academy",
+        "name": "Khael",
+        "role": "Support"
+    },
+    "delight": {
+        "team": "Fredit-BRION",
+        "name": "Delight",
+        "role": "Support"
+    },
+    "dee": {
+        "team": "",
+        "name": "Dee",
+        "role": "ADC"
+    },
+    "kingkong": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "KingKong",
+        "role": "ADC"
+    },
+    "grendel": {
+        "team": "Crest-Gaming-Act",
+        "name": "Grendel",
+        "role": "Support"
+    },
+    "cheoni": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "Cheoni",
+        "role": "ADC"
+    },
+    "fisher": {
+        "team": "T1-Academy",
+        "name": "Fisher",
+        "role": "Mid"
+    },
+    "peach": {
+        "team": "DRX-Academy",
+        "name": "Peach",
+        "role": "Jungle"
+    },
+    "mo": {
+        "team": "Legend-Esport-Gaming",
+        "name": "Mo",
+        "role": "Support"
+    },
+    "castle": {
+        "team": "KT-Rolster-Academy",
+        "name": "Castle",
+        "role": "Top"
+    },
+    "vicla": {
+        "team": "KT-Rolster-Academy",
+        "name": "Vicla",
+        "role": "Mid"
+    },
+    "lactea": {
+        "team": "",
+        "name": "Lactea",
+        "role": "ADC"
+    },
+    "natu": {
+        "team": "",
+        "name": "Natu",
+        "role": "Jungle"
+    },
+    "kerberos": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "Kerberos",
+        "role": "Top"
+    },
+    "lagsalot": {
+        "team": "Unicorns-Of-Love-Sexy-Edition",
+        "name": "LagsAlot",
+        "role": "None"
+    },
+    "stay": {
+        "team": "Team-WE-Academy",
+        "name": "Stay",
+        "role": "ADC"
+    },
+    "river-cn": {
+        "team": "FunPlus-Phoenix-Blaze",
+        "name": "River-CN",
+        "role": "ADC"
+    },
+    "noah": {
+        "team": "KT-Rolster-Academy",
+        "name": "Noah",
+        "role": "ADC"
+    },
+    "exakick": {
+        "team": "LDLC-OL",
+        "name": "Exakick",
+        "role": "ADC"
+    },
+    "engo": {
+        "team": "",
+        "name": "Engo",
+        "role": "Top"
+    },
+    "bubbling": {
+        "team": "DRX-Academy",
+        "name": "Bubbling",
+        "role": "None"
+    },
+    "starspring2": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "starspring2",
+        "role": "Top"
+    },
+    "brush": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Brush",
+        "role": "Jungle"
+    },
+    "bulldog": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "BuLLDoG",
+        "role": "Mid"
+    },
+    "baekho": {
+        "team": "",
+        "name": "BAekHO",
+        "role": "ADC"
+    },
+    "gangbong": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Gangbong",
+        "role": "Support"
+    },
+    "geum-go": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Geum-go",
+        "role": "Jungle"
+    },
+    "sup": {
+        "team": "KT-Rolster-Academy",
+        "name": "SUP",
+        "role": "Support"
+    },
+    "shemek": {
+        "team": "",
+        "name": "Shemek",
+        "role": "Top"
+    },
+    "kamito": {
+        "team": "",
+        "name": "Kamito",
+        "role": "ADC"
+    },
+    "dndn": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "DnDn",
+        "role": "Top"
+    },
+    "sylvie": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "Sylvie",
+        "role": "Jungle"
+    },
+    "fiesta": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "Fiesta",
+        "role": "Mid"
+    },
+    "honga": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "HongA",
+        "role": "ADC"
+    },
+    "blessing": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "Blessing",
+        "role": "Support"
+    },
+    "manaty": {
+        "team": "LDLC-OL",
+        "name": "Manaty",
+        "role": "Jungle"
+    },
+    "whiteknight": {
+        "team": "Astralis",
+        "name": "WhiteKnight",
+        "role": "Top"
+    },
+    "loopy": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Loopy",
+        "role": "Mid"
+    },
+    "behind": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Behind",
+        "role": "Support"
+    },
+    "rudy": {
+        "team": "DRX-Academy",
+        "name": "Rudy",
+        "role": "Top"
+    },
+    "dracxar": {
+        "team": "",
+        "name": "Dracxar",
+        "role": "Jungle"
+    },
+    "eign": {
+        "team": "DRX-Academy",
+        "name": "Eign",
+        "role": "Mid"
+    },
+    "conus": {
+        "team": "DRX-Academy",
+        "name": "Conus",
+        "role": "Support"
+    },
+    "road-kr2": {
+        "team": "Gen.G-Academy",
+        "name": "Road-KR2",
+        "role": "Top"
+    },
+    "listo": {
+        "team": "Gen.G-Academy",
+        "name": "listo",
+        "role": "Jungle"
+    },
+    "winner": {
+        "team": "Gen.G-Academy",
+        "name": "Winner",
+        "role": "Jungle"
+    },
+    "quid": {
+        "team": "Gen.G-Academy",
+        "name": "Quid",
+        "role": "Mid"
+    },
+    "toonge": {
+        "team": "Gen.G-Academy",
+        "name": "ToongE",
+        "role": "ADC"
+    },
+    "lospa": {
+        "team": "Gen.G-Academy",
+        "name": "Lospa",
+        "role": "Support"
+    },
+    "baut": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "Baut",
+        "role": "Support"
+    },
+    "tony-top": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Tony-Top",
+        "role": "Top"
+    },
+    "minggu": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Minggu",
+        "role": "Top"
+    },
+    "sangchu": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Sangchu",
+        "role": "Top"
+    },
+    "azhy": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Azhy",
+        "role": "Jungle"
+    },
+    "prep": {
+        "team": "Fredit-BRION-Academy",
+        "name": "PREP",
+        "role": "Jungle"
+    },
+    "pout": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Pout",
+        "role": "Mid"
+    },
+    "vins": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Vins",
+        "role": "Mid"
+    },
+    "franky": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Franky",
+        "role": "ADC"
+    },
+    "pluvia": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Pluvia",
+        "role": "Mid"
+    },
+    "tang": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Tang",
+        "role": "Support"
+    },
+    "tool": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Tool",
+        "role": "Support"
+    },
+    "top": {
+        "team": "KT-Rolster-Academy",
+        "name": "TOP",
+        "role": "Top"
+    },
+    "cruiser": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Cruiser",
+        "role": "Mid"
+    },
+    "hub": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "HuB",
+        "role": "Support"
+    },
+    "king": {
+        "team": "",
+        "name": "King",
+        "role": "Jungle"
+    },
+    "sarcasm": {
+        "team": "TSM-Academy",
+        "name": "Sarcasm",
+        "role": "Jungle"
+    },
+    "slayder": {
+        "team": "Team-Secret",
+        "name": "Slayder",
+        "role": "ADC"
+    },
+    "chelizi": {
+        "team": "TT",
+        "name": "Chelizi",
+        "role": "Top"
+    },
+    "xubin": {
+        "team": "TT",
+        "name": "xubin",
+        "role": "ADC"
+    },
+    "truth": {
+        "team": "Dominus-Esports-Young",
+        "name": "Truth",
+        "role": "Mid"
+    },
+    "catch": {
+        "team": "Dominus-Esports-Young",
+        "name": "Catch",
+        "role": "Support"
+    },
+    "qingcheng": {
+        "team": "Bilibili-Gaming",
+        "name": "qingcheng",
+        "role": "Mid"
+    },
+    "iconic": {
+        "team": "Golden-Guardians",
+        "name": "Iconic",
+        "role": "Jungle"
+    },
+    "niles": {
+        "team": "Golden-Guardians",
+        "name": "Niles",
+        "role": "Top"
+    },
+    "arthur": {
+        "team": "Hanwha-Life-Esports",
+        "name": "Arthur",
+        "role": "Jungle"
+    },
+    "targamas": {
+        "team": "Karmine-Corp",
+        "name": "Targamas",
+        "role": "Support"
+    },
+    "diamante": {
+        "team": "Misfits-Premier",
+        "name": "Diamante",
+        "role": "Mid (Sub)"
+    },
+    "elyoya": {
+        "team": "MAD-Lions",
+        "name": "Elyoya",
+        "role": "Jungle"
+    },
+    "rosethorn": {
+        "team": "Golden-Guardians-Academy",
+        "name": "RoseThorn",
+        "role": "Jungle"
+    },
+    "yunbee": {
+        "team": "Golden-Guardians-Academy",
+        "name": "Yunbee",
+        "role": "Mid"
+    },
+    "nxi": {
+        "team": "FlyQuest-Academy",
+        "name": "Nxi",
+        "role": "Support"
+    },
+    "straight": {
+        "team": "All-Knights",
+        "name": "Straight",
+        "role": "Top"
+    },
+    "unforgiven-(lla)": {
+        "team": "XTEN-Esports",
+        "name": "Unforgiven-(LLA)",
+        "role": "Jungle"
+    },
+    "markoon": {
+        "team": "BT-Excel",
+        "name": "Markoon",
+        "role": "Jungle"
+    },
+    "fresskowy": {
+        "team": "G2-Arctic",
+        "name": "Fresskowy",
+        "role": "Mid"
+    },
+    "knighter": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Knighter",
+        "role": "Mid"
+    },
+    "blueknight": {
+        "team": "Rogue",
+        "name": "Blueknight",
+        "role": "Mid (Sub)"
+    },
+    "canee": {
+        "team": "SK-Gaming",
+        "name": "Canee",
+        "role": "Jungle (Sub)"
+    },
+    "alois": {
+        "team": "SK-Gaming-Prime",
+        "name": "Alois",
+        "role": "Top"
+    },
+    "adept": {
+        "team": "One-Breath-Gaming",
+        "name": "Adept",
+        "role": "Mid"
+    },
+    "kingdom": {
+        "team": "",
+        "name": "Kingdom",
+        "role": "ADC"
+    },
+    "haeri": {
+        "team": "Team-Liquid-Academy",
+        "name": "Haeri",
+        "role": "Mid"
+    },
+    "yeon": {
+        "team": "Team-Liquid-Academy",
+        "name": "Yeon",
+        "role": "ADC"
+    },
+    "eyla": {
+        "team": "Team-Liquid-Academy",
+        "name": "Eyla",
+        "role": "Support"
+    },
+    "riss": {
+        "team": "Hanwha-Life-Esports-Academy",
+        "name": "Riss",
+        "role": "Top"
+    },
+    "ktsr": {
+        "team": "Team-AURORA-Academy",
+        "name": "KTSR",
+        "role": "Top"
+    },
+    "tardis": {
+        "team": "5-Ronin-Academy",
+        "name": "Tardis",
+        "role": "Top"
+    },
+    "tumay": {
+        "team": "Galakticos",
+        "name": "Tumay",
+        "role": "Jungle"
+    },
+    "luka": {
+        "team": "5-Ronin-Academy",
+        "name": "Luka",
+        "role": "Mid"
+    },
+    "andariel": {
+        "team": "5-Ronin",
+        "name": "Andariel",
+        "role": "ADC"
+    },
+    "chain": {
+        "team": "Beşiktaş-Academy",
+        "name": "Chain",
+        "role": "Jungle"
+    },
+    "parus": {
+        "team": "SuperMassive-Academy",
+        "name": "Parus",
+        "role": "Support"
+    },
+    "advienne": {
+        "team": "BT-Excel",
+        "name": "Advienne",
+        "role": "Support"
+    },
+    "unforgiven-(eu)": {
+        "team": "SK-Gaming-Prime",
+        "name": "Unforgiven-(EU)",
+        "role": "ADC"
+    },
+    "lilipp": {
+        "team": "SK-Gaming-Prime",
+        "name": "Lilipp",
+        "role": "Support"
+    },
+    "maxi": {
+        "team": "Fnatic-Rising",
+        "name": "Maxi",
+        "role": "Jungle"
+    },
+    "bean": {
+        "team": "Fnatic-Rising",
+        "name": "Bean",
+        "role": "ADC"
+    },
+    "rhuckz": {
+        "team": "Fnatic-Rising",
+        "name": "Rhuckz",
+        "role": "Support"
+    },
+    "hp1": {
+        "team": "DRX-Academy",
+        "name": "HP1",
+        "role": "Support"
+    },
+    "ksaez": {
+        "team": "SuperMassive-eSports",
+        "name": "Ksaez",
+        "role": "Mid"
+    },
+    "pr1me": {
+        "team": "Galakticos",
+        "name": "pr1me",
+        "role": "Top"
+    },
+    "oguzkhan": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "Oguzkhan",
+        "role": "Jungle"
+    },
+    "maximillion": {
+        "team": "Galakticos",
+        "name": "Maximillion",
+        "role": "Mid"
+    },
+    "witless": {
+        "team": "Dark-Passage-Academy",
+        "name": "Witless",
+        "role": "ADC"
+    },
+    "azuzabi": {
+        "team": "Galakticos-Academy",
+        "name": "Azuzabi",
+        "role": "Top"
+    },
+    "phenomenal": {
+        "team": "Galakticos-Academy",
+        "name": "Phenomenal",
+        "role": "Top"
+    },
+    "kemba": {
+        "team": "Galakticos-Academy",
+        "name": "Kemba",
+        "role": "ADC"
+    },
+    "nuq": {
+        "team": "Galatasaray-Academy",
+        "name": "NuQ",
+        "role": "Top"
+    },
+    "rames": {
+        "team": "Galatasaray-Academy",
+        "name": "Rames",
+        "role": "Jungle"
+    },
+    "t1so": {
+        "team": "Galatasaray-Academy",
+        "name": "T1SO",
+        "role": "Mid"
+    },
+    "nako": {
+        "team": "Team-AURORA-Academy",
+        "name": "Nako",
+        "role": "ADC"
+    },
+    "carry": {
+        "team": "Galatasaray-Academy",
+        "name": "Carry",
+        "role": "Support"
+    },
+    "ryuk": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Ryuk",
+        "role": "Top"
+    },
+    "th": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "TH",
+        "role": "Top"
+    },
+    "draktharr": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Draktharr",
+        "role": "Jungle"
+    },
+    "glory": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Glory",
+        "role": "Mid"
+    },
+    "aomine": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Aomine",
+        "role": "ADC"
+    },
+    "elio": {
+        "team": "Burst-The-Sky-Esports",
+        "name": "Elio",
+        "role": "Support"
+    },
+    "ll": {
+        "team": "CERBERUS-Esports",
+        "name": "LL",
+        "role": "Top"
+    },
+    "thien": {
+        "team": "CLG-Academy",
+        "name": "Thien",
+        "role": "Top"
+    },
+    "katsurii": {
+        "team": "CLG-Academy",
+        "name": "Katsurii",
+        "role": "ADC"
+    },
+    "pretty": {
+        "team": "Immortals-Academy",
+        "name": "Pretty",
+        "role": "Top"
+    },
+    "yursan": {
+        "team": "TSM-Academy",
+        "name": "Yursan",
+        "role": "Support"
+    },
+    "raven": {
+        "team": "Team-Vitality.Bee",
+        "name": "Raven",
+        "role": "Top"
+    },
+    "diplex": {
+        "team": "Team-Vitality.Bee",
+        "name": "Diplex",
+        "role": "Mid"
+    },
+    "smiley": {
+        "team": "Team-Vitality.Bee",
+        "name": "SMILEY",
+        "role": "ADC"
+    },
+    "hustlinbeast": {
+        "team": "Team-Vitality.Bee",
+        "name": "HustlinbeasT",
+        "role": "Support"
+    },
+    "risin": {
+        "team": "Beşiktaş-Academy",
+        "name": "Risin",
+        "role": "Jungle"
+    },
+    "shlatan": {
+        "team": "Misfits-Premier",
+        "name": "Shlatan",
+        "role": "Jungle"
+    },
+    "rum0r": {
+        "team": "Beşiktaş-Academy",
+        "name": "Rum0r",
+        "role": "Mid"
+    },
+    "cabu": {
+        "team": "INTZ-e-Sports",
+        "name": "Cabu",
+        "role": "Support"
+    },
+    "boal": {
+        "team": "INTZ-e-Sports",
+        "name": "Boal",
+        "role": "Top"
+    },
+    "camanagazo": {
+        "team": "Galatasaray-Academy",
+        "name": "Camanagazo",
+        "role": "Mid"
+    },
+    "ruep": {
+        "team": "Galatasaray-Academy",
+        "name": "Ruep",
+        "role": "ADC"
+    },
+    "meshade": {
+        "team": "Beşiktaş-Academy",
+        "name": "Meshade",
+        "role": "ADC"
+    },
+    "jauny": {
+        "team": "Furious-Gaming",
+        "name": "Jauny",
+        "role": "Top"
+    },
+    "emp": {
+        "team": "Furious-Gaming",
+        "name": "Emp",
+        "role": "Mid"
+    },
+    "toplop": {
+        "team": "Furious-Gaming",
+        "name": "TopLop",
+        "role": "Mid"
+    },
+    "erry": {
+        "team": "Furious-Gaming",
+        "name": "Erry",
+        "role": "ADC"
+    },
+    "baula": {
+        "team": "Furious-Gaming",
+        "name": "Baula",
+        "role": "Support"
+    },
+    "feng": {
+        "team": "Furious-Gaming",
+        "name": "Feng",
+        "role": "Jungle"
+    },
+    "ad": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "AD",
+        "role": "ADC"
+    },
+    "nyasha": {
+        "team": "İstanbul-Wild-Cats",
+        "name": "Nyasha",
+        "role": "Support"
+    },
+    "coldraa": {
+        "team": "Dark-Passage",
+        "name": "Coldraa",
+        "role": "ADC"
+    },
+    "urawful": {
+        "team": "5-Ronin-Academy",
+        "name": "urawful",
+        "role": "Jungle"
+    },
+    "dellal": {
+        "team": "Team-AURORA",
+        "name": "Dellal",
+        "role": "Support"
+    },
+    "mogu": {
+        "team": "",
+        "name": "mogu",
+        "role": "Top"
+    },
+    "m1kuya": {
+        "team": "LNG-Esports",
+        "name": "M1kuya",
+        "role": "Top"
+    },
+    "bright": {
+        "team": "Oh-My-God",
+        "name": "Bright",
+        "role": "Jungle"
+    },
+    "eric": {
+        "team": "Oh-My-God",
+        "name": "Eric",
+        "role": "ADC"
+    },
+    "bafang": {
+        "team": "Oh-My-God",
+        "name": "Bafang",
+        "role": "Support"
+    },
+    "captain": {
+        "team": "TT",
+        "name": "Captain",
+        "role": "Mid"
+    },
+    "teeen": {
+        "team": "TT",
+        "name": "Teeen",
+        "role": "Support"
+    },
+    "chelly": {
+        "team": "",
+        "name": "Chelly",
+        "role": "None"
+    },
+    "kelin": {
+        "team": "Rogue-Warriors",
+        "name": "kelin",
+        "role": "ADC"
+    },
+    "insulator": {
+        "team": "eStar",
+        "name": "Insulator",
+        "role": "Mid"
+    },
+    "vv": {
+        "team": "TT",
+        "name": "VV",
+        "role": "Jungle"
+    },
+    "obsess": {
+        "team": "Schalke-Evolution",
+        "name": "Obsess",
+        "role": "Jungle"
+    },
+    "x1lan": {
+        "team": "Bilibili-Gaming-Junior",
+        "name": "X1LAN",
+        "role": "Top"
+    },
+    "frappii": {
+        "team": "Unicorns-of-Love",
+        "name": "Frappii",
+        "role": "ADC (Sub)"
+    },
+    "easylove": {
+        "team": "GAM-Esports",
+        "name": "EasyLove",
+        "role": "ADC"
+    },
+    "shadow-kr": {
+        "team": "Fredit-BRION-Academy",
+        "name": "Shadow-KR",
+        "role": "Jungle"
+    },
+    "tomio": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Tomio",
+        "role": "Jungle"
+    },
+    "cerasus": {
+        "team": "Legend-Esport-Gaming",
+        "name": "Cerasus",
+        "role": "Support"
+    },
+    "neephesto": {
+        "team": "RED-Academy",
+        "name": "Neephesto",
+        "role": "Jungle"
+    },
+    "name": {
+        "team": "RED-Academy",
+        "name": "Name",
+        "role": "Top"
+    },
+    "guirila": {
+        "team": "RED-Canids",
+        "name": "Guirila",
+        "role": "ADC"
+    },
+    "kidz": {
+        "team": "Team-Flash",
+        "name": "Kidz",
+        "role": "Support"
+    },
+    "sup-2": {
+        "team": "Nongshim-RedForce-Academy",
+        "name": "SUP-2",
+        "role": "Support"
+    },
+    "junmin": {
+        "team": "DWG-KIA-Challengers",
+        "name": "Junmin",
+        "role": "ADC"
+    },
+    "shaquinn": {
+        "team": "RED-Canids",
+        "name": "Shaquinn",
+        "role": "Top (Sub)"
+    },
+    "don-arts": {
+        "team": "LOUD",
+        "name": "Don-Arts",
+        "role": "Jungle"
+    },
+    "alexx": {
+        "team": "MAD-Lions-Madrid",
+        "name": "Alexx",
+        "role": "Jungle"
+    },
+    "lindgarde": {
+        "team": "Fnatic-Rising",
+        "name": "Lindgarde",
+        "role": "ADC (Sub)"
+    },
+    "typhoon": {
+        "team": "Dark-Passage",
+        "name": "Typhoon",
+        "role": "Jungle"
+    },
+    "bbakpyo": {
+        "team": "",
+        "name": "BBakPyo",
+        "role": "Jungle"
+    },
+    "shawi-katami": {
+        "team": "Galakticos",
+        "name": "Shawi-Katami",
+        "role": "Support"
+    },
+    "kituruken": {
+        "team": "NASR-eSports-Turkey",
+        "name": "Kituruken",
+        "role": "Jungle"
+    },
+    "absolute": {
+        "team": "SuperMassive-eSports",
+        "name": "Absolute",
+        "role": "Support"
+    },
+    "kamil": {
+        "team": "Team-AURORA",
+        "name": "Kamil",
+        "role": "Jungle"
+    },
+    "eden-fox": {
+        "team": "",
+        "name": "Eden-Fox",
+        "role": "Mid"
+    },
+    "pyrka": {
+        "team": "AGO-ROGUE",
+        "name": "Pyrka",
+        "role": "Support"
+    },
+    "kartis": {
+        "team": "PSG-Talon",
+        "name": "Kartis",
+        "role": "Top (Sub)"
+    },
+    "rumor": {
+        "team": "",
+        "name": "Rumor",
+        "role": "ADC"
+    },
+    "storm": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Storm",
+        "role": "Mid"
+    },
+    "taeyoon": {
+        "team": "DRX-Academy",
+        "name": "Taeyoon",
+        "role": "ADC"
+    },
+    "truklax": {
+        "team": "Cruzeiro-eSports",
+        "name": "Truklax",
+        "role": "Top"
+    },
+    "st1ng": {
+        "team": "Cruzeiro-eSports",
+        "name": "st1ng",
+        "role": "Jungle"
+    },
+    "skeeto": {
+        "team": "FURIA-Esports",
+        "name": "Skeeto",
+        "role": "Top"
+    },
+    "follow": {
+        "team": "FURIA-Esports",
+        "name": "Follow",
+        "role": "Jungle"
+    },
+    "beenie": {
+        "team": "FURIA-Esports",
+        "name": "Beenie",
+        "role": "ADC"
+    },
+    "damage": {
+        "team": "FURIA-Esports",
+        "name": "Damage",
+        "role": "Support"
+    },
+    "bocajr": {
+        "team": "INTZ-e-Sports",
+        "name": "BocaJR",
+        "role": "Support"
+    },
+    "bankai": {
+        "team": "KaBuM!-e-Sports",
+        "name": "Bankai",
+        "role": "Top"
+    },
+    "kiari": {
+        "team": "Rensga-Esports",
+        "name": "Kiari",
+        "role": "Top"
+    },
+    "erasus": {
+        "team": "Rensga-Esports",
+        "name": "Erasus",
+        "role": "Jungle"
+    },
+    "fiennes": {
+        "team": "Rensga-Esports",
+        "name": "Fiennes",
+        "role": "Jungle"
+    },
+    "froststrike": {
+        "team": "Rensga-Esports",
+        "name": "Froststrike",
+        "role": "Jungle"
+    },
+    "enga": {
+        "team": "Rensga-Esports",
+        "name": "Enga",
+        "role": "Mid"
+    },
+    "bydeki": {
+        "team": "Rensga-Esports",
+        "name": "bydeki",
+        "role": "Mid"
+    },
+    "kly0n": {
+        "team": "Rensga-Esports",
+        "name": "Kly0n",
+        "role": "Support"
+    },
+    "harumi": {
+        "team": "Rensga-Esports",
+        "name": "Harumi",
+        "role": "Support"
+    },
+    "jwei": {
+        "team": "Bilibili-Gaming",
+        "name": "Jwei",
+        "role": "Support"
+    },
+    "jeonghoon": {
+        "team": "Fredit-BRION-Academy",
+        "name": "JeongHoon",
+        "role": "Support"
+    },
+    "kadaver": {
+        "team": "Astralis-Talent",
+        "name": "Kadaver",
+        "role": "ADC"
+    },
+    "carlsen": {
+        "team": "Astralis-Talent",
+        "name": "Carlsen",
+        "role": "Top"
+    },
+    "mixsi": {
+        "team": "Astralis-Talent",
+        "name": "Mixsi",
+        "role": "Jungle"
+    },
+    "rylle": {
+        "team": "Astralis-Talent",
+        "name": "Rylle",
+        "role": "Mid"
+    },
+    "rottebengi": {
+        "team": "Astralis-Talent",
+        "name": "RotteBengi",
+        "role": "Support"
+    },
+    "spawn": {
+        "team": "Team-Dignitas-Academy",
+        "name": "Spawn",
+        "role": "ADC"
+    },
+    "shoryu": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Shoryu",
+        "role": "ADC"
+    },
+    "jojopyun": {
+        "team": "Evil-Geniuses-Academy",
+        "name": "Jojopyun",
+        "role": "Mid"
+    },
+    "invincible": {
+        "team": "V5-87",
+        "name": "Invincible",
+        "role": "Top"
+    },
+    "bo": {
+        "team": "FunPlus-Phoenix",
+        "name": "Bo",
+        "role": "Jungle"
+    },
+    "anduril": {
+        "team": "Team-AURORA",
+        "name": "Anduril",
+        "role": "Jungle"
+    },
+    "kronos": {
+        "team": "Astralis-Talent",
+        "name": "Kronos",
+        "role": "None"
+    },
+    "fnb": {
+        "team": "Vorax",
+        "name": "fNb",
+        "role": "Top"
+    },
+    "raziel": {
+        "team": "Astralis-SB",
+        "name": "Raziel",
+        "role": "ADC"
+    },
+    "duall": {
+        "team": "MAD-Lions-Madrid",
+        "name": "DuaLL",
+        "role": "Support"
+    },
+    "sinmivak": {
+        "team": "AGO-ROGUE",
+        "name": "Sinmivak",
+        "role": "Top"
+    },
+    "nuclearint": {
+        "team": "Schalke-04",
+        "name": "Nuclearint",
+        "role": "Mid"
+    },
+    "kynetic": {
+        "team": "Schalke-Evolution",
+        "name": "Kynetic",
+        "role": "ADC"
+    },
+    "fleck": {
+        "team": "Team-AURORA",
+        "name": "Fleck",
+        "role": "Mid"
+    },
+    "berkan": {
+        "team": "Team-AURORA",
+        "name": "Berkan",
+        "role": "Mid"
+    },
+    "113": {
+        "team": "SuperMassive-Academy",
+        "name": "113",
+        "role": "Jungle"
+    },
+    "kebap": {
+        "team": "SuperMassive-Academy",
+        "name": "Kebap",
+        "role": "Top"
+    },
+    "winter-kr": {
+        "team": "Liiv-SANDBOX-Academy",
+        "name": "Winter-KR",
+        "role": "Mid"
+    },
+    "pabu": {
+        "team": "Pentanet.GG",
+        "name": "Pabu",
+        "role": "Jungle"
+    },
+    "chazz": {
+        "team": "Pentanet.GG",
+        "name": "Chazz",
+        "role": "Mid"
+    },
+    "praedyth": {
+        "team": "Pentanet.GG",
+        "name": "Praedyth",
+        "role": "ADC"
+    },
+    "decoy": {
+        "team": "Pentanet.GG",
+        "name": "Decoy",
+        "role": "Support"
+    },
+    "maynter": {
+        "team": "Dragon-Army",
+        "name": "Maynter",
+        "role": "Top"
+    },
+    "rhilech": {
+        "team": "Team-AURORA-Academy",
+        "name": "Rhilech",
+        "role": "Jungle"
+    },
+    "ruzgar": {
+        "team": "Team-AURORA-Academy",
+        "name": "Ruzgar",
+        "role": "Mid"
+    },
+    "tieru": {
+        "team": "Team-AURORA-Academy",
+        "name": "Tieru",
+        "role": "Support"
+    },
+    "salut-a-tous": {
+        "team": "Berlin-International-Gaming",
+        "name": "SALUT-A-TOUS",
+        "role": "Top"
+    },
+    "karimkt": {
+        "team": "Berlin-International-Gaming",
+        "name": "Karimkt",
+        "role": "Jungle"
+    },
+    "seaz": {
+        "team": "Berlin-International-Gaming",
+        "name": "Seaz",
+        "role": "Support"
+    },
+    "rychly": {
+        "team": "ad-hoc-gaming",
+        "name": "Rychly",
+        "role": "Support"
+    },
+    "howl": {
+        "team": "Dark-Passage-Academy",
+        "name": "Howl",
+        "role": "Mid"
+    },
+    "libra": {
+        "team": "Dark-Passage-Academy",
+        "name": "Libra",
+        "role": "Top"
+    },
+    "tireurennu": {
+        "team": "Dark-Passage-Academy",
+        "name": "Tireurennu",
+        "role": "Jungle"
+    },
+    "treiil": {
+        "team": "Dark-Passage-Academy",
+        "name": "TREIIL",
+        "role": "Jungle"
+    },
+    "yuros": {
+        "team": "Dark-Passage-Academy",
+        "name": "Yuros",
+        "role": "Mid"
+    },
+    "scorth": {
+        "team": "Dark-Passage-Academy",
+        "name": "Scorth",
+        "role": "ADC"
+    },
+    "katris": {
+        "team": "Dark-Passage-Academy",
+        "name": "Katris",
+        "role": "Support"
+    },
+    "mxe": {
+        "team": "Dark-Passage-Academy",
+        "name": "Mxe",
+        "role": "Support"
+    },
+    "poibos": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Poibos",
+        "role": "Top"
+    },
+    "ravenous": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Ravenous",
+        "role": "Top"
+    },
+    "crawl": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Crawl",
+        "role": "Jungle"
+    },
+    "merciless": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Merciless",
+        "role": "Mid"
+    },
+    "crasia": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Crasia",
+        "role": "ADC"
+    },
+    "greyone": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Greyone",
+        "role": "ADC"
+    },
+    "secondate": {
+        "team": "NASR-eSports-Turkey-Academy",
+        "name": "Secondate",
+        "role": "Support"
+    },
+    "adam": {
+        "team": "Karmine-Corp",
+        "name": "Adam",
+        "role": "Top"
+    },
+    "cinkrof": {
+        "team": "Karmine-Corp",
+        "name": "Cinkrof",
+        "role": "Jungle"
+    },
+    "beansu": {
+        "team": "GamersOrigin",
+        "name": "beansu",
+        "role": "Top"
+    },
+    "pak": {
+        "team": "GamersOrigin",
+        "name": "Pak",
+        "role": "Mid"
+    },
+    "kazu": {
+        "team": "DetonatioN-FocusMe",
+        "name": "Kazu",
+        "role": "Support"
+    },
+    "czajek": {
+        "team": "Illuminar-Gaming",
+        "name": "Czajek",
+        "role": "Mid"
+    },
+    "melonik": {
+        "team": "Illuminar-Gaming",
+        "name": "Melonik",
+        "role": "Top"
+    },
+    "satorius": {
+        "team": "mousesports",
+        "name": "Satorius",
+        "role": "Top"
+    },
+    "hantera": {
+        "team": "Team-Vitality.Bee",
+        "name": "Hantera",
+        "role": "Sub (Sub)"
+    },
+    "cody": {
+        "team": "Infinity-eSports",
+        "name": "Cody",
+        "role": "Mid"
+    },
+    "ackerman": {
+        "team": "Infinity-eSports",
+        "name": "Ackerman",
+        "role": "Support"
+    },
+    "kaoz": {
+        "team": "Infinity-eSports",
+        "name": "KaoZ",
+        "role": "Sub (Sub)"
+    },
+    "dsn": {
+        "team": "Pentanet.GG",
+        "name": "DSN",
+        "role": "Sub (Sub)"
+    },
+    "doggo": {
+        "team": "PSG-Talon",
+        "name": "Doggo",
+        "role": "ADC"
+    },
+    "poohmandu": {
+        "team": "DWG-KIA",
+        "name": "PoohManDu",
+        "role": "None"
+    },
+    "marky": {
+        "team": "Movistar-Riders",
+        "name": "Marky",
+        "role": "Top"
+    },
+    "rayito": {
+        "team": "Movistar-Riders",
+        "name": "Rayito",
+        "role": "ADC"
+    },
+    "fatihcan": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "FatihCan",
+        "role": "ADC"
+    },
+    "dreedy": {
+        "team": "UCAM-Esports-Club",
+        "name": "Dreedy",
+        "role": "Top"
+    },
+    "eliwood": {
+        "team": "İstanbul-Wildcats-Academy",
+        "name": "EliWood",
+        "role": "Support"
+    },
+    "baca": {
+        "team": "UCAM-Esports-Club",
+        "name": "Baca",
+        "role": "Mid"
+    },
+    "rafitta": {
+        "team": "UCAM-Esports-Club",
+        "name": "Rafitta",
+        "role": "ADC"
+    },
+    "plasma": {
+        "team": "UCAM-Esports-Club",
+        "name": "Plasma",
+        "role": "Support"
+    },
+    "surentopito": {
+        "team": "UCAM-Esports-Club",
+        "name": "surentopito",
+        "role": "Top (Sub)"
+    },
+    "shyelander": {
+        "team": "UCAM-Esports-Club",
+        "name": "Shyelander",
+        "role": "Jungle"
+    },
+    "nae": {
+        "team": "UCAM-Esports-Club",
+        "name": "Nae",
+        "role": "Mid (Sub)"
+    },
+    "wodex": {
+        "team": "UCAM-Esports-Club",
+        "name": "Wodex",
+        "role": "ADC (Sub)"
+    },
+    "wannabe": {
+        "team": "UCAM-Esports-Club",
+        "name": "Wannabe",
+        "role": "Support (Sub)"
+    },
+    "spooky": {
+        "team": "ŠAIM-SE-SuppUp",
+        "name": "Spooky",
+        "role": "Jungle"
+    },
+    "twohoyrz": {
+        "team": "ŠAIM-SE-SuppUp",
+        "name": "twohoyrz",
+        "role": "Mid"
+    },
+    "dizl": {
+        "team": "ad-hoc-gaming",
+        "name": "DizL",
+        "role": "ADC"
+    },
+    "lele": {
+        "team": "Royal-Never-Give-Up",
+        "name": "Lele",
+        "role": "Sub"
+    },
+    "value": {
+        "team": "No-Org",
+        "name": "Value",
+        "role": "ADC"
+    },
+    "zeph": {
+        "team": "LDLC-OL",
+        "name": "Zeph",
+        "role": "None"
+    },
+    "th3antonio": {
+        "team": "Vodafone-Giants.Spain",
+        "name": "Th3Antonio",
+        "role": "Top"
+    },
+    "eckas": {
+        "team": "Vodafone-Giants.Spain",
+        "name": "Eckas",
+        "role": "Jungle"
+    },
+    "kamilius": {
+        "team": "Vodafone-Giants.Spain",
+        "name": "Kamilius",
+        "role": "Support"
+    },
+    "kackos": {
+        "team": "K1CK",
+        "name": "Kackos",
+        "role": "Top"
+    },
+    "bruness": {
+        "team": "K1CK",
+        "name": "Bruness",
+        "role": "Jungle"
+    },
+    "matislaw": {
+        "team": "K1CK",
+        "name": "Matislaw",
+        "role": "Mid"
+    },
+    "puki-style": {
+        "team": "K1CK",
+        "name": "Puki-Style",
+        "role": "ADC"
+    },
+    "raxxo": {
+        "team": "K1CK",
+        "name": "Raxxo",
+        "role": "Support"
+    },
+    "selson": {
+        "team": "",
+        "name": "Selson",
+        "role": "Support"
+    },
+    "ajwad": {
+        "team": "",
+        "name": "Ajwad",
+        "role": "Jungle"
+    }
+}
