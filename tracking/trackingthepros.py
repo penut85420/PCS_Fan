@@ -49,7 +49,7 @@ def get_player_list():
     data = {d['plug'].lower(): parse(d) for d in data['data']}
     dump(data, 'data/players.json')
 
-def get_spec_list():
+def get_spec_list(focus=[], important=[]):
     url = 'https://www.trackingthepros.com/d/list_players?filter_online=1'
     data = get_json(url)
     group = OrderedDict()
@@ -65,25 +65,45 @@ def get_spec_list():
 
     group = OrderedDict(sorted(group.items(), key=lambda x: x[1]['online']))
 
+    found = set()
     with open('data/spec.tmp', 'w', encoding='UTF-8') as f:
         ts = dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-        f.write(f'Last Updated: {ts}\n')
+        f.write(f' Last Updated: {ts}\n')
         print(f'Last Updated: {ts}')
+        ansi = lambda color, s: f'\033[1;{color}m{s}\033[0m'
         for gid in group:
-            players_str = ', '.join(sorted(group[gid]['players']))
-            f.write(f' {gid} {group[gid]["online"]:3d}m {players_str}\n')
-            players_str = players_str.lower()
-            flag = False
-            for name in sys.argv[1:]:
-                if name.lower() in players_str:
-                    print(f'Found {name}!')
-                    flag = True
-            if flag:
-                f.write(f'{get_spec_cmd(gid)}\n')
+            _gid = gid
+            for i, name in enumerate(group[gid]['players']):
+                if name in focus:
+                    found.add(name)
+                    _gid = ansi(33, gid)
+                    group[gid]['players'][i] = ansi(33, name)
 
+            for i, name in enumerate(group[gid]['players']):
+                if name in important:
+                    _gid = ansi(32, gid)
+                    group[gid]['players'][i] = ansi(32, name)
+
+            players_str = ', '.join(sorted(group[gid]['players']))
+            f.write(f' {_gid} {group[gid]["online"]:3d}m {players_str}\n')
+            players_str = players_str.lower()
+
+    if found:
+        print(f'{", ".join(found)} Found!')
     shutil.move('data/spec.tmp', 'data/spec.txt')
 
 def get_spec_cmd(gid):
     url = f'https://www.trackingthepros.com/s/spectate_info?id={gid}'
     r = requests.get(url)
     return r.text[45:]
+
+def get_game_id(name):
+    _name = name.lower()
+    url = 'https://www.trackingthepros.com/d/list_players?filter_online=1'
+    data = get_json(url)
+
+    for d in data['data']:
+        if d['plug'].lower() == _name:
+            return d['gameID']
+
+    print(f'{name} not found')

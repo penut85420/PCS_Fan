@@ -5,22 +5,42 @@
 
 ## 用法
 + 檔案說明文件尚未補齊
-+ `players.html` 將觀戰中的選手按照紅藍邊上色
-+ `rank.html` 列出 PSG 戰隊成員的牌位
-+ `timer.html` 冰島時間
-+ `LetsGoPCS.png` 是頻道頭像
-+ `Overlay_Final.png` 轉播用介面
-+ `TrackingThePCS.json` 是 OBS 的場景檔案
-+ `crawler.py` 查詢可觀戰選手的爬蟲程式
-    + 會產生 `spec.txt`，每一行包含了 Game ID、遊戲時間與選手列表
-    + 將想要關注的選手名稱當作參數傳入可以獲得觀戰指令
-        + Ex: `python crawler.py Hanabi`
-+ `crawler.sh` 執行爬蟲程式的範例指令
-+ `manual.py` 將 Game ID 做為參數輸入可以獲得觀戰指令
-    + Ex: `python manual.py 5247073787`
-+ `champions.py` 從官方網站獲得英雄名稱的程式
-+ `champions.json` 英雄的英中全名，協助減少字卡的錯字
-+ `opgg_query.py` 自動從 OP.GG 更新 PSG 戰隊成員的牌位
+
+### 實況介面
++ `obs/players.html` 將觀戰中的選手按照紅藍邊上色
++ `obs/rank.html` 列出 PSG 戰隊成員的牌位
++ `obs/timer.html` 冰島時間
++ `imgs/Overlay_Final.png` 轉播用介面
++ `imgs/LetsGoPCS.png` 是頻道頭像
++ `obs/TrackingThePCS.json` 是 OBS 的場景檔案
+
+### 程式碼
++ `tracking/champions.py` 取得英雄名稱列表
+    + `get_en_zh_champs()` 為中英對照的版本
+    + `get_id2champs()` 為 ID 與英雄名稱對應的版本
++ `tracking/riots.py` 使用 Riots API 取得對戰資訊
++ `tracking/trackingthepros.py` 使用 TrackingThePros API 取得選手資訊
+    + `get_rnsn_idx()` 取得選手 ID 與遊戲 ID 的對應表
+    + `get_player_list()` 取得選手列表
+    + `get_spec_list()` 取得觀戰資訊
+    + `get_spec_cmd()` 取得觀戰指令
+    + `get_game_id()` 取得對局的 ID
++ `tracking/query` 下為取得各種資訊的主程式
+    + `game_id.py` 根據選手名稱取得對局的 ID
+    + `match.py` 根據選手名稱產生該場對局的場上選手資訊
+    + `opgg.py` 取得 PSG 成員的西歐伺服器積分狀況
+    + `players.py` 從 TrackingThePros 官網取得完整的選手資訊
+        + 包含隊伍、位置與遊戲中的 ID
+    + `spec_cmd.py` 取得觀戰指令
+    + `spec.py` 取得現在選手的當前積分對戰列表
+
+### 資料
++ `data/champions_enzh.json` 英雄的英中全名，協助減少字卡的錯字
++ `data/champs.json` 為 ID 與英雄名的對應列表
++ `data/players.json` 包含隊名與位置的選手資訊
++ `rn2sn.json` 是選手名稱與遊戲 ID 的對應表
++ `sn2rn.json` 是遊戲 ID 與選手名稱的對應表
++ `role_map.json` 是位置的縮寫對應
 
 ## 配置
 ### 實況設定

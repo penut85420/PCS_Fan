@@ -420,7 +420,7 @@
         "role": "Top"
     },
     "armao": {
-        "team": "Team-Liquid-Academy",
+        "team": "",
         "name": "Armao",
         "role": "Jungle"
     },
@@ -1120,7 +1120,7 @@
         "role": "Jungle"
     },
     "zuao": {
-        "team": "INTZ-e-Sports",
+        "team": "",
         "name": "Zuao",
         "role": "Jungle"
     },
@@ -1135,7 +1135,7 @@
         "role": "ADC"
     },
     "professor": {
-        "team": "KaBuM!-e-Sports",
+        "team": "",
         "name": "Professor",
         "role": "Support"
     },
@@ -1545,7 +1545,7 @@
         "role": "Top"
     },
     "solo": {
-        "team": "",
+        "team": "Golden-Guardians-Academy",
         "name": "Solo",
         "role": "Top"
     },
@@ -2230,7 +2230,7 @@
         "role": "Top"
     },
     "mia": {
-        "team": "",
+        "team": "Estral-Esports",
         "name": "Mia",
         "role": "Support"
     },
@@ -2565,9 +2565,9 @@
         "role": "ADC"
     },
     "gori": {
-        "team": "EDward-Gaming",
+        "team": "Nongshim-RedForce",
         "name": "Gori",
-        "role": "Mid (Sub)"
+        "role": "Mid"
     },
     "jayj": {
         "team": "Team-Dignitas-Academy",
@@ -2590,7 +2590,7 @@
         "role": "Top"
     },
     "griffin": {
-        "team": "CLG-Academy",
+        "team": "",
         "name": "Griffin",
         "role": "Jungle"
     },
@@ -2890,7 +2890,7 @@
         "role": "Support"
     },
     "route": {
-        "team": "Liiv-SANDBOX",
+        "team": "",
         "name": "Route",
         "role": "ADC"
     },
@@ -4875,7 +4875,7 @@
         "role": "None"
     },
     "juhan": {
-        "team": "Nongshim-RedForce",
+        "team": "Nongshim-RedForce-Academy",
         "name": "Juhan",
         "role": "Jungle"
     },
@@ -4900,7 +4900,7 @@
         "role": "Top"
     },
     "flare": {
-        "team": "RED-Academy",
+        "team": "",
         "name": "Flare",
         "role": "Jungle"
     },
@@ -5780,7 +5780,7 @@
         "role": "Jungle"
     },
     "bay": {
-        "team": "Nongshim-RedForce",
+        "team": "Nongshim-RedForce-Academy",
         "name": "Bay",
         "role": "Mid"
     },
@@ -6535,7 +6535,7 @@
         "role": "Mid"
     },
     "tally": {
-        "team": "Golden-Guardians-Academy",
+        "team": "",
         "name": "Tally",
         "role": "Mid"
     },
@@ -6580,9 +6580,9 @@
         "role": "Top"
     },
     "rangjun": {
-        "team": "DRX-Academy",
+        "team": "DWG-KIA",
         "name": "RangJun",
-        "role": "Mid"
+        "role": "Mid (Sub)"
     },
     "sedrion": {
         "team": "",
@@ -7490,12 +7490,12 @@
         "role": "ADC"
     },
     "shaquinn": {
-        "team": "RED-Canids",
+        "team": "",
         "name": "Shaquinn",
-        "role": "Top (Sub)"
+        "role": "Top"
     },
     "don-arts": {
-        "team": "LOUD",
+        "team": "",
         "name": "Don-Arts",
         "role": "Jungle"
     },
@@ -7580,7 +7580,7 @@
         "role": "Jungle"
     },
     "skeeto": {
-        "team": "FURIA-Esports",
+        "team": "",
         "name": "Skeeto",
         "role": "Top"
     },
@@ -7625,12 +7625,12 @@
         "role": "Jungle"
     },
     "froststrike": {
-        "team": "Rensga-Esports",
+        "team": "",
         "name": "Froststrike",
         "role": "Jungle"
     },
     "enga": {
-        "team": "Rensga-Esports",
+        "team": "Rainbow7",
         "name": "Enga",
         "role": "Mid"
     },
@@ -8127,6 +8127,26 @@
     "ajwad": {
         "team": "",
         "name": "Ajwad",
+        "role": "Jungle"
+    },
+    "skream": {
+        "team": "",
+        "name": "Skream",
+        "role": "ADC"
+    },
+    "takeover": {
+        "team": "TSM-Academy",
+        "name": "Takeover",
+        "role": "Mid"
+    },
+    "hyper": {
+        "team": "TSM-Academy",
+        "name": "Hyper",
+        "role": "Jungle"
+    },
+    "keel": {
+        "team": "CLG-Academy",
+        "name": "Keel",
         "role": "Jungle"
     }
 }

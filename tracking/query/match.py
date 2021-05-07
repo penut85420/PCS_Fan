@@ -29,7 +29,8 @@ def main(name, show_only=False, server='euw1'):
                 realname = idx_sn2rn[summoner_names]
                 player_info = players[realname.lower()]
                 team, role = player_info['team'], player_info['role']
-                team = team_short.get(team, team)
+                _team = team_short.get(team, team)
+                team = team if _team == '' else _team
                 if len(team) > 5:
                     team = short_team_fn(team)
                 role = role_map.get(role, role)

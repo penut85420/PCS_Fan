@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta http-equiv="refresh" content="5">
+        <meta http-equiv="refresh" content="10">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
         <style>
@@ -17,6 +17,10 @@
             }
             table {
                 margin: 0 auto;
+            }
+            td {
+                margin: 0;
+                padding: 0;
             }
             caption {
                 color: white;
