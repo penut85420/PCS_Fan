@@ -500,9 +500,9 @@
         "role": "Jungle"
     },
     "stunt": {
-        "team": "",
+        "team": "No-Org",
         "name": "Stunt",
-        "role": "Support"
+        "role": "None"
     },
     "zig": {
         "team": "",
@@ -3002,7 +3002,7 @@
     "angel": {
         "team": "Suning-Gaming",
         "name": "Angel",
-        "role": "Top"
+        "role": "Mid"
     },
     "meteor": {
         "team": "Bilibili-Gaming",
@@ -3100,7 +3100,7 @@
         "role": "Support"
     },
     "duclou": {
-        "team": "CNB-e-Sports-Club",
+        "team": "",
         "name": "Duclou",
         "role": "Top"
     },
@@ -3115,7 +3115,7 @@
         "role": "Jungle"
     },
     "aslan": {
-        "team": "Flamengo-eSports",
+        "team": "",
         "name": "Aslan",
         "role": "Mid"
     },
@@ -3159,9 +3159,9 @@
         "name": "Wilder",
         "role": "Jungle"
     },
-    "ryoma": {
-        "team": "100-Thieves-Academy",
-        "name": "Ryoma",
+    "ry0ma": {
+        "team": "100-Thieves",
+        "name": "ry0ma",
         "role": "Mid"
     },
     "looch": {
@@ -3510,7 +3510,7 @@
         "role": "Jungle"
     },
     "reven": {
-        "team": "Flamengo-eSports",
+        "team": "",
         "name": "Reven",
         "role": "None"
     },
@@ -3885,7 +3885,7 @@
         "role": "Mid"
     },
     "prime": {
-        "team": "MAD-Lions-Madrid",
+        "team": "",
         "name": "Prime",
         "role": "Support"
     },
@@ -4545,7 +4545,7 @@
         "role": "ADC"
     },
     "hyoga": {
-        "team": "Santos-e-Sports",
+        "team": "",
         "name": "Hyoga",
         "role": "Jungle"
     },
@@ -4860,7 +4860,7 @@
         "role": "Jungle"
     },
     "woofe": {
-        "team": "Flamengo-eSports",
+        "team": "",
         "name": "WooFe",
         "role": "Top"
     },
@@ -5540,7 +5540,7 @@
         "role": "Jungle"
     },
     "griffon": {
-        "team": "",
+        "team": "CrowCrowd",
         "name": "Griffon",
         "role": "Mid"
     },
@@ -6105,7 +6105,7 @@
         "role": "Jungle"
     },
     "last": {
-        "team": "NASR-eSports-Turkey",
+        "team": "",
         "name": "LAST",
         "role": "Top"
     },
@@ -8148,5 +8148,15 @@
         "team": "CLG-Academy",
         "name": "Keel",
         "role": "Jungle"
+    },
+    "dudu": {
+        "team": "Hanwha-Life-Esports",
+        "name": "DuDu",
+        "role": "Top"
+    },
+    "valkyrie": {
+        "team": "Afreeca-Freecs-Academy",
+        "name": "Valkyrie",
+        "role": "ADC"
     }
 }

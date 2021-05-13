@@ -14,7 +14,12 @@ def main(name, show_only=False, server='euw1'):
     team_short = _load('short.json')
     role_map = _load('role_map.json')
 
-    summoner_names = idx_rn2sn[name]
+    try:
+        summoner_names = idx_rn2sn[name]
+    except KeyError:
+        print(f'\033[91m{name} not found, be ware to the case\033[0m')
+        exit(1)
+
     for sn in summoner_names:
         match = get_match(sn, server=server)
         if match is None:
@@ -40,6 +45,9 @@ def main(name, show_only=False, server='euw1'):
                 else:
                     info_str = f'{team} {realname} ({role}) - {champs[champ_id]}'.strip()
                 team_side[participant['teamId']].append(info_str)
+
+        for k in team_side:
+            team_side[k].sort()
 
         if show_only:
             _join = lambda x: ' & '.join(x)

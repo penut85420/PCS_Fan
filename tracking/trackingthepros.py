@@ -85,6 +85,7 @@ def get_spec_list(focus=[], important=[]):
                     group[gid]['players'][i] = ansi(32, name)
 
             players_str = ', '.join(sorted(group[gid]['players']))
+            _gid = ''
             f.write(f' {_gid} {group[gid]["online"]:3d}m {players_str}\n')
             players_str = players_str.lower()
 
@@ -95,7 +96,7 @@ def get_spec_list(focus=[], important=[]):
 def get_spec_cmd(gid):
     url = f'https://www.trackingthepros.com/s/spectate_info?id={gid}'
     r = requests.get(url)
-    return r.text[45:]
+    return r.text[45:] + ' "-Locale=zh_TW"'
 
 def get_game_id(name):
     _name = name.lower()

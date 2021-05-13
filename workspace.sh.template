@@ -1,0 +1,28 @@
+#!/bin/bash
+
+export WORKING_DIR="/PATH/TO/WORKING/DIR"
+
+tmux new-session -d -s PCS -n Tracking
+tmux send-keys "cd $WORKING_DIR; bash spec.sh" C-m
+
+tmux split-window -h
+tmux send-keys "watch -tc cat $WORKING_DIR/data/spec.txt" C-m
+
+tmux select-pane -t 0
+tmux split-window -v
+tmux send-keys "alias sss=\"bash $WORKING_DIR/set.sh\"" C-m
+
+tmux select-pane -t 0
+tmux split-window -h -p 50
+tmux send-keys "bash $WORKING_DIR/rank.sh" C-m
+
+tmux new-window -t PCS:1 -n CMD
+tmux send-keys "cmd.exe" C-m
+sleep 1
+tmux send-keys "cd_game" C-m
+
+tmux new-window -t PCS:2 -n Bot
+tmux send-keys "cd $WORKING_DIR; bash $WORKING_DIR/bot.sh" C-m
+
+tmux select-window -t PCS:0
+tmux attach-session -d

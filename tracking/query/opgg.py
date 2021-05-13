@@ -1,9 +1,15 @@
 import re
-import requests
 import datetime as dt
 from ..utils import get_txt
 
 def main():
+    # ShirakamiFubukii
+    # Icelandboy
+    # Full C0unter
+    # Iceland 18Y
+    # Iceland H2OMan
+    # Lucky Heroz
+
     game_names = [
         'ShirakamiFubukii',
         'Icelandboy',

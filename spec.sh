@@ -2,19 +2,21 @@
 
 clear
 
+# PSG
 export FOCUS="Hanabi,River,Maple,Doggo,Kaiwing,Kartis"
+# DK
 export IMPORTANT="Khan,Canyon,ShowMaker,Ghost,BeryL"
+# RNG
 export IMPORTANT="$IMPORTANT,xiaohu,Wei,Cryin,GALA,ming"
-export IMPORTANT="$IMPORTANT,Vulcan,PerkZ,Zven,Blader,Fudge"
+# C9
+export IMPORTANT="$IMPORTANT,Vulcan,PerkZ,Zven,Blaber,Fudge"
+# MAD
 export IMPORTANT="$IMPORTANT,Carzzy,Armut,Kaiser"
-export IMPORTANT="$IMPORTANT,Steal,Evi,Yutapon,Aria,Ceros,Kazu"
-export IMPORTANT="$IMPORTANT,brTT,Luci,Tinowns,Robo,Cariok"
+# PGG
+export IMPORTANT="$IMPORTANT,Chazz,Pabu,BioPanther,Decoy,Praedyth,DSN"
 
 while true; do
     /usr/bin/python3 -m tracking.query.spec \
         --focus $FOCUS --important $IMPORTANT
     sleep 60
 done
-
-# export FOCUS="Hanabi,River,Maple,Doggo,Kaiwing,Kartis"
-# export IMPORTANT="Khan,ShowMaker,Canyon,Ghost,BeryL,Marlang"
