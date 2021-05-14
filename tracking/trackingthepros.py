@@ -1,10 +1,8 @@
 import re
-import sys
 import shutil
-import requests
 import datetime as dt
 from collections import OrderedDict
-from .utils import dump, get_json
+from .utils import dump, get_json, get_txt
 
 def get_rnsn_idx():
     url = 'https://www.trackingthepros.com/d/list_players'
@@ -95,8 +93,8 @@ def get_spec_list(focus=[], important=[]):
 
 def get_spec_cmd(gid):
     url = f'https://www.trackingthepros.com/s/spectate_info?id={gid}'
-    r = requests.get(url)
-    return r.text[45:] + ' "-Locale=zh_TW"'
+    r = get_txt(url)
+    return r[45:] + ' "-Locale=zh_TW"'
 
 def get_game_id(name):
     _name = name.lower()

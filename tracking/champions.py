@@ -1,5 +1,4 @@
 import re
-import requests
 from .utils import dump, get_json, get_txt
 from collections import OrderedDict
 

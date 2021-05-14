@@ -1,6 +1,5 @@
 import argparse
 
-from requests.models import parse_url
 from ..trackingthepros import get_spec_list
 
 def main():

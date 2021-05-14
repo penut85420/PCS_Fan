@@ -3,7 +3,7 @@ import time
 import random
 import threading
 from tracking.riots import get_pros_match
-from tracking.utils import load, short_team_fn
+from tracking.utils import mk_match_info
 from twitchio.ext import commands
 from twitchio.ext.commands.errors import CommandNotFound
 
@@ -144,15 +144,7 @@ class PCS_Fan(commands.Bot):
                     self.wrap_bot(f'目前沒有 {name} 的積分對戰可以觀戰')
                 )
         else:
-            _join = lambda x: ' & '.join(x)
-            blue = _join(team_side[100]) if team_side[100] else ''
-            red = _join(team_side[200]) if team_side[200] else ''
-
-            if blue and red:
-                blue = f'[藍] {blue}'
-                red = f'[紅] {red}'
-
-            show_info = f'{blue} {red}'.strip()
+            show_info = mk_match_info(team_side)
             await ctx.send(
                 self.wrap_bot(f'目前 {name} 的對戰資訊如下：{show_info}')
             )
