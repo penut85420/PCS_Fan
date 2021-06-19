@@ -20,8 +20,12 @@ def main():
                 print(f'{match_id} Skipped!')
                 continue
 
-            print(f'\nWatching {match_id}')
             match = get_match_by_match_id(match_id)
+            game_dur = match['gameDuration']
+            game_dur_mins = game_dur // 60
+            game_dur_secs = game_dur % 60
+            time = f'{game_dur_mins:02d}:{game_dur_secs:02d}'
+            print(f'\nWatching {match_id} - Time: {time}')
             team_side = get_pros_match_team(match)
             print(mk_match_info(team_side))
             mk_players_html(team_side, file_name)
@@ -36,9 +40,15 @@ def main():
 
             replay_records[match_id] = team_side
             dump(replay_records, 'data/replay.json')
-            redo = input('Press enter for next, ^C for exit, input r for redo > ')
+            redo = input('[Enter] Next [^C] Exit [K] Keep [S] Skip > ').strip()
 
-            if redo.strip() == 'r':
+            if redo == 'k':
+                del replay_records[match_id]
+                print(f'Record of {match_id} deleted')
+                dump(replay_records, 'data/replay.json')
+                print('\nBye!')
+                exit(0)
+            elif redo == 's':
                 del replay_records[match_id]
                 print(f'Record of {match_id} deleted')
                 dump(replay_records, 'data/replay.json')

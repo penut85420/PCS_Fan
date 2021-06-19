@@ -38,24 +38,28 @@ def main():
 
     html = []
     for name, player in zip(game_names, player_id):
-        url = f'https://euw.op.gg/summoner/userName={name}'
-        txt = get_txt(url)
+        try:
+            url = f'https://euw.op.gg/summoner/userName={name}'
+            txt = get_txt(url)
 
-        m = re.search('<div class=\"TierRank\">([\w ]+)</div>', txt)
-        rank = m.group(1)
+            m = re.search('<div class=\"TierRank\">([\w ]+)</div>', txt)
+            rank = m.group(1)
 
-        m = re.search('<span class=\"LeaguePoints\">([\w\s]+)</span>', txt, re.M)
-        points = m.group(1).strip()
+            m = re.search('<span class=\"LeaguePoints\">([\w\s]+)</span>', txt, re.M)
+            points = m.group(1).strip()
 
-        row_html = (
-            f'<tr><td>{player}</td>'
-            f'<td>{rank}</td>'
-            f'<td style="text-align: right">{points}</td></tr>'
-        )
+            row_html = (
+                f'<tr><td>{player}</td>'
+                f'<td>{rank}</td>'
+                f'<td style="text-align: right">{points}</td></tr>'
+            )
 
-        for s in rank_trans:
-            row_html = row_html.replace(s, rank_trans[s])
-        html.append(row_html)
+            for s in rank_trans:
+                row_html = row_html.replace(s, rank_trans[s])
+            html.append(row_html)
+        except:
+            print(f'Error, {name}')
+            exit(1)
 
     splitter = '\n                    '
     template = open('data/rank.html.template', 'r', encoding='UTF-8').read()

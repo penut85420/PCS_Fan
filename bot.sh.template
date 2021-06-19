@@ -1,0 +1,9 @@
+#!/bin/bash
+
+export RIOT_API_KEY="$( cat api_key )"
+export TMI_TOKEN="YOUR_TMI_TOKEN"
+export CLIENT_ID="YOUR_CLIENT_ID"
+export TOKEN="YOUR_TOKEN"
+
+clear
+/path/to/python main.py

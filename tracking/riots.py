@@ -94,7 +94,7 @@ def get_pros_match_team(match):
                 team = short_team_fn(team)
             role = role_map.get(role, role)
 
-            info_str = f'{team} {realname} ({champs[champ_id]})'.strip()
+            info_str = f'{team} {realname} ({role}) - {champs[champ_id]}'.strip()
             team_side[participant['teamId']].append(info_str)
 
     team_side[100].sort()

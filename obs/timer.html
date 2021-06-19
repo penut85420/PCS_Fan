@@ -6,7 +6,7 @@
             body {
                 background-color: black;
             }
-            * {
+            table {
                 font-family: 'Noto Sans TC';
                 padding: 0;
                 width: 100%;
@@ -18,10 +18,27 @@
                 transform: translate(-50%, -50%);
                 text-align: center;
             }
+            .match {
+                font-family: Consolas, 'Noto Sans TC';
+            }
         </style>
     </head>
     <body>
-        <div id="time"></div>
+        <table>
+            <tr>
+                <td colspan="2" id="time"></td>
+            </tr>
+            <tr>
+                <td colspan="2">西歐伺服器</td>
+            </tr>
+            <!-- <tr>
+                <td rowspan="2">　今日賽程</td>
+                <td class="match">Match 2 - PGG vs PSG</td>
+            </tr>
+            <tr>
+                <td class="match">Match 4 - PSG vs C9&nbsp;</td>
+            </tr> -->
+        </table>
     </body>
     <script>
             function tolocal(n) {
@@ -38,10 +55,7 @@
                 h = tolocal(h);
                 m = tolocal(m);
                 s = tolocal(s);
-                document.getElementById("time").innerHTML = `冰島時間：${h}:${m}:${s} (GMT+0)<br>` +
-                    "西歐伺服器 選手出沒時間<br>" +
-                    "06:00~10:00 (GMT+8)<br>" +
-                    "18:00~22:00 (GMT+8)";
+                document.getElementById("time").innerHTML = `冰島時間：${h}:${m}:${s} (GMT+0)`;
             }
             setInterval(foo, 200);
     </script>

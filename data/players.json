@@ -1650,7 +1650,7 @@
         "role": "Mid"
     },
     "tore": {
-        "team": "exceL-Esports",
+        "team": "",
         "name": "Tore",
         "role": "Support"
     },
@@ -2795,7 +2795,7 @@
         "role": "Top"
     },
     "czekolad": {
-        "team": "exceL-Esports",
+        "team": "",
         "name": "Czekolad",
         "role": "Mid"
     },
@@ -7910,7 +7910,7 @@
         "role": "Support"
     },
     "adam": {
-        "team": "Karmine-Corp",
+        "team": "",
         "name": "Adam",
         "role": "Top"
     },
@@ -8158,5 +8158,15 @@
         "team": "Afreeca-Freecs-Academy",
         "name": "Valkyrie",
         "role": "ADC"
+    },
+    "lamabear": {
+        "team": "EURONICS-Gaming",
+        "name": "Lamabear",
+        "role": "Jungle"
+    },
+    "gamsu": {
+        "team": "100-Thieves-Next",
+        "name": "Gamsu",
+        "role": "Top"
     }
 }

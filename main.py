@@ -19,6 +19,7 @@ class PCS_Fan(commands.Bot):
         self.reset_poll()
         self.poll_name = ''
         self.match_enable = True
+        self.like_enable = True
 
     def reset_poll(self):
         self.poll = {
@@ -138,7 +139,7 @@ class PCS_Fan(commands.Bot):
 
         if not status:
             if code == 1:
-                await ctx.send(self.wrap_bot(f'找不到 {org_name} 這個選手'))
+                await ctx.send(self.wrap_bot(f'找不到 {org_name} 選手'))
             elif code == 2:
                 await ctx.send(
                     self.wrap_bot(f'目前沒有 {name} 的積分對戰可以觀戰')
@@ -151,6 +152,18 @@ class PCS_Fan(commands.Bot):
 
     @commands.command(name='like')
     async def cmd_like(self, ctx):
+        if not self.like_enable:
+            return
+
+        self.like_enable = False
+
+        def tmp_disable():
+            time.sleep(30)
+            self.like_enable = True
+
+        t_disable = threading.Thread(target=tmp_disable)
+        t_disable.start()
+
         _, *name = ctx.message.content.split(' ')
         name = ' '.join(name)
         if len(name) > 20:
@@ -180,6 +193,12 @@ class PCS_Fan(commands.Bot):
                 f'其中 @{user} 是 {self.poll_name} 的頭號黑粉 BibleThump'
             )
         await ctx.send(msg)
+
+    @commands.command(name='ban')
+    async def cmd_ban(self, ctx):
+        _, *name = ctx.message.content.split(' ')
+        name = ' '.join(name)
+        await ctx.send(self.wrap_bot(f'{name} 已被管理員 relaxing234 永久禁言'))
 
 if __name__ == '__main__':
     PCS_Fan().run()
